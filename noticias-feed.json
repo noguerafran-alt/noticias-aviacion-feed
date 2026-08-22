@@ -1,36 +1,25 @@
 {
   "briefing": {
-    "title": "Crisis Jet Fuel Impacta Aerolíneas Argentinas",
-    "summary": "Resumen de la automatización NOTICIAS AVIACION (corrida del 21 ago 2026). El foco es aviación comercial en Argentina y el negocio de JET A-1 / AVGAS — sin promociones ni descuentos. En Aviacionline, la nota de mayor peso para el combustible es el recargo por Jet Fuel de Aerolíneas Argentinas (7.500 ARS en cabotaje y USD 10–50 en internacional), heredado de la crisis de precios del Golfo. Sir Chandler no publicó cobertura reciente de venta o abastecimiento de JET/AVGAS; su archivo de marzo documenta los mismos copagos. En paralelo, las Alertas de Google marcan un mercado local en reacomodo: colapso operativo de Flybondi, Andes ganando share, Joy Airline abriendo Jujuy–Córdoba–Buenos Aires, ANAC abaratando el ingreso de extranjeras, y Brasil adelantándose en SAF mientras Argentina queda rezagada. Para YPF Aviación el combo es claro: menos vuelos de low-cost, más recargos por Jet Fuel, y nuevas rutas regionales que mueven demanda de JET A-1 en el interior.",
-    "generatedAt": "2026-08-21T15:53:15.000Z",
+    "title": "Mercado doméstico se reacomoda: menos Flybondi, más Avianca y JetSMART impulsan demanda de JET A-1",
+    "summary": "Briefing automatizado del 22 de agosto de 2026. En los últimos 7 días no hubo nuevas notas específicas de precios, recargos o volúmenes de JET A-1 / AVGAS / SAF en Aviacionline ni en Sir Chandler (este último sin cobertura reciente de abastecimiento). El foco del mercado comercial argentino sigue en la redistribución de capacidad: el colapso operativo de Flybondi reduce offtake en bases low-cost, mientras Avianca creció 25% en pasajeros en el primer semestre (más de 387.000 pax y >40 frecuencias semanales a EZE/AEP/COR), Aerolíneas Argentinas y JetSMART marcan récords de julio y Corporación América espera que la oferta vacante sea absorbida en meses. El cierre de Aeroparque del 25 al 27 de agosto traslada ~900 vuelos a Ezeiza (+80% movimientos), concentrando temporalmente el abastecimiento de combustible en la terminal internacional. Para YPF Aviación el balance es mixto pero neto positivo en demanda estructural: menos low-cost concentrada, más operadores regionales e internacionales y shift de rampa hacia Ezeiza. Brasil avanza en SAF y Argentina permanece rezagada.",
+    "generatedAt": "2026-08-22T15:00:00.000Z",
     "source": "automation"
   },
   "noticias": [
     {
-      "title": "Crisis en Medio Oriente: Aerolíneas Argentinas aplica recargos por combustible",
-      "summary": "Recargo de 7.500 pesos por tramo en cabotaje y entre 10 y 50 dólares en internacional, regional y largo radio. El Jet A-1 representa 30–40% del costo operativo; el alza del Brent y del crack spread presiona márgenes. Es la noticia de combustible más directa para el negocio de aviación comercial en Argentina.",
+      "title": "Crecimiento de Avianca en Argentina alcanza el 25% en la primera mitad del año",
+      "summary": "Avianca transportó más de 387.000 pasajeros desde y hacia Argentina en el 1S 2026, con más de 40 frecuencias semanales a Ezeiza, Aeroparque y Córdoba. El incremento de operaciones eleva el offtake de JET A-1 en las tres bases y consolida la demanda regional vía hub de Bogotá. Impacto directo en volúmenes de combustible para el segmento internacional y cabotaje conectado.",
       "source": "Aviacionline",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/crisis-en-medio-oriente-aerolineas-argentinas-aplica-recargos-por-combustible-en-sus-pasajes_a69b1c39c2a95660dd254ba62",
-      "publishedAt": "2026-03-11",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "combustible",
-      "fuelTag": "jet",
-      "relevance": "alta"
-    },
-    {
-      "title": "La era de los copagos llegó a las aerolíneas por el aumento del combustible",
-      "summary": "Sir Chandler confirma el mismo esquema de recargos de Aerolíneas: $7.500 en cabotaje y USD 10–50 en internacionales. No hay notas recientes sobre venta o abastecimiento de JET/AVGAS; el archivo de marzo sigue siendo la referencia del sitio sobre el lado combustible.",
-      "source": "Sir Chandler",
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/03/la-era-de-los-copagos-llego-a-las-aerolineas-por-el-aumento-del-combustible/",
-      "publishedAt": "2026-03-11",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "combustible",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/crecimiento-de-avianca-en-argentina-alcanza-el-25-en-la-primera-mitad-del-ano_a6a88435148f452581e47ea5a",
+      "publishedAt": "2026-08-21",
+      "airline": "Avianca",
+      "segment": "mercado",
       "fuelTag": "jet",
       "relevance": "alta"
     },
     {
       "title": "Radiografía del colapso de Flybondi: flota paralizada y deudas millonarias",
-      "summary": "La low-cost opera con flota mínima, sitio caído y deudas con proveedores. Menos frecuencias de Boeing 737 implica menos offtake de JET A-1 en Ezeiza, Aeroparque y destinos de cabotaje. Impacto directo sobre volúmenes de combustible, no sobre tarifas promocionales.",
+      "summary": "La low-cost opera con flota mínima, sitio caído y deudas con proveedores. Menos frecuencias de Boeing 737 implica menos offtake de JET A-1 en Ezeiza, Aeroparque y destinos de cabotaje. Impacto directo sobre volúmenes de combustible.",
       "source": "Aviación al Día",
       "sourceUrl": "https://aviacionaldia.com/2026/08/radiografia-del-colapso-de-flybondi-paralisis-de-flota-sitio-web-fuera-de-servicio-y-deudas-millonarias.html",
       "publishedAt": "2026-08-21",
@@ -40,8 +29,52 @@
       "relevance": "alta"
     },
     {
+      "title": "Argentina busca frenar en Estados Unidos el pago de 390 millones de dólares por Aerolíneas",
+      "summary": "El Estado intenta evitar embargos en EE. UU. tras el laudo del CIADI por Titan Consortium. Riesgo reputacional y de flota para el operador de mayor consumo de JET A-1 del país.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-busca-frenar-en-estados-unidos-el-pago-de-390-millones-de-dolares-por-aerolineas-argentinas_a6a8721f7b6c2ebc45b94697e",
+      "publishedAt": "2026-08-21",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media"
+    },
+    {
+      "title": "Aviación comercial argentina recibe autorización para cruzar el espacio aéreo venezolano",
+      "summary": "Un A330-243 argentino obtuvo permiso para atravesar Venezuela. Reabre geometría de rutas al Caribe y al norte, con impacto en consumo de JET A-1 en tramos de largo radio que antes se desviaban.",
+      "source": "Informe Aéreo",
+      "sourceUrl": "https://informeaereo.com/venezuela/aviacion-comercial-argentina-recibe-autorizacion-para-cruzar-el-espacio-aereo-venezolano/",
+      "publishedAt": "2026-08-21",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media"
+    },
+    {
+      "title": "Aeroparque cerrará del 25 al 27 de agosto por mantenimiento de pista",
+      "summary": "Cierre de 55 horas traslada ~900 vuelos a Ezeiza, que absorberá un 80% más de movimientos (hasta 940 diarios). Concentra temporalmente el abastecimiento de JET A-1 en la terminal internacional y genera picos de demanda de rampa en EZE mientras AEP queda fuera de servicio.",
+      "source": "Aviación News",
+      "sourceUrl": "https://www.aviacionnews.com/2026/08/cierre-aeroparque/",
+      "publishedAt": "2026-08-21",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Corporación América confía en que la oferta de Flybondi sea reemplazada en pocos meses",
+      "summary": "El tráfico doméstico argentino cayó 12% en el trimestre por la reducción de flota de Flybondi. Aerolíneas Argentinas y JetSMART marcaron su segundo mejor mes histórico en julio. Menos asientos low-cost hoy, pero expectativa de recuperación de capacidad que sostendrá volúmenes de JET A-1 a mediano plazo. Costos operativos del holding también subieron por precios de combustible.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/corporacion-america-airports-confia-en-que-la-oferta-de-flybondi-sea-reemplazada-en-pocos-meses_a6a84e253cd0dd95971c90054",
+      "publishedAt": "2026-08-18",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
       "title": "Con Flybondi agonizando, Andes la superó en market share por primera vez en 8 años",
-      "summary": "Andes desplaza a Flybondi en participación de cabotaje. El tráfico se redistribuye hacia un operador más chico, con otra red y otra curva de consumo de JET A-1 — menos concentración en bases de bajo costo y más peso relativo en rutas regionales.",
+      "summary": "Andes desplaza a Flybondi en participación de cabotaje en julio. El tráfico se redistribuye hacia un operador más chico, con otra red y otra curva de consumo de JET A-1 — menos concentración en bases de bajo costo y más peso relativo en rutas regionales.",
       "source": "Aviacionline",
       "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/con-flybondi-agonizando-andes-la-supero-en-market-share-por-primera-vez-en-8-anos_a6a7f444ca2a97ba00dfc4afd",
       "publishedAt": "2026-08-15",
@@ -63,13 +96,24 @@
     },
     {
       "title": "Joy Airline empezaría a volar desde Jujuy a Córdoba y Buenos Aires en septiembre",
-      "summary": "Nueva regional con CRJ-200: JUJ–COR y JUJ–BUE. Añade demanda de JET A-1 en Gobernador Guzmán y en las bases de Córdoba y Buenos Aires. Es entrada neta de un cliente de combustible, no una promo de pasajes.",
+      "summary": "Nueva regional con CRJ-200: JUJ–COR y JUJ–BUE. Añade demanda de JET A-1 en Gobernador Guzmán y en las bases de Córdoba y Buenos Aires. Es entrada neta de un cliente de combustible.",
       "source": "Aviacionline",
       "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/joy-airline-empezaria-a-volar-desde-jujuy-a-cordoba-y-buenos-aires-en-septiembre_a6a7db1e86017ed071ad14469",
       "publishedAt": "2026-08-14",
       "airline": "Joy Airline",
       "segment": "rutas",
       "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Brasil acelera los biocombustibles para aviación y Argentina queda rezagada",
+      "summary": "Lula reglamentó el programa nacional de SAF con metas obligatorias desde 2027. Argentina no produce SAF a escala; la brecha regional se agranda y presiona a YPF Aviación sobre el calendario de combustible sostenible.",
+      "source": "Agritotal",
+      "sourceUrl": "https://www.agritotal.com/nota/brasil-acelera-los-biocombustibles-para-aviacion-y-barcos-y-argentina-queda-rezagada-3410/",
+      "publishedAt": "2026-08-14",
+      "airline": "—",
+      "segment": "combustible",
+      "fuelTag": "saf",
       "relevance": "alta"
     },
     {
@@ -90,50 +134,6 @@
       "sourceUrl": "https://aviationclubcenter.com/es/2026/08/10/latam-suma-vuelos-entre-sao-paulo-y-mendoza/",
       "publishedAt": "2026-08-10",
       "airline": "LATAM",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media"
-    },
-    {
-      "title": "Aviación comercial argentina recibe autorización para cruzar el espacio aéreo venezolano",
-      "summary": "Un A330-243 argentino obtuvo permiso para atravesar Venezuela. Reabre geometría de rutas al Caribe y al norte, con impacto en consumo de JET A-1 en tramos de largo radio que antes se desviaban.",
-      "source": "Informe Aéreo",
-      "sourceUrl": "https://informeaereo.com/venezuela/aviacion-comercial-argentina-recibe-autorizacion-para-cruzar-el-espacio-aereo-venezolano/",
-      "publishedAt": "2026-08-21",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media"
-    },
-    {
-      "title": "Argentina busca frenar en Estados Unidos el pago de 390 millones de dólares por Aerolíneas",
-      "summary": "El Estado intenta evitar embargos en EE. UU. tras el laudo del CIADI por Titan Consortium. Riesgo reputacional y de flota para el operador de mayor consumo de JET A-1 del país.",
-      "source": "Aviacionline",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-busca-frenar-en-estados-unidos-el-pago-de-390-millones-de-dolares-por-aerolineas-argentinas_a6a8721f7b6c2ebc45b94697e",
-      "publishedAt": "2026-08-21",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "mercado",
-      "fuelTag": "ninguno",
-      "relevance": "media"
-    },
-    {
-      "title": "Brasil acelera los biocombustibles para aviación y Argentina queda rezagada",
-      "summary": "Lula reglamentó el programa nacional de SAF con metas obligatorias desde 2027. Argentina no produce SAF a escala; la brecha regional se agranda y presiona a YPF Aviación sobre el calendario de combustible sostenible.",
-      "source": "Agritotal",
-      "sourceUrl": "https://www.agritotal.com/nota/brasil-acelera-los-biocombustibles-para-aviacion-y-barcos-y-argentina-queda-rezagada-3410/",
-      "publishedAt": "2026-08-14",
-      "airline": "—",
-      "segment": "combustible",
-      "fuelTag": "saf",
-      "relevance": "alta"
-    },
-    {
-      "title": "Autorizan vuelos Buenos Aires / Ezeiza – Medellín de JetSMART",
-      "summary": "Nueva operación internacional de la low-cost. Suma un cliente de JET A-1 en Ezeiza sobre una ruta andina de alto factor de ocupación, sin tratarse de una campaña de precios.",
-      "source": "Aviacionline",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina",
-      "publishedAt": "2026-08-05",
-      "airline": "JetSMART",
       "segment": "rutas",
       "fuelTag": "jet",
       "relevance": "media"
