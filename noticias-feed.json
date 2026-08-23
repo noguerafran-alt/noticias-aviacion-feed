@@ -137,6 +137,39 @@
       "segment": "rutas",
       "fuelTag": "jet",
       "relevance": "media"
+    },
+    {
+      "title": "Autorizan vuelos Buenos Aires / Ezeiza – Medellín de JetSMART",
+      "summary": "Nueva operación internacional de la low-cost. Suma un cliente de JET A-1 en Ezeiza sobre una ruta andina de alto factor de ocupación, sin tratarse de una campaña de precios.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina",
+      "publishedAt": "2026-08-05",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media"
+    },
+    {
+      "title": "Crisis en Medio Oriente: Aerolíneas Argentinas aplica recargos por combustible",
+      "summary": "Recargo de 7.500 pesos por tramo en cabotaje y entre 10 y 50 dólares en internacional, regional y largo radio. El Jet A-1 representa 30–40% del costo operativo; el alza del Brent y del crack spread presiona márgenes. Es la noticia de combustible más directa para el negocio de aviación comercial en Argentina.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/crisis-en-medio-oriente-aerolineas-argentinas-aplica-recargos-por-combustible-en-sus-pasajes_a69b1c39c2a95660dd254ba62",
+      "publishedAt": "2026-03-11",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "combustible",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "La era de los copagos llegó a las aerolíneas por el aumento del combustible",
+      "summary": "Sir Chandler confirma el mismo esquema de recargos de Aerolíneas: $7.500 en cabotaje y USD 10–50 en internacionales. No hay notas recientes sobre venta o abastecimiento de JET/AVGAS; el archivo de marzo sigue siendo la referencia del sitio sobre el lado combustible.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/03/la-era-de-los-copagos-llego-a-las-aerolineas-por-el-aumento-del-combustible/",
+      "publishedAt": "2026-03-11",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "combustible",
+      "fuelTag": "jet",
+      "relevance": "alta"
     }
   ]
 }
