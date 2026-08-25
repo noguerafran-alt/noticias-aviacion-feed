@@ -1,11 +1,33 @@
 {
   "briefing": {
-    "title": "Mercado doméstico se reacomoda: menos Flybondi, más Avianca y JetSMART impulsan demanda de JET A-1",
-    "summary": "Briefing automatizado del 22 de agosto de 2026. En los últimos 7 días no hubo nuevas notas específicas de precios, recargos o volúmenes de JET A-1 / AVGAS / SAF en Aviacionline ni en Sir Chandler (este último sin cobertura reciente de abastecimiento). El foco del mercado comercial argentino sigue en la redistribución de capacidad: el colapso operativo de Flybondi reduce offtake en bases low-cost, mientras Avianca creció 25% en pasajeros en el primer semestre (más de 387.000 pax y >40 frecuencias semanales a EZE/AEP/COR), Aerolíneas Argentinas y JetSMART marcan récords de julio y Corporación América espera que la oferta vacante sea absorbida en meses. El cierre de Aeroparque del 25 al 27 de agosto traslada ~900 vuelos a Ezeiza (+80% movimientos), concentrando temporalmente el abastecimiento de combustible en la terminal internacional. Para YPF Aviación el balance es mixto pero neto positivo en demanda estructural: menos low-cost concentrada, más operadores regionales e internacionales y shift de rampa hacia Ezeiza. Brasil avanza en SAF y Argentina permanece rezagada.",
-    "generatedAt": "2026-08-22T15:00:00.000Z",
+    "title": "Flybondi intenta reinicio parcial y Aeroparque concentra demanda de JET A-1 en Ezeiza",
+    "summary": "Briefing automatizado del 25 de agosto de 2026 (disparado por Google Alert). En los últimos 7 días no aparecieron notas nuevas sobre precios, recargos, volúmenes de venta o abastecimiento de JET A-1 / AVGAS / SAF en Aviacionline ni en Sir Chandler. El foco comercial sigue en la redistribución de capacidad: Flybondi reactivó su sitio web el 22 de agosto y empezó a vender un esquema reducido de rutas domésticas con primer vuelo programado para el 10 de septiembre (AEP–MDZ/BRC/IGR y luego COR), aunque persisten embargos de ARCA, disputa societaria entre COC Global y Cartesian Capital Group y más de dos semanas sin operaciones. Mientras tanto, Aeroparque cerró efectivamente del 25 al 27 de agosto por mantenimiento de pista y traslada ~900 vuelos a Ezeiza (+80 % de movimientos, hasta ~940 diarios), concentrando temporalmente el offtake de combustible en la terminal internacional. Los pasajeros internacionales crecieron 5,4 % interanual en julio (LATAM, JetSMART y Copa lideran; Aerolíneas y Flybondi caen). Para YPF Aviación el balance de corto plazo es un pico de demanda concentrada en EZE y una posible recuperación parcial de volúmenes low-cost si Flybondi logra volar en septiembre; a mediano plazo la demanda estructural se sostiene por el crecimiento internacional y la absorción de asientos por otros operadores.",
+    "generatedAt": "2026-08-25T15:00:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Después de una semana, el sitio de Flybondi vuelve a estar activo y vende pasajes",
+      "summary": "La low-cost reactivó su plataforma el 22 de agosto y comercializa un esquema reducido de rutas domésticas con primer vuelo previsto para el 10 de septiembre (AEP–Mendoza, Bariloche e Iguazú; luego COR–Neuquén/Salta/Bariloche). Si concreta el reinicio, recupera offtake de JET A-1 en bases de cabotaje que estaban en cero desde el 6 de agosto. Sigue condicionada por embargos de ARCA y la disputa societaria.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/despues-de-una-semana-el-sitio-de-flybondi-vuelve-a-estar-activo-y-vende-pasajes_a6a8a50a549e2a0881bce6355",
+      "publishedAt": "2026-08-22",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Aeroparque cierra del 25 al 27 de agosto por mantenimiento de pista",
+      "summary": "Cierre efectivo de más de 55 horas traslada la totalidad de operaciones de cabotaje y regionales a Ezeiza, que absorbe hasta ~940 movimientos diarios (+80 %). Concentra temporalmente el abastecimiento de JET A-1 en la terminal internacional y genera pico de demanda de rampa en EZE mientras AEP queda fuera de servicio.",
+      "source": "Aviación News / medios",
+      "sourceUrl": "https://www.aviacionnews.com/2026/08/cierre-aeroparque/",
+      "publishedAt": "2026-08-21",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
     {
       "title": "Crecimiento de Avianca en Argentina alcanza el 25% en la primera mitad del año",
       "summary": "Avianca transportó más de 387.000 pasajeros desde y hacia Argentina en el 1S 2026, con más de 40 frecuencias semanales a Ezeiza, Aeroparque y Córdoba. El incremento de operaciones eleva el offtake de JET A-1 en las tres bases y consolida la demanda regional vía hub de Bogotá. Impacto directo en volúmenes de combustible para el segmento internacional y cabotaje conectado.",
@@ -51,12 +73,12 @@
       "relevance": "media"
     },
     {
-      "title": "Aeroparque cerrará del 25 al 27 de agosto por mantenimiento de pista",
-      "summary": "Cierre de 55 horas traslada ~900 vuelos a Ezeiza, que absorberá un 80% más de movimientos (hasta 940 diarios). Concentra temporalmente el abastecimiento de JET A-1 en la terminal internacional y genera picos de demanda de rampa en EZE mientras AEP queda fuera de servicio.",
-      "source": "Aviación News",
-      "sourceUrl": "https://www.aviacionnews.com/2026/08/cierre-aeroparque/",
-      "publishedAt": "2026-08-21",
-      "airline": "—",
+      "title": "Ante la parálisis operativa de Flybondi, COC intima a Cartesian Capital Group",
+      "summary": "COC Global (principal aportante) intimó a Cartesian a regularizar la situación corporativa y operativa mientras se preparan demandas. Embargos de ARCA inmovilizan fondos y bloquean pagos. La disputa determina si hay reinicio de flota y, por tanto, recuperación de volúmenes de JET A-1 en bases low-cost.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/ante-la-paralisis-operativa-de-flybondi-coc-intima-a-cartesian-capital-group_a6a848301cd0dd95971b22eb1",
+      "publishedAt": "2026-08-18",
+      "airline": "Flybondi",
       "segment": "mercado",
       "fuelTag": "jet",
       "relevance": "alta"
@@ -68,6 +90,17 @@
       "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/corporacion-america-airports-confia-en-que-la-oferta-de-flybondi-sea-reemplazada-en-pocos-meses_a6a84e253cd0dd95971c90054",
       "publishedAt": "2026-08-18",
       "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Los pasajeros internacionales crecieron un 5% en julio",
+      "summary": "1,46 millones de pax internacionales (+5,4 % interanual). LATAM, JetSMART y Copa lideran el crecimiento; Aerolíneas Argentinas y Flybondi caen. El acumulado enero-julio sube 12 %. Más tráfico internacional sostiene offtake de JET A-1 en Ezeiza y bases de conexión.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/08/los-pasajeros-internacionales-crecieron-un-5-en-julio/",
+      "publishedAt": "2026-08-17",
+      "airline": "—",
       "segment": "mercado",
       "fuelTag": "jet",
       "relevance": "alta"
