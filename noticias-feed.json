@@ -1,11 +1,77 @@
 {
   "briefing": {
-    "title": "Flybondi intenta reinicio parcial y Aeroparque concentra demanda de JET A-1 en Ezeiza",
-    "summary": "Briefing automatizado del 25 de agosto de 2026 (disparado por Google Alert). En los últimos 7 días no aparecieron notas nuevas sobre precios, recargos, volúmenes de venta o abastecimiento de JET A-1 / AVGAS / SAF en Aviacionline ni en Sir Chandler. El foco comercial sigue en la redistribución de capacidad: Flybondi reactivó su sitio web el 22 de agosto y empezó a vender un esquema reducido de rutas domésticas con primer vuelo programado para el 10 de septiembre (AEP–MDZ/BRC/IGR y luego COR), aunque persisten embargos de ARCA, disputa societaria entre COC Global y Cartesian Capital Group y más de dos semanas sin operaciones. Mientras tanto, Aeroparque cerró efectivamente del 25 al 27 de agosto por mantenimiento de pista y traslada ~900 vuelos a Ezeiza (+80 % de movimientos, hasta ~940 diarios), concentrando temporalmente el offtake de combustible en la terminal internacional. Los pasajeros internacionales crecieron 5,4 % interanual en julio (LATAM, JetSMART y Copa lideran; Aerolíneas y Flybondi caen). Para YPF Aviación el balance de corto plazo es un pico de demanda concentrada en EZE y una posible recuperación parcial de volúmenes low-cost si Flybondi logra volar en septiembre; a mediano plazo la demanda estructural se sostiene por el crecimiento internacional y la absorción de asientos por otros operadores.",
-    "generatedAt": "2026-08-25T15:00:00.000Z",
+    "title": "Flybondi pasa a OCA Air y China Eastern duplica Ezeiza: el JET A-1 se reacomoda",
+    "summary": "Briefing del 2 de septiembre de 2026. En los últimos 7 días el hecho estructural es el traspaso de Flybondi a la marca OCA Air (rampa y OCC ya firmaron de FB Líneas Aéreas a OC Support S.A.): la low-cost debe volver a volar antes del 20 de septiembre para no perder el certificado, con una flota recortada a tres 737. Eso deja el offtake de cabotaje low-cost muy por debajo del esquema de julio. En paralelo, China Eastern duplica EZE–Auckland–Shanghai (777-300, 2 a 4 frecuencias desde diciembre), Aerolíneas suma Cartagena, Curazao y el puente NOA–Florianópolis para el verano, y JetSMART agrega Porto Seguro. San Rafael inauguró terminal para 737. No hubo notas nuevas de precios o recargos de JET A-1 / AVGAS / SAF. Para YPF Aviación: menos volumen low-cost en el corto plazo, más widebody e internacional en EZE a fin de año, y algo de demanda estacional en el interior.",
+    "generatedAt": "2026-09-02T12:40:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Nueva terminal del Aeropuerto de San Rafael",
+      "summary": "Inaugurada el 31 de agosto: 1.790 m² extra, hall y embarque para procesar a la vez un arribo y una partida de 737. El tráfico 2025 fue 51.111 pax (+3 % en 1S 2026). Facilita vuelos de Aerolíneas con aviones más grandes y un offtake de JET A-1 más estable en Mendoza sur.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/nueva-terminal-del-aeropuerto-de-san-rafael-asi-quedo/",
+      "publishedAt": "2026-09-01",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media"
+    },
+    {
+      "title": "Arrancó el traspaso de empleados de Flybondi a la nueva sociedad de la marca OCA",
+      "summary": "FB Líneas Aéreas empezó a pasar rampa y el OCC a OC Support S.A. para operar como OCA Air. Conservaría tres 737 (LV-KJD/KJE/KJF) y devolvería el resto; evalúa A220 a futuro. Tiene que volver a volar antes del 20 de septiembre para no perder el certificado. Cada avión que vuelva a la línea recupera offtake de JET A-1 en AEP/EZE y cabotaje; la flota reducida deja el volumen muy por debajo del esquema original.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/english/commercial-aviation/latin-america-and-caribbean/argentina/flybondi-begins-transferring-employees-to-new-company-behind-oca-brand_a6a962140a6fdb63e6917d4d5",
+      "publishedAt": "2026-08-31",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "China Eastern duplica sus vuelos desde Ezeiza",
+      "summary": "Pasa de 2 a 4 frecuencias semanales EZE–Auckland–Shanghai desde el 5 de diciembre, con Boeing 777-300. Más widebody en Ezeiza duplica el offtake de JET A-1 de ese vuelo en rampa internacional y suma competencia de largo radio (carga + pasajeros) sobre el corredor Pacífico.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/08/china-eastern-duplica-sus-vuelos-desde-ezeiza/",
+      "publishedAt": "2026-08-31",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "JetSMART suma Porto Seguro para el verano",
+      "summary": "La low-cost agrega el destino brasileño. Los tramos desde Argentina despachan JET A-1 en Ezeiza/Aeroparque u otra base de cabotaje conectada. Es crecimiento internacional de un operador que ya venía ganando share mientras Flybondi se reestructura.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/08/jetsmart-sigue-sumando-en-brasil-destinos-porto-seguro/",
+      "publishedAt": "2026-08-27",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media"
+    },
+    {
+      "title": "El verano de Aerolíneas Argentinas llega con Cartagena y Curazao",
+      "summary": "La de bandera suma dos destinos caribeños para la temporada. Cada frecuencia nueva de largo/medio radio es offtake extra de JET A-1 en Ezeiza y alarga el sector internacional, el que más creció en julio. Compensa en parte la menor demanda low-cost de cabotaje.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/08/aerolineas-argentinas-volara-a-curazao-y-cartagena/",
+      "publishedAt": "2026-08-26",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Aerolíneas Argentinas vuelve a unir Florianópolis con Salta y Tucumán",
+      "summary": "Reabre el puente NOA–Brasil para el verano. Suma tramos que cargan JET A-1 en Salta, Tucumán y Ezeiza/AEP según la tripulación, y mueve demanda estacional que no pasa por el hub de Flybondi. Es capacidad neta en bases del interior.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/latinoamerica-y-el-caribe/aviacion-comercial/espanol/argentina_c68cdfd45a0ea712e1fb00676",
+      "publishedAt": "2026-08-26",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
     {
       "title": "Después de una semana, el sitio de Flybondi vuelve a estar activo y vende pasajes",
       "summary": "La low-cost reactivó su plataforma el 22 de agosto y comercializa un esquema reducido de rutas domésticas con primer vuelo previsto para el 10 de septiembre (AEP–Mendoza, Bariloche e Iguazú; luego COR–Neuquén/Salta/Bariloche). Si concreta el reinicio, recupera offtake de JET A-1 en bases de cabotaje que estaban en cero desde el 6 de agosto. Sigue condicionada por embargos de ARCA y la disputa societaria.",
