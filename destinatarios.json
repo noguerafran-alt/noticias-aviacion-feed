@@ -1,5 +1,9 @@
 {
   "to": ["noguerafran@gmail.com"],
-  "bcc": [],
-  "nota": "El mail sale a las 8:00 AR desde noguerafran@gmail.com. Poné los Gmail de la lista en bcc (van en copia oculta). El de to recibe el correo visible."
+  "bcc": [
+    "josepedeflous1997@gmail.com",
+    "mariaemilia.leone@gmail.com",
+    "marianjavfz@gmail.com"
+  ],
+  "nota": "Sale a las 8:00 AR desde noguerafran@gmail.com. to ve el correo; bcc va en copia oculta."
 }
