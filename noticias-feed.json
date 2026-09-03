@@ -1,11 +1,55 @@
 {
   "briefing": {
-    "title": "Flybondi pasa a OCA Air y China Eastern duplica Ezeiza: el JET A-1 se reacomoda",
-    "summary": "Briefing del 2 de septiembre de 2026. En los últimos 7 días el hecho estructural es el traspaso de Flybondi a la marca OCA Air (rampa y OCC ya firmaron de FB Líneas Aéreas a OC Support S.A.): la low-cost debe volver a volar antes del 20 de septiembre para no perder el certificado, con una flota recortada a tres 737. Eso deja el offtake de cabotaje low-cost muy por debajo del esquema de julio. En paralelo, China Eastern duplica EZE–Auckland–Shanghai (777-300, 2 a 4 frecuencias desde diciembre), Aerolíneas suma Cartagena, Curazao y el puente NOA–Florianópolis para el verano, y JetSMART agrega Porto Seguro. San Rafael inauguró terminal para 737. No hubo notas nuevas de precios o recargos de JET A-1 / AVGAS / SAF. Para YPF Aviación: menos volumen low-cost en el corto plazo, más widebody e internacional en EZE a fin de año, y algo de demanda estacional en el interior.",
-    "generatedAt": "2026-09-02T12:40:00.000Z",
+    "title": "Paro ATE en ANAC y OCA Air acelera: el JET A-1 bajo presión operativa",
+    "summary": "Briefing del 3 de septiembre de 2026. En las últimas 48 h el foco operativo es el paro de 48 horas de ATE en ANAC (jueves 3 y viernes 4, franjas 09-12 y 18-21) con prestación mínima del 75 % por declaración de esencialidad: riesgo de demoras y reprogramaciones puntuales que concentran demanda de rampa y pueden alterar el despacho diario de JET A-1 en AEP/EZE. En paralelo, Flybondi avanza el traspaso de rampa a OCA Support (+200 trabajadores) y apunta a que OCA Air inicie operaciones en noviembre; debe volar antes del 20/9 para conservar el CESA, con flota reducida a tres 737. China Eastern confirma la duplicación EZE–Auckland–Shanghai (de 2 a 4 frecuencias desde diciembre) con sólido tráfico y carga. San Rafael ya opera la nueva terminal para 737. No hay notas nuevas de precios, recargos ni volúmenes de JET A-1/AVGAS/SAF. Para YPF Aviación: volatilidad corta por el paro, menor offtake low-cost hasta que OCA/Flybondi estabilice, y crecimiento de widebody internacional en EZE a fin de año.",
+    "generatedAt": "2026-09-03T08:11:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Paro de 48 horas de ATE en ANAC afecta franjas horarias",
+      "summary": "ATE convoca paro el 3 y 4 de septiembre en ANAC (09-12 y 18-21 hs) por salarios y paritarias. ANAC exige prestación mínima del 75 % por esencialidad. Riesgo de demoras/reprogramaciones que concentra demanda de rampa y puede alterar el despacho diario de JET A-1 en los principales aeropuertos.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/los-vuelos-en-argentina-se-veran-afectados-por-medida-gremial_a6a981e7893603c7d7dd39e45",
+      "publishedAt": "2026-09-02",
+      "airline": "—",
+      "segment": "regulacion",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "ANAC intimó a ATE a garantizar el 75 % de servicios aéreos",
+      "summary": "La autoridad aeronáutica activó la declaración de esencialidad (Ley 25.877) ante el paro de ATE. Fiscalizará el cumplimiento mínimo para proteger la programación. Impacto acotado pero real sobre la continuidad del abastecimiento de JET A-1 en rampa durante las franjas de conflicto.",
+      "source": "Aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/la-declaracion-de-esencialidad-entra-en-juego-y-presiona-las-medidas-de-fuerza-en-los-aeropuertos-argentinos_a6a987f5f93603c7d7dedbd1f",
+      "publishedAt": "2026-09-02",
+      "airline": "—",
+      "segment": "regulacion",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Flybondi acelera reestructuración y OCA Air apunta a noviembre",
+      "summary": "Traspaso de personal de rampa (+200) a OCA Support, que ya ofrece handling en 14 aeropuertos. OCA Air busca iniciar operaciones en noviembre con flota reducida. Flybondi debe volar antes del 20/9 para conservar el CESA. Cada avión que vuelva recupera offtake de JET A-1; la flota chica deja el volumen low-cost muy por debajo del esquema previo.",
+      "source": "El Cronista",
+      "sourceUrl": "https://www.cronista.com/negocios/flybondi-avanza-con-su-reestructuracion-y-prepara-el-desembarco-de-oca-air/",
+      "publishedAt": "2026-09-02",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
+    {
+      "title": "Auckland detalla el impacto del vuelo de China Eastern a Ezeiza",
+      "summary": "La duplicación a 4 frecuencias semanales (desde diciembre) se sustenta en +8.000 pax chinos, +35 % llegadas argentinas a NZ y +121 % tonelaje de carga en los primeros meses. Confirma mayor offtake de JET A-1 en Ezeiza por widebody 777-300 y tráfico de carga en el corredor Pacífico.",
+      "source": "Sir Chandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/el-aeropuerto-de-auckland-explica-el-crecimiento-del-vuelo-de-china-eastern-a-la-argentina/",
+      "publishedAt": "2026-09-02",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta"
+    },
     {
       "title": "Nueva terminal del Aeropuerto de San Rafael",
       "summary": "Inaugurada el 31 de agosto: 1.790 m² extra, hall y embarque para procesar a la vez un arribo y una partida de 737. El tráfico 2025 fue 51.111 pax (+3 % en 1S 2026). Facilita vuelos de Aerolíneas con aviones más grandes y un offtake de JET A-1 más estable en Mendoza sur.",
