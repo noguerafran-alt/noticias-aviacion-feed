@@ -1,11 +1,63 @@
 {
   "briefing": {
-    "title": "SAF en debate legislativo y offtake estable en EZE por widebodies: sin novedades operativas mayores",
-    "summary": "Briefing del 6 de septiembre de 2026 (disparado por Google Alert). El alerta de Google recicló la noticia del paro de ATE-ANAC de los días 3-4, ya suspendido el 3/9 tras la intimación de servicios mínimos del 75 %. No hay corrección operativa nueva ni reactivación de medidas. En el frente combustible, Clarín reporta avance del proyecto de ley de biocombustibles en Senado (dictamen esperado) que habilitaría producción de SAF en Argentina; YPF ya tiene alianza con Essential Energy por US$ 350 M para Santa Fe Bio (220.000 t/año proyectadas). Air France mantiene el doble vuelo diario temporal a Ezeiza (A350 + 787) elevando offtake de JET A-1. ITA programó A330neo en algunos vuelos FCO-EZE de octubre. Cambio operativo menor en cobro de estacionamientos de AEP/EZE (solo efectivo en cabinas manuales). Sin señales frescas de precios, recargos o volúmenes de JET A-1/AVGAS. Flybondi/OCA sigue en reestructuración sin reinicio confirmado. Para YPF Aviación: horizonte de demanda estable en rampa internacional, potencial regulatorio positivo para SAF a mediano plazo y low-cost doméstico aún deprimido.",
-    "generatedAt": "2026-09-06T12:15:00.000Z",
+    "title": "Offtake estable en EZE, low-cost doméstico aún deprimido y SAF en agenda legislativa",
+    "summary": "Briefing del 7 de septiembre de 2026. Sin novedades mayores de portales en las últimas 48 h sobre precios, recargos o volúmenes de JET A-1/AVGAS/SAF. El mercado doméstico sigue marcado por la parálisis de Flybondi/OCA (sin check-in visible en Aeroparque y sin reinicio confirmado) y por cancelaciones puntuales de JetSMART en rutas como Buenos Aires-Iguazú. JetSMART anuncia retorno de frecuencia diaria a Jujuy desde el 1 de octubre. En el frente regulatorio, APLA obtiene avance judicial que fuerza a ANAC a actuar sobre JetSMART. El offtake internacional de widebodies en Ezeiza se mantiene estable (Air France doble frecuencia temporal, ITA A330neo parcial, China Eastern en expansión). Proyecto de ley de biocombustibles/SAF sigue en Senado con dictamen esperado. Para YPF Aviación: demanda de rampa internacional sólida, low-cost doméstico aún muy por debajo del potencial y horizonte positivo de SAF a mediano plazo si avanza la ley.",
+    "generatedAt": "2026-09-07T08:15:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "JetSMART retoma vuelos diarios a Jujuy desde el 1 de octubre",
+      "summary": "Gazeta Jujuy: a partir del 1 de octubre JetSMART reanuda la ruta Jujuy-Buenos Aires con frecuencia diaria. Amplía la oferta de conectividad y recupera offtake de JET A-1 en la base del noroeste y en AEP/EZE.",
+      "source": "@GazetaJujuy",
+      "sourceHandle": "GazetaJujuy",
+      "sourceUrl": "https://x.com/GazetaJujuy/status/2096795052362109411",
+      "publishedAt": "2026-09-07",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Cancelaciones de JetSMART en la ruta Buenos Aires-Iguazú el 6/9",
+      "summary": "Piloto @GaboAir reporta que de 8 vuelos programados de JetSMART entre Buenos Aires e Iguazú el 6 de septiembre, 4 fueron cancelados, 1 demorado y solo 2 cumplidos (2 pendientes). 50 % de cancelaciones. Impacto puntual en offtake de JET A-1 y en la percepción de confiabilidad de la low-cost.",
+      "source": "@GaboAir",
+      "sourceHandle": "GaboAir",
+      "sourceUrl": "https://x.com/GaboAir/status/2096752563429261360",
+      "publishedAt": "2026-09-07",
+      "airline": "JetSMART",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Aeroparque sin puestos de check-in para Flybondi",
+      "summary": "@Lupo55: se retiraron los puestos de check-in de Flybondi en Aeroparque mientras la web sigue vendiendo pasajes. Refuerza la señal de parálisis operativa y reduce aún más la demanda puntual de JET A-1 en AEP.",
+      "source": "@Lupo55",
+      "sourceHandle": "Lupo55",
+      "sourceUrl": "https://x.com/Lupo55/status/2096714827104153690",
+      "publishedAt": "2026-09-06",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "APLA obtiene sentencia y ANAC debe actuar sobre JetSMART",
+      "summary": "@diego_domi: APLA inclinó la balanza legalmente; la justicia sentenció y ANAC tuvo que ordenar lo que venía callando. Nuevo comunicado de APLA sobre JetSMART. Riesgo de ajustes de programación y de offtake de JET A-1 en el corto plazo.",
+      "source": "@diego_domi",
+      "sourceHandle": "diego_domi",
+      "sourceUrl": "https://x.com/diego_domi/status/2096681695470596119",
+      "publishedAt": "2026-09-06",
+      "airline": "JetSMART",
+      "segment": "regulacion",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
     {
       "title": "Proyecto de ley de biocombustibles avanza en Senado y abre puerta al SAF argentino",
       "summary": "Clarín: el oficialismo busca dictamen en comisiones de Energía y Presupuesto para tratar el 10/9 un marco que habilite producción de combustible sostenible de aviación (SAF) y renovables marítimos. Potencial de US$ 15.000 M en 2030 y hasta US$ 40.000 M en 2050. YPF ya invierte US$ 350 M con Essential Energy en Santa Fe Bio (220.000 t/año). Falta ley para destrabar escala. Señal regulatoria clave para offtake futuro de SAF en Argentina.",
@@ -297,23 +349,10 @@
       "summary": "FB Líneas Aéreas empezó a pasar rampa y el OCC a OC Support S.A. para operar como OCA Air. Conservaría tres 737 (LV-KJD/KJE/KJF) y devolvería el resto; evalúa A220 a futuro. Tiene que volver a volar antes del 20 de septiembre para no perder el certificado. Cada avión que vuelva a la línea recupera offtake de JET A-1 en AEP/EZE y cabotaje; la flota reducida deja el volumen muy por debajo del esquema original.",
       "source": "Aviacionline",
       "sourceHandle": "",
-      "sourceUrl": "https://www.aviacionline.com/english/commercial-aviation/latin-america-and-caribbean/argentina/flybondi-begins-transferring-employees-to-new-company-behind-oca-brand_a6a962140a6fdb63e6917d4d5",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/arranco-el-traspaso-de-empleados-de-flybondi-a-la-nueva-sociedad-de-la-marca-oca_a6a961dc1a6fdb63e69171093",
       "publishedAt": "2026-08-31",
       "airline": "Flybondi",
       "segment": "mercado",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "China Eastern duplica sus vuelos desde Ezeiza",
-      "summary": "Pasa de 2 a 4 frecuencias semanales EZE–Auckland–Shanghai desde el 5 de diciembre, con Boeing 777-300. Más widebody en Ezeiza duplica el offtake de JET A-1 de ese vuelo en rampa internacional y suma competencia de largo radio (carga + pasajeros) sobre el corredor Pacífico.",
-      "source": "Sir Chandler",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/08/china-eastern-duplica-sus-vuelos-desde-ezeiza/",
-      "publishedAt": "2026-08-31",
-      "airline": "China Eastern",
-      "segment": "rutas",
       "fuelTag": "jet",
       "relevance": "alta",
       "channel": "web"
