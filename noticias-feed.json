@@ -1,11 +1,63 @@
 {
   "briefing": {
-    "title": "Joy Airline habilita venta de pasajes y suma oferta regional en el noroeste",
-    "summary": "Actualización del 8 de septiembre de 2026. Joy Airline, la nueva aerolínea regional argentina, habilitó este martes la venta de pasajes para sus primeras rutas (Jujuy-Buenos Aires con 12 frecuencias semanales y Jujuy-Córdoba con 7). Opera con Bombardier CRJ-200 de 50 asientos; espera el segundo avión este mes e inicio de operaciones a fines de septiembre o principios de octubre, sujeto a certificado de operador aéreo de ANAC. Señal positiva de nueva demanda de JET A-1 en base Jujuy y en AEP. El mercado doméstico low-cost permanece deprimido (Flybondi/OCA sin reinicio pleno). No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. La mesa técnica de modernización del espacio aéreo y la digitalización de trámites ANAC siguen como señales de eficiencia de mediano plazo. Offtake internacional en EZE estable.",
-    "generatedAt": "2026-09-08T08:08:00.000Z",
+    "title": "GOL anuncia ruta Cuiabá–Buenos Aires y Joy sigue sumando oferta regional",
+    "summary": "Actualización del 9 de septiembre de 2026. El gobernador de Mato Grosso anunció que GOL operará a partir de enero vuelos entre Cuiabá y Buenos Aires (único destino internacional de esa ciudad brasileña); la comercialización se habilitará en los próximos días. Suma capacidad internacional y potencial offtake de JET A-1 en EZE/AEP. Joy Airline mantiene la venta de sus primeras rutas (Jujuy–AEP y Jujuy–Córdoba) con inicio proyectado a fines de septiembre. Air France opera doble vuelo a Ezeiza. El mercado doméstico low-cost sigue deprimido (Flybondi/OCA sin reinicio pleno). No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. La mesa técnica de modernización del espacio aéreo y la digitalización de trámites ANAC continúan como señales de eficiencia de mediano plazo.",
+    "generatedAt": "2026-09-09T08:08:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "GOL volará a Buenos Aires desde Cuiabá a partir de enero",
+      "summary": "El gobernador del estado de Mato Grosso anunció que a partir de enero GOL Linhas Aéreas volará a Buenos Aires desde Cuiabá. En algunos días se abrirá la comercialización de los pasajes. La capital argentina será el único destino internacional de Cuiabá, cuya red alcanza 17 destinos en Brasil. Nueva oferta internacional y señal de demanda adicional de JET A-1 en EZE/AEP.",
+      "source": "@aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://x.com/aviacionline/status/2097446597202432318",
+      "publishedAt": "2026-09-08",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Joy vs Aerolíneas: comparación de tarifas en ruta Aeroparque-Jujuy",
+      "summary": "Piloto @GaboAir compara tarifas de Joy y Aerolíneas Argentinas en Aeroparque-Jujuy para octubre. En clase ejecutiva de Aerolíneas se cotiza alrededor de $435.000 ida y vuelta. Señal de competencia de precios en el segmento regional y potencial impacto en demanda de combustible en AEP y base Jujuy.",
+      "source": "@GaboAir",
+      "sourceHandle": "GaboAir",
+      "sourceUrl": "https://x.com/GaboAir/status/2097412094224117789",
+      "publishedAt": "2026-09-08",
+      "airline": "Joy Airline",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Nueva aerolínea en Argentina: JOY empieza a vender pasajes y ya tiene fecha para sus primeros vuelos",
+      "summary": "Al Sur Noticias resume el desembarco de JOY: venta habilitada y fecha de inicio de operaciones. Refuerza la cobertura de la nueva oferta regional en el noroeste y la señal de offtake de JET A-1 en Jujuy y AEP.",
+      "source": "@AlSurNoticias",
+      "sourceHandle": "AlSurNoticias",
+      "sourceUrl": "https://x.com/AlSurNoticias/status/2097505875304776160",
+      "publishedAt": "2026-09-09",
+      "airline": "Joy Airline",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Air France arrancó con su curioso doble vuelo a Ezeiza",
+      "summary": "Sir Chandler reporta el inicio de la operación de doble vuelo de Air France a Ezeiza. Incremento puntual de capacidad internacional y de demanda de JET A-1 en el principal hub argentino.",
+      "source": "Sir Chandler",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/air-france-arranco-con-su-curioso-doble-vuelo-a-ezeiza/",
+      "publishedAt": "2026-09-03",
+      "airline": "Air France",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "web"
+    },
     {
       "title": "Joy Airline, nueva jugadora en Argentina, inició la cuenta regresiva para vender pasajes",
       "summary": "La nueva aerolínea argentina informó que este martes 8 de septiembre empezará a vender pasajes. Esperan recibir el segundo avión este mes. Inicialmente ofrecerá 12 vuelos semanales entre Jujuy y Buenos Aires y 7 entre Jujuy y Córdoba con CRJ-200 de 50 plazas. Proyecta inicio de operaciones a fines de septiembre o principios de octubre, sujeto a COA de ANAC. Nueva demanda potencial de JET A-1 en el noroeste y AEP.",
