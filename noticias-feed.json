@@ -1,11 +1,50 @@
 {
   "briefing": {
-    "title": "GOL anuncia ruta Cuiabá–Buenos Aires y Joy sigue sumando oferta regional",
-    "summary": "Actualización del 9 de septiembre de 2026. El gobernador de Mato Grosso anunció que GOL operará a partir de enero vuelos entre Cuiabá y Buenos Aires (único destino internacional de esa ciudad brasileña); la comercialización se habilitará en los próximos días. Suma capacidad internacional y potencial offtake de JET A-1 en EZE/AEP. Joy Airline mantiene la venta de sus primeras rutas (Jujuy–AEP y Jujuy–Córdoba) con inicio proyectado a fines de septiembre. Air France opera doble vuelo a Ezeiza. El mercado doméstico low-cost sigue deprimido (Flybondi/OCA sin reinicio pleno). No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. La mesa técnica de modernización del espacio aéreo y la digitalización de trámites ANAC continúan como señales de eficiencia de mediano plazo.",
-    "generatedAt": "2026-09-09T08:08:00.000Z",
+    "title": "Joy Airline publica tarifas y horarios; arranque comercial el 30/9 y offtake potencial en Jujuy/AEP",
+    "summary": "Actualización del 9 de septiembre de 2026 (alerta Google). Joy Airline habilitó la venta de pasajes el 8/9 con tarifas concretas: Jujuy–Córdoba ARS 279.401 ida / 558.802 ida-vuelta; Aeroparque–Jujuy ARS 411.551 ida / 823.102 ida-vuelta. Primer servicio programado para el 30 de septiembre, sujeto a COA de ANAC. Base en Jujuy con CRJ-200 de 50 plazas (segundo avión esperado en septiembre). Señal clara de nueva demanda de JET A-1 en el noroeste y AEP. Aerolíneas Argentinas sumó tractor eléctrico de push-back en Aeroparque (Oshkosh), avance de sustentabilidad operativa en rampa. GOL Cuiabá–Buenos Aires (enero) y el acuerdo de servicios aéreos Argentina-Uruguay (cielos abiertos) se mantienen como drivers de capacidad internacional. No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. El mercado low-cost doméstico sigue deprimido.",
+    "generatedAt": "2026-09-09T12:50:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Las tarifas y horarios de la nueva compañía argentina Joy Airline",
+      "summary": "Aviacionline detalla la habilitación de venta el 8/9. Rutas: JUJ-AEP (uno diario por ahora, proyectado a 12 semanales) y JUJ-COR (diario, 7 semanales). Tarifas: JUJ-COR ARS 279.401 ida; AEP-JUJ ARS 411.551 ida. Primer vuelo programado 30/9. CRJ-200 LR 50 asientos (LV-JOI), segundo avión en septiembre. Base operativa y pernocte en Jujuy. Posicionamiento no low-cost, orientado a corporativo y turismo con más espacio. Señal de offtake de JET A-1 en JUJ y AEP.",
+      "source": "Aviacionline",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/las-tarifas-y-horarios-de-la-nueva-compania-argentina-joy-airline_a6aa038c1cd46978d935e4383",
+      "publishedAt": "2026-09-08",
+      "airline": "Joy Airline",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Aviacionline: tarifas y horarios de Joy Airline",
+      "summary": "Post oficial de @aviacionline compartiendo la nota con tarifas y horarios de Joy. Comercialización iniciada el 8/9 en rutas JUJ-COR y JUJ-AEP. Refuerza la cobertura de la nueva oferta regional.",
+      "source": "@aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://x.com/aviacionline/status/2097367080961978572",
+      "publishedAt": "2026-09-08",
+      "airline": "Joy Airline",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Aerolíneas Argentinas sumó un tractor eléctrico para el movimiento de aviones",
+      "summary": "Sir Chandler reporta la presencia de un tractor eléctrico Oshkosh de push-back en Aeroparque operado por Aerolíneas Argentinas. No hubo anuncio oficial. Avance de electrificación de equipos de rampa que reduce emisiones y ruido en tierra. Señal de modernización operativa en el principal aeropuerto de cabotaje.",
+      "source": "Sir Chandler",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/aerolineas-argentinas-sumo-un-tractor-electrico-para-el-movimiento-de-aviones/",
+      "publishedAt": "2026-09-08",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "web"
+    },
     {
       "title": "GOL volará a Buenos Aires desde Cuiabá a partir de enero",
       "summary": "El gobernador del estado de Mato Grosso anunció que a partir de enero GOL Linhas Aéreas volará a Buenos Aires desde Cuiabá. En algunos días se abrirá la comercialización de los pasajes. La capital argentina será el único destino internacional de Cuiabá, cuya red alcanza 17 destinos en Brasil. Nueva oferta internacional y señal de demanda adicional de JET A-1 en EZE/AEP.",
