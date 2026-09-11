@@ -1,11 +1,89 @@
 {
   "briefing": {
-    "title": "Joy Airline publica tarifas y horarios; arranque comercial el 30/9 y offtake potencial en Jujuy/AEP",
-    "summary": "Actualización del 9 de septiembre de 2026 (alerta Google). Joy Airline habilitó la venta de pasajes el 8/9 con tarifas concretas: Jujuy–Córdoba ARS 279.401 ida / 558.802 ida-vuelta; Aeroparque–Jujuy ARS 411.551 ida / 823.102 ida-vuelta. Primer servicio programado para el 30 de septiembre, sujeto a COA de ANAC. Base en Jujuy con CRJ-200 de 50 plazas (segundo avión esperado en septiembre). Señal clara de nueva demanda de JET A-1 en el noroeste y AEP. Aerolíneas Argentinas sumó tractor eléctrico de push-back en Aeroparque (Oshkosh), avance de sustentabilidad operativa en rampa. GOL Cuiabá–Buenos Aires (enero) y el acuerdo de servicios aéreos Argentina-Uruguay (cielos abiertos) se mantienen como drivers de capacidad internacional. No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. El mercado low-cost doméstico sigue deprimido.",
-    "generatedAt": "2026-09-09T12:50:00.000Z",
+    "title": "Corporación América apunta al 100% de Brasilia; Salta supera 700 mil pax; Flybondi sigue en crisis y JOY/JetSMART refuerzan Jujuy",
+    "summary": "Actualización del 11 de septiembre de 2026 (alerta Google). Corporación América Airports avanza para quedarse con el 100% del aeropuerto de Brasilia tras la salida del Estado brasileño (proceso de renegociación validado por ANAC BR, licitación 17/12). El aeropuerto de Salta superó los 700 mil pasajeros en el primer semestre, séptimo en la red de Aeropuertos Argentina 2000, en medio de negociaciones de extensión de concesión. Flybondi profundiza su crisis: nuevos despidos (ya +700), caída reiterada de la web y especulación entre concurso de acreedores o quiebra/OCA Air. En el noroeste, JOY y JetSMART consolidan oferta en Jujuy (primeros vuelos 30/9 y 1/10). No hay novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF en las últimas 48 h. El mercado low-cost doméstico sigue deprimido por la parálisis de Flybondi.",
+    "generatedAt": "2026-09-11T12:40:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Brasil define su salida del aeropuerto de Brasilia y la argentina Corporación América Airports busca quedarse con el 100%",
+      "summary": "La ANAC brasileña validó los documentos para la renegociación de la concesión del Aeropuerto Internacional de Brasilia. El proceso contempla la venta de la participación estatal de Infraero (49%) y suma la operación de diez terminales regionales. Corporación América (51% actual) planea participar en la licitación del 17 de diciembre y retendrá la concesión si no hay otros oferentes. Precio de compra fijado en ~USD 123 millones. Señal de expansión internacional del operador argentino y potencial impacto en flujos regionales hacia Ezeiza/AEP.",
+      "source": "Aviacionline",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/brasil-define-su-salida-del-aeropuerto-de-brasilia-y-la-argentina-corporacion-america-airports-busca-quedarse-con-el-100-_a6aa28e8eb1c90f01be39b466",
+      "publishedAt": "2026-09-10",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Aviacionline: Corporación América busca el 100% de Brasilia",
+      "summary": "Post oficial de @aviacionline anunciando la validación de ANAC BR para la renegociación del aeropuerto de Brasilia y la intención de Corporación América de quedarse con el control total, sumando diez terminales regionales.",
+      "source": "@aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://x.com/aviacionline/status/2098012490110063094",
+      "publishedAt": "2026-09-10",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "El aeropuerto de Salta superó los 700 mil pasajeros en seis meses",
+      "summary": "Según balances de Aeropuertos Argentina 2000, el aeropuerto Martín Miguel de Güemes movilizó 709 mil pasajeros en el primer semestre 2026 (vs 690 mil en 2025). Quedó séptimo por pax y sexto por operaciones en la red. La empresa reportó ingresos por $741 mil millones y utilidad de $168 mil millones, mientras negocia con el Gobierno una posible extensión de concesión hasta 2066. Señal de demanda sostenida de JET A-1 en el noroeste pese a la contracción del cabotaje por Flybondi.",
+      "source": "Gente de Salta",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.gentedesalta.com/economia/el-aeropuerto-salta-supero-700-mil-pasajeros-seis-meses-engrosa-negocio-uno-empresarios-mas-ricos-pais-n11729",
+      "publishedAt": "2026-09-09",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Flybondi en vuelo directo a la convocatoria de acreedores: siguen los despidos",
+      "summary": "Aviación News reporta que se especula entre concurso preventivo o quiebra. Nuevos despidos de tripulantes y personal (ya más de 700 desvinculados sin indemnización ni sueldos de los últimos cuatro meses). La web volvió a caer por falta de pago. La alternativa de concurso requeriría mantener alguna operación para generar ingresos; la de OCA Air implicaría tramitar CESA desde cero. Impacto continuo en offtake de JET A-1 en AEP y bases provinciales.",
+      "source": "Aviación News",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionnews.com/2026/09/flybondi-en-vuelo-directo-a-la-convocatoria-de-acreedores/",
+      "publishedAt": "2026-09-09",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "El aeropuerto de Jujuy tendrá tres importantes novedades en los próximos 20 días",
+      "summary": "@SpottersArg resume: 30 de septiembre primer vuelo JUJ-AEP y JUJ-COR de JOY; 1 de octubre primer vuelo AEP-JUJ de JetSMART. Refuerzo de capacidad en el noroeste y señal clara de recuperación de offtake de JET A-1 en Jujuy y Aeroparque.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2098185094586348020",
+      "publishedAt": "2026-09-10",
+      "airline": "Joy Airline",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "JOY Airline retiró temporalmente sus vuelos de la venta",
+      "summary": "@SpottersArg informa que JOY retiró los vuelos de venta por reconfiguración de la plataforma de pagos y mejoras de seguridad. Se esperaba solución en 24 horas. Impacto puntual en la comercialización inicial de la nueva aerolínea regional.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2097828201267351954",
+      "publishedAt": "2026-09-09",
+      "airline": "Joy Airline",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
     {
       "title": "Las tarifas y horarios de la nueva compañía argentina Joy Airline",
       "summary": "Aviacionline detalla la habilitación de venta el 8/9. Rutas: JUJ-AEP (uno diario por ahora, proyectado a 12 semanales) y JUJ-COR (diario, 7 semanales). Tarifas: JUJ-COR ARS 279.401 ida; AEP-JUJ ARS 411.551 ida. Primer vuelo programado 30/9. CRJ-200 LR 50 asientos (LV-JOI), segundo avión en septiembre. Base operativa y pernocte en Jujuy. Posicionamiento no low-cost, orientado a corporativo y turismo con más espacio. Señal de offtake de JET A-1 en JUJ y AEP.",
