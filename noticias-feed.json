@@ -1,11 +1,50 @@
 {
   "briefing": {
-    "title": "Mercado doméstico cae 8% en agosto por colapso de Flybondi; nuevos embargos y JOY/JetSMART refuerzan Jujuy",
-    "summary": "Actualización del 12 de septiembre de 2026. ANAC divulgó estadísticas de agosto: 4,13 millones de pasajeros totales (-5% interanual), con cabotaje en 2,79 millones (-8%) impulsado por el desplome de Flybondi (de 254.533 a solo 1.865 pax, 0,1% de share). Aerolíneas Argentinas creció 9% (931 mil pax, 85% ocupación) y JetSMART 16% (410 mil pax, 87%). Internacional tocó récord de agosto con 1,34 millones (+2-3%). Flybondi suma nuevos embargos e inhibiciones (Página 12) y avanza pedido de quiebra de Hotel Presidente; lleva más de 35 días sin volar. En el noroeste, JOY arranca el 30/9 (JUJ-AEP y JUJ-COR) y JetSMART el 1/10 (AEP-JUJ). Sin novedades frescas de precios, recargos o volúmenes de JET A-1/AVGAS/SAF. El offtake doméstico sigue deprimido por la parálisis low-cost, parcialmente compensado por el crecimiento de las dos líderes y la nueva oferta regional.",
-    "generatedAt": "2026-09-12T08:07:00.000Z",
+    "title": "Récord de pasajeros internacionales en agosto (1,34 M) y caída de cabotaje por Flybondi; sin novedades frescas de combustible",
+    "summary": "Actualización del 13 de septiembre de 2026 (disparada por Google Alert). ANAC y portales confirman el récord de agosto: 1.339.723 pasajeros internacionales (+2% interanual), con fuerte componente federal (222.417 pax desde interior, +11%). Total de aeropuertos 4,13 M (-5%). Cabotaje 2,79 M (-8%), impulsado por el colapso de Flybondi (1.865 pax). Aerolíneas Argentinas (+9%, 67% share) y JetSMART (+16%, 29% share) compensaron parcialmente. Sir Chandler detalla el desglose por aeropuerto y la concentración del mercado. United Airlines (CEO) expresa interés en potenciar hub hacia Sudamérica vía Miami, pero sin anuncio concreto. Sin señales nuevas de precios, recargos, abastecimiento o volúmenes de JET A-1 / AVGAS / SAF. El offtake doméstico permanece deprimido por la parálisis low-cost; el internacional y la oferta regional (JOY/JetSMART en Jujuy) sostienen demanda.",
+    "generatedAt": "2026-09-13T12:49:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Argentina rompe récord de pasajeros internacionales en agosto y crece la conectividad desde el interior",
+      "summary": "Aviation Club Center y ANAC: 1.339.723 pax internacionales en agosto 2026 (+2% vs récord 2025). Total aeropuertos 4.131.063. Acumulado ene-ago: 11,69 M internacionales (récord) y 33 M totales. 222.417 pax desde interior sin pasar por BA (+11% interanual, +115% vs 2023). Destacan Tucumán (+248%), Rosario (+31%), Bariloche (+12%), Ezeiza y Mendoza (+5%). Neuquén y Ushuaia suman conexiones internacionales nuevas. Señal de demanda sostenida de JET A-1 en hubs internacionales y bases del interior.",
+      "source": "Aviation Club Center",
+      "sourceHandle": "",
+      "sourceUrl": "https://aviationclubcenter.com/2026/09/12/argentina-rompe-record-de-pasajeros-internacionales-en-agosto-y-crece-la-conectividad-desde-el-interior/",
+      "publishedAt": "2026-09-12",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Récord de pasajeros internacionales y mayor conectividad federal durante agosto",
+      "summary": "Comunicado oficial ANAC/Argentina.gob.ar: nuevo récord de agosto con 1.339.723 usuarios internacionales. Total 4.131.063 pax. Acumulado ene-ago récord histórico. Conectividad federal: 222.417 pax directos desde interior (+11%). Crecimientos notables en Tucumán, Rosario, Bariloche, Ezeiza y Mendoza. Refuerza la señal de volumen internacional positiva para offtake de combustible.",
+      "source": "Argentina.gob.ar / ANAC",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/record-de-pasajeros-internacionales-y-mayor-conectividad-federal-durante-agosto-0",
+      "publishedAt": "2026-09-11",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Vuelos de cabotaje: los pasajeros cayeron 8% en agosto 2026",
+      "summary": "Sir Chandler analiza los datos ANAC: cabotaje 1,396 M pax (-8% interanual; acumulado ene-ago -6%). Aerolíneas Argentinas 930.736 (+9%, 67% share); JetSMART 410.120 (+16%, 29% share). Flybondi 1.865 (casi 0%). Load factor promedio sube a 85%. Aeroparque -10%; Ezeiza doméstico +4%. Caídas fuertes en Mendoza (-18%), Córdoba (-16%), Jujuy (-32%). Concentración del mercado en dos operadores y contracción de demanda doméstica de JET A-1.",
+      "source": "Sir Chandler",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/vuelos-de-cabotaje-los-pasajeros-cayeron-8-en-agosto-2026/",
+      "publishedAt": "2026-09-11",
+      "airline": "—",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
     {
       "title": "Con Flybondi en coma, el mercado doméstico argentino profundiza su caída mientras el internacional se mantiene firme",
       "summary": "ANAC: aeropuertos movilizaron 4,13 millones de pasajeros en agosto 2026 (-5% interanual). Cabotaje 2,79 millones (-8%); internacional 1,34 millones (récord de agosto, +2%). Flybondi pasó de 254.533 a 1.865 pax domésticos (60% ocupación, -22 pp). Aerolíneas +9% (930.736 pax, 85% LF); JetSMART +16% (410.120 pax, 87% LF); Andes +15,6%. Acumulado ene-ago: 32,99 millones totales (-0,33%), con internacional +11%. Señal clara de contracción de demanda de JET A-1 en bases domésticas por la parálisis de la low-cost, parcialmente compensada por el crecimiento de las líderes y el tráfico internacional.",
@@ -31,6 +70,32 @@
       "fuelTag": "jet",
       "relevance": "alta",
       "channel": "x"
+    },
+    {
+      "title": "JetSMART alcanzó el 29% del mercado de cabotaje argentino en agosto",
+      "summary": "@SpottersArg: JetSMART logró el 29% de share doméstico en agosto 2026, el número más alto desde que opera en el país (abril 2019). Confirmación del avance de la low-cost frente al vacío de Flybondi y señal de mayor offtake relativo de JET A-1 en sus bases.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2098533557383643635",
+      "publishedAt": "2026-09-11",
+      "airline": "JetSMART",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "United mira a Miami cariñosamente para poner un hub con Sudamérica",
+      "summary": "Sir Chandler / Aviacionline: CEO de United (Scott Kirby) indica que Sudamérica es un mercado donde la aerolínea es relativamente pequeña y que Miami sería el lugar ideal para potenciar un hub hacia la región. No es un anuncio operativo; reconoce el dominio de American en MIA. Relacionado con la llegada de A321XLR. Potencial de demanda futura de JET A-1 en rutas hacia Argentina/Ezeiza si se concreta expansión.",
+      "source": "Sir Chandler",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/united-mira-a-miami-carinosamente-para-poner-un-hub-con-sudamerica/",
+      "publishedAt": "2026-09-12",
+      "airline": "United",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "web"
     },
     {
       "title": "Flybondi suma nuevos embargos e inhibiciones",
@@ -275,71 +340,6 @@
       "publishedAt": "2026-09-07",
       "airline": "Joy Airline",
       "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "Aviacionline: Joy Airline inicia venta de pasajes mañana 8/9",
-      "summary": "Post de @aviacionline: Joy Airline, nueva jugadora, empieza a vender pasajes el 8 de septiembre. Segundo avión este mes. Rutas Jujuy-BA y Jujuy-Córdoba.",
-      "source": "@aviacionline",
-      "sourceHandle": "aviacionline",
-      "sourceUrl": "https://x.com/aviacionline/status/2097013657829884408",
-      "publishedAt": "2026-09-07",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "x"
-    },
-    {
-      "title": "Más info de Joy Airline: 12 vuelos semanales Jujuy-BA y 7 a Córdoba",
-      "summary": "@aviacionline amplía: Joy ofrecerá 12 frecuencias semanales Jujuy-Buenos Aires y 7 Jujuy-Córdoba. Venta habilitada el 8/9.",
-      "source": "@aviacionline",
-      "sourceHandle": "aviacionline",
-      "sourceUrl": "https://x.com/aviacionline/status/2097066639413985530",
-      "publishedAt": "2026-09-07",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "x"
-    },
-    {
-      "title": "JOY Airline puso a la venta sus primeros vuelos",
-      "summary": "@aviacionnews: Joy Airline comienza a operar el 30 de septiembre con vuelos BA-Jujuy y Jujuy-Córdoba en CRJ-200LR de 50 plazas.",
-      "source": "@aviacionnews",
-      "sourceHandle": "aviacionnews",
-      "sourceUrl": "https://x.com/aviacionnews/status/2097118615732388158",
-      "publishedAt": "2026-09-08",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "x"
-    },
-    {
-      "title": "Gobierno crea mesa técnica para modernizar el espacio aéreo argentino",
-      "summary": "Resolución 67/2026 de la Secretaría de Transporte: se conforma una Mesa de Trabajo Técnica coordinada por la Subsecretaría de Transporte Aéreo, con ANAC, EANA, IATA, JURCA, ACI, explotadores aeroportuarios y aerolíneas. Objetivo: optimizar gestión del tránsito aéreo, reducir tiempos de ocupación de pista, implementar CDM, perfeccionar procedimientos IFR (IAC, STAR, SID) y elevar capacidad. Documento de recomendaciones antes del 1 de diciembre de 2027. Señal regulatoria de mediano plazo que puede mejorar eficiencia operativa y, por ende, el flujo de operaciones y offtake de JET A-1.",
-      "source": "Aviacionline",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/el-gobierno-argentino-conforma-un-grupo-para-modernizar-el-espacio-aereo_a6a9e7f8a30b2041eb7e024fa",
-      "publishedAt": "2026-09-07",
-      "airline": "—",
-      "segment": "regulacion",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "Crearon una mesa técnica para rediseñar el espacio aéreo argentino",
-      "summary": "Infobae confirma la Resolución 67/2026: mesa en la Secretaría de Transporte con ANAC, EANA e actores privados e internacionales. Plazo hasta el 1/12/2027 para recomendaciones de modernización y eficiencia operacional. Complementa la cobertura de Aviacionline y refuerza la señal de reforma estructural del espacio aéreo.",
-      "source": "Infobae",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.infobae.com/economia/2026/09/07/crearon-una-mesa-tecnica-para-redisenar-el-espacio-aereo-argentino/",
-      "publishedAt": "2026-09-07",
-      "airline": "—",
-      "segment": "regulacion",
       "fuelTag": "jet",
       "relevance": "alta",
       "channel": "web"
