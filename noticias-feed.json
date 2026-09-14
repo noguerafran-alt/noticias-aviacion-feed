@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Récord de pasajeros internacionales en agosto (1,34 M) y caída de cabotaje por Flybondi; sin novedades frescas de combustible",
-    "summary": "Actualización del 13 de septiembre de 2026 (disparada por Google Alert). ANAC y portales confirman el récord de agosto: 1.339.723 pasajeros internacionales (+2% interanual), con fuerte componente federal (222.417 pax desde interior, +11%). Total de aeropuertos 4,13 M (-5%). Cabotaje 2,79 M (-8%), impulsado por el colapso de Flybondi (1.865 pax). Aerolíneas Argentinas (+9%, 67% share) y JetSMART (+16%, 29% share) compensaron parcialmente. Sir Chandler detalla el desglose por aeropuerto y la concentración del mercado. United Airlines (CEO) expresa interés en potenciar hub hacia Sudamérica vía Miami, pero sin anuncio concreto. Sin señales nuevas de precios, recargos, abastecimiento o volúmenes de JET A-1 / AVGAS / SAF. El offtake doméstico permanece deprimido por la parálisis low-cost; el internacional y la oferta regional (JOY/JetSMART en Jujuy) sostienen demanda.",
-    "generatedAt": "2026-09-13T12:49:00.000Z",
+    "title": "Sin novedades frescas de portales ni X en las últimas 48 h; se mantiene el escenario de récord internacional y cabotaje deprimido por Flybondi",
+    "summary": "Actualización del 14 de septiembre de 2026 (disparada por Google Alert). Revisión de Aviacionline, Sir Chandler y alertas: no hay notas nuevas de aviación comercial argentina relevantes (mercado, rutas, regulación ANAC o combustible) publicadas en las últimas 48 horas. El material del Alert (pruebas A350-1000ULR global, temas de España y notas generales) no aplica al foco YPF Aviación. Se conserva el histórico del 13/9: récord de 1,34 M pax internacionales en agosto (+2%), cabotaje -8% por colapso de Flybondi (1.865 pax), compensación parcial de Aerolíneas (+9%, ~67% share) y JetSMART (+16%, ~29% share). Sin señales nuevas de precios, recargos, abastecimiento o volúmenes de JET A-1 / AVGAS / SAF. Offtake doméstico deprimido; internacional y oferta regional (JOY/JetSMART Jujuy) sostienen demanda. X tampoco aportó posts relevantes de cuentas prioritarias.",
+    "generatedAt": "2026-09-14T12:50:00.000Z",
     "source": "automation"
   },
   "noticias": [
@@ -265,84 +265,6 @@
       "fuelTag": "jet",
       "relevance": "alta",
       "channel": "x"
-    },
-    {
-      "title": "Joy vs Aerolíneas: comparación de tarifas en ruta Aeroparque-Jujuy",
-      "summary": "Piloto @GaboAir compara tarifas de Joy y Aerolíneas Argentinas en Aeroparque-Jujuy para octubre. En clase ejecutiva de Aerolíneas se cotiza alrededor de $435.000 ida y vuelta. Señal de competencia de precios en el segmento regional y potencial impacto en demanda de combustible en AEP y base Jujuy.",
-      "source": "@GaboAir",
-      "sourceHandle": "GaboAir",
-      "sourceUrl": "https://x.com/GaboAir/status/2097412094224117789",
-      "publishedAt": "2026-09-08",
-      "airline": "Joy Airline",
-      "segment": "mercado",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "x"
-    },
-    {
-      "title": "Nueva aerolínea en Argentina: JOY empieza a vender pasajes y ya tiene fecha para sus primeros vuelos",
-      "summary": "Al Sur Noticias resume el desembarco de JOY: venta habilitada y fecha de inicio de operaciones. Refuerza la cobertura de la nueva oferta regional en el noroeste y la señal de offtake de JET A-1 en Jujuy y AEP.",
-      "source": "@AlSurNoticias",
-      "sourceHandle": "AlSurNoticias",
-      "sourceUrl": "https://x.com/AlSurNoticias/status/2097505875304776160",
-      "publishedAt": "2026-09-09",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "x"
-    },
-    {
-      "title": "Air France arrancó con su curioso doble vuelo a Ezeiza",
-      "summary": "Sir Chandler reporta el inicio de la operación de doble vuelo de Air France a Ezeiza. Incremento puntual de capacidad internacional y de demanda de JET A-1 en el principal hub argentino.",
-      "source": "Sir Chandler",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/air-france-arranco-con-su-curioso-doble-vuelo-a-ezeiza/",
-      "publishedAt": "2026-09-03",
-      "airline": "Air France",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "web"
-    },
-    {
-      "title": "Joy Airline, nueva jugadora en Argentina, inició la cuenta regresiva para vender pasajes",
-      "summary": "La nueva aerolínea argentina informó que este martes 8 de septiembre empezará a vender pasajes. Esperan recibir el segundo avión este mes. Inicialmente ofrecerá 12 vuelos semanales entre Jujuy y Buenos Aires y 7 entre Jujuy y Córdoba con CRJ-200 de 50 plazas. Proyecta inicio de operaciones a fines de septiembre o principios de octubre, sujeto a COA de ANAC. Nueva demanda potencial de JET A-1 en el noroeste y AEP.",
-      "source": "Aviacionline",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/joy-airline-nueva-jugadora-en-argentina-inicio-la-cuenta-regresiva-para-vender-pasajes_a6a9eef9730b2041eb7fc1981",
-      "publishedAt": "2026-09-07",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "JOY empieza a vender pasajes: sus dos primeras rutas conectarán Jujuy con Buenos Aires y Córdoba",
-      "summary": "JOY habilita desde el 8 de septiembre la comercialización de tickets para Buenos Aires-Jujuy (12 frecuencias semanales) y Jujuy-Córdoba (7). Operará con Bombardier CRJ-200LR de 50 pasajeros. Inicio de operaciones hacia fines de septiembre, pendiente de Certificado de Operador Aéreo. Base operativa en Jujuy. Señal de nueva oferta regional y offtake de combustible en el norte.",
-      "source": "LA NACION",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.lanacion.com.ar/economia/joy-empieza-a-vender-pasajes-sus-dos-primeras-rutas-conectaran-jujuy-con-buenos-aires-y-cordoba-nid07092026/",
-      "publishedAt": "2026-09-07",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "La nueva aerolínea JOY comienza la venta de pasajes para sus vuelos",
-      "summary": "Sir Chandler confirma el anuncio de Joy: venta desde el 8/9. Rutas iniciales Jujuy-Córdoba y Jujuy-Aeroparque. Un CRJ200 activo (ex Delta) y segundo en camino. Arranque proyectado fines de septiembre.",
-      "source": "Sir Chandler",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/la-nueva-aerolinea-joy-comienza-la-venta-de-pasajes-para-sus-vuelos/",
-      "publishedAt": "2026-09-07",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
     }
   ]
 }
