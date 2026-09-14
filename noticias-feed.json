@@ -1,11 +1,89 @@
 {
   "briefing": {
-    "title": "Sin novedades frescas de portales ni X en las últimas 48 h; se mantiene el escenario de récord internacional y cabotaje deprimido por Flybondi",
-    "summary": "Actualización del 14 de septiembre de 2026 (disparada por Google Alert). Revisión de Aviacionline, Sir Chandler y alertas: no hay notas nuevas de aviación comercial argentina relevantes (mercado, rutas, regulación ANAC o combustible) publicadas en las últimas 48 horas. El material del Alert (pruebas A350-1000ULR global, temas de España y notas generales) no aplica al foco YPF Aviación. Se conserva el histórico del 13/9: récord de 1,34 M pax internacionales en agosto (+2%), cabotaje -8% por colapso de Flybondi (1.865 pax), compensación parcial de Aerolíneas (+9%, ~67% share) y JetSMART (+16%, ~29% share). Sin señales nuevas de precios, recargos, abastecimiento o volúmenes de JET A-1 / AVGAS / SAF. Offtake doméstico deprimido; internacional y oferta regional (JOY/JetSMART Jujuy) sostienen demanda. X tampoco aportó posts relevantes de cuentas prioritarias.",
-    "generatedAt": "2026-09-14T12:50:00.000Z",
+    "title": "American Jet inaugura Neuquén–Chos Malal, Level llena el A330 desde Barcelona y OCA asoma como reemplazo de Flybondi",
+    "summary": "Actualización del 14 de septiembre de 2026 con señal de @SpottersArg, que el run de la mañana no había priorizado. American Jet inauguró hoy Neuquén–Chos Malal con Dornier 228 (salida 09:57, tres minutos antes). Level trajo 311 pasajeros en el LL 2601 BCN–EZE con A330 EC-NRG al 100% de ocupación. En Ezeiza ya hay equipos de rampa con pintura OCA Support, el reemplazo teórico de Flybondi; @SpottersArg advierte que en septiembre casi no hay novedades de la low-cost ni de OCA Air y que siguieron los despidos. El A330 LV-KAN de Aerolíneas volvió a volar el domingo tras casi dos meses en tierra (más widebody en EZE). Se mantiene el escenario ANAC de agosto: récord de 1,34 M pax internacionales (+2%) y cabotaje -8% por el colapso de Flybondi. Señal de offtake: puntual extra en NQN/Chos Malal y EZE internacional; doméstico low-cost sigue deprimido.",
+    "generatedAt": "2026-09-14T16:36:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Level llegó a Ezeiza con 311 pasajeros y 100% de ocupación desde Barcelona",
+      "summary": "@SpottersArg: el vuelo LL 2601 de Level operado por el Airbus A330 EC-NRG arribó hoy a Buenos Aires con 311 pasajeros, ocupación plena. Señal de demanda internacional firme y offtake puntual de JET A-1 en EZE sobre un widebody de largo radio.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099512423262695924",
+      "publishedAt": "2026-09-14",
+      "airline": "Level",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "American Jet inauguró Neuquén–Chos Malal con Dornier 228",
+      "summary": "@SpottersArg: American Jet despegó hoy a las 09:57 de Neuquén hacia Chos Malal, tres minutos antes de lo programado, a bordo del histórico Dornier 228. Es el primer servicio regular de esa ruta y suma operaciones en el interior neuquino. Señal de offtake incremental de combustible en NQN y en un destino que no tenía oferta regular.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099488806499930363",
+      "publishedAt": "2026-09-14",
+      "airline": "American Jet",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Sin novedades de Flybondi ni de OCA Air: siguen los despidos",
+      "summary": "@SpottersArg, sobre el hilo de OCA Support en Ezeiza: desde que empezó septiembre prácticamente no hay información de Flybondi ni de su eventual reemplazo OCA Air, y siguieron los despidos. Ve complicado que la operación retome. Señal de que el hueco de offtake doméstico de la low-cost no se cierra en el corto plazo.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099486129510568060",
+      "publishedAt": "2026-09-14",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Equipos de rampa OCA Support en Ezeiza, el reemplazo teórico de Flybondi",
+      "summary": "@SpottersArg: en el aeropuerto de Ezeiza ya se ven equipos de rampa con la pintura de OCA Support, lo que en teoría vendría a reemplazar a Flybondi. Primera señal física en rampa de un eventual sucesor operativo; aún sin CESA ni vuelos anunciados.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099157226623516841",
+      "publishedAt": "2026-09-13",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "El A330 LV-KAN de Aerolíneas volvió a volar tras casi dos meses en tierra",
+      "summary": "@SpottersArg: después de casi dos meses parado, el Airbus A330 LV-KAN de Aerolíneas Argentinas volvió a la línea. Recupera un widebody de largo radio y sostiene capacidad internacional / offtake de JET A-1 en Ezeiza.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099137550908604697",
+      "publishedAt": "2026-09-13",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Lufthansa visita Buenos Aires con el 747-8 retro D-ABYT al 98% de ocupación",
+      "summary": "@SpottersArg: el Boeing 747-8 de Lufthansa con livery retro (D-ABYT) llega a Ezeiza desde Frankfurt con 357 pasajeros (98% de ocupación). Widebody extra puntual: señal de offtake incremental de JET A-1 en EZE.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2098909266585260475",
+      "publishedAt": "2026-09-12",
+      "airline": "Lufthansa",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
     {
       "title": "Argentina rompe récord de pasajeros internacionales en agosto y crece la conectividad desde el interior",
       "summary": "Aviation Club Center y ANAC: 1.339.723 pax internacionales en agosto 2026 (+2% vs récord 2025). Total aeropuertos 4.131.063. Acumulado ene-ago: 11,69 M internacionales (récord) y 33 M totales. 222.417 pax desde interior sin pasar por BA (+11% interanual, +115% vs 2023). Destacan Tucumán (+248%), Rosario (+31%), Bariloche (+12%), Ezeiza y Mendoza (+5%). Neuquén y Ushuaia suman conexiones internacionales nuevas. Señal de demanda sostenida de JET A-1 en hubs internacionales y bases del interior.",
