@@ -1,11 +1,63 @@
 {
   "briefing": {
-    "title": "American Jet inaugura Neuquén–Chos Malal, Level llena el A330 desde Barcelona y OCA asoma como reemplazo de Flybondi",
-    "summary": "Actualización del 14 de septiembre de 2026 con señal de @SpottersArg, que el run de la mañana no había priorizado. American Jet inauguró hoy Neuquén–Chos Malal con Dornier 228 (salida 09:57, tres minutos antes). Level trajo 311 pasajeros en el LL 2601 BCN–EZE con A330 EC-NRG al 100% de ocupación. En Ezeiza ya hay equipos de rampa con pintura OCA Support, el reemplazo teórico de Flybondi; @SpottersArg advierte que en septiembre casi no hay novedades de la low-cost ni de OCA Air y que siguieron los despidos. El A330 LV-KAN de Aerolíneas volvió a volar el domingo tras casi dos meses en tierra (más widebody en EZE). Se mantiene el escenario ANAC de agosto: récord de 1,34 M pax internacionales (+2%) y cabotaje -8% por el colapso de Flybondi. Señal de offtake: puntual extra en NQN/Chos Malal y EZE internacional; doméstico low-cost sigue deprimido.",
-    "generatedAt": "2026-09-14T16:36:00.000Z",
+    "title": "American Jet consolida Neuquén–Chos Malal con 18 pax en el inaugural; Flybondi 737-800 aparece en hangares de AR en Ezeiza y Paranair opera charter a Rosario",
+    "summary": "Actualización del 15 de septiembre de 2026. @SpottersArg reportó que el vuelo inaugural Neuquén–Chos Malal de American Jet (Dornier 228 LV-WTV) llegó con 18 pasajeros (casi full). Aviacionline cubrió la reactivación tras 14 años sin regulares. En Ezeiza se filmó un Boeing 737-800 de Flybondi en zona de hangares de Aerolíneas Argentinas; se mantiene el silencio operativo de la low-cost y de OCA Air. Paranair operó un charter ASU–ROS (CRJ-200) posiblemente vinculado a los Juegos Suramericanos. Señal de offtake: incremental regional en NQN/Chos Malal (y Chapelco desde hoy), puntual en ROS; doméstico low-cost sigue en cero y el 737 de Flybondi en tierra refuerza la incertidumbre de reactivación. Internacional y leaders (AR/JetSMART) sostienen el volumen.",
+    "generatedAt": "2026-09-15T08:15:00.000Z",
     "source": "automation"
   },
   "noticias": [
+    {
+      "title": "Boeing 737-800 de Flybondi filmado en hangares de Aerolíneas Argentinas en Ezeiza",
+      "summary": "@SpottersArg: registro de un Boeing 737-800 de Flybondi en la zona de hangares de Aerolíneas Argentinas en Ezeiza. Señal de que la flota permanece en tierra y de posible actividad de mantenimiento o resguardo, sin indicios de retorno a línea. Refuerza el vacío de offtake doméstico de la low-cost.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099649247003963462",
+      "publishedAt": "2026-09-14",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Paranair opera charter Asunción–Rosario con CRJ-200 por Juegos Suramericanos",
+      "summary": "@SpottersArg: Paranair está operando un vuelo charter entre Asunción y Rosario en el CRJ-200 ZP-CRT. Podría estar vinculado a los Juegos Suramericanos 2026 en Santa Fe. Señal puntual de offtake de JET A-1 en ROS y movimiento regional adicional.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099596908201193899",
+      "publishedAt": "2026-09-14",
+      "airline": "Paranair",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Chos Malal: 18 pasajeros en el vuelo inaugural de American Jet desde Neuquén",
+      "summary": "@SpottersArg: 18 pasajeros arribaron a Chos Malal en el inaugural de American Jet (Dornier 228 LV-WTV) desde Neuquén; 1 asiento libre. Confirmación de demanda inicial sólida para la ruta regional de dos frecuencias semanales. Señal positiva de offtake incremental de combustible en NQN y Chos Malal.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2099552484465283534",
+      "publishedAt": "2026-09-14",
+      "airline": "American Jet",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Después de 14 años, Chos Malal volvió a tener vuelos regulares",
+      "summary": "Aviacionline: American Jet inauguró el servicio Neuquén–Chos Malal con Dornier 228 LV-WTV. Dos frecuencias semanales (lunes y jueves). Ahorra más de seis horas respecto al colectivo. Mañana arranca también Neuquén–Chapelco. Reactivación de conectividad regional en el norte neuquino y señal de demanda de JET A-1 en bases del interior.",
+      "source": "Aviacionline",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/despues-de-14-anos-chos-malal-volvio-a-tener-vuelos-regulares_a6aa7ffcf25e8bea1ea5a4d58",
+      "publishedAt": "2026-09-14",
+      "airline": "American Jet",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
     {
       "title": "Level llegó a Ezeiza con 311 pasajeros y 100% de ocupación desde Barcelona",
       "summary": "@SpottersArg: el vuelo LL 2601 de Level operado por el Airbus A330 EC-NRG arribó hoy a Buenos Aires con 311 pasajeros, ocupación plena. Señal de demanda internacional firme y offtake puntual de JET A-1 en EZE sobre un widebody de largo radio.",
@@ -278,71 +330,6 @@
       "fuelTag": "jet",
       "relevance": "alta",
       "channel": "web"
-    },
-    {
-      "title": "JOY Airline retiró temporalmente sus vuelos de la venta",
-      "summary": "@SpottersArg informa que JOY retiró los vuelos de venta por reconfiguración de la plataforma de pagos y mejoras de seguridad. Se esperaba solución en 24 horas. Impacto puntual en la comercialización inicial de la nueva aerolínea regional.",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2097828201267351954",
-      "publishedAt": "2026-09-09",
-      "airline": "Joy Airline",
-      "segment": "mercado",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "x"
-    },
-    {
-      "title": "Las tarifas y horarios de la nueva compañía argentina Joy Airline",
-      "summary": "Aviacionline detalla la habilitación de venta el 8/9. Rutas: JUJ-AEP (uno diario por ahora, proyectado a 12 semanales) y JUJ-COR (diario, 7 semanales). Tarifas: JUJ-COR ARS 279.401 ida; AEP-JUJ ARS 411.551 ida. Primer vuelo programado 30/9. CRJ-200 LR 50 asientos (LV-JOI), segundo avión en septiembre. Base operativa y pernocte en Jujuy. Posicionamiento no low-cost, orientado a corporativo y turismo con más espacio. Señal de offtake de JET A-1 en JUJ y AEP.",
-      "source": "Aviacionline",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/las-tarifas-y-horarios-de-la-nueva-compania-argentina-joy-airline_a6aa038c1cd46978d935e4383",
-      "publishedAt": "2026-09-08",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "web"
-    },
-    {
-      "title": "Aviacionline: tarifas y horarios de Joy Airline",
-      "summary": "Post oficial de @aviacionline compartiendo la nota con tarifas y horarios de Joy. Comercialización iniciada el 8/9 en rutas JUJ-COR y JUJ-AEP. Refuerza la cobertura de la nueva oferta regional.",
-      "source": "@aviacionline",
-      "sourceHandle": "aviacionline",
-      "sourceUrl": "https://x.com/aviacionline/status/2097367080961978572",
-      "publishedAt": "2026-09-08",
-      "airline": "Joy Airline",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "x"
-    },
-    {
-      "title": "Aerolíneas Argentinas sumó un tractor eléctrico para el movimiento de aviones",
-      "summary": "Sir Chandler reporta la presencia de un tractor eléctrico Oshkosh de push-back en Aeroparque operado por Aerolíneas Argentinas. No hubo anuncio oficial. Avance de electrificación de equipos de rampa que reduce emisiones y ruido en tierra. Señal de modernización operativa en el principal aeropuerto de cabotaje.",
-      "source": "Sir Chandler",
-      "sourceHandle": "",
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/aerolineas-argentinas-sumo-un-tractor-electrico-para-el-movimiento-de-aviones/",
-      "publishedAt": "2026-09-08",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "mercado",
-      "fuelTag": "jet",
-      "relevance": "media",
-      "channel": "web"
-    },
-    {
-      "title": "GOL volará a Buenos Aires desde Cuiabá a partir de enero",
-      "summary": "El gobernador del estado de Mato Grosso anunció que a partir de enero GOL Linhas Aéreas volará a Buenos Aires desde Cuiabá. En algunos días se abrirá la comercialización de los pasajes. La capital argentina será el único destino internacional de Cuiabá, cuya red alcanza 17 destinos en Brasil. Nueva oferta internacional y señal de demanda adicional de JET A-1 en EZE/AEP.",
-      "source": "@aviacionline",
-      "sourceHandle": "aviacionline",
-      "sourceUrl": "https://x.com/aviacionline/status/2097446597202432318",
-      "publishedAt": "2026-09-08",
-      "airline": "GOL",
-      "segment": "rutas",
-      "fuelTag": "jet",
-      "relevance": "alta",
-      "channel": "x"
     }
   ]
 }
