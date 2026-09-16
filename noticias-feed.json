@@ -1,1 +1,23 @@
-PLACEHOLDER
+{
+  "briefing": {
+    "title": "Gobierno proyecta F-16 desde Tierra del Fuego con apoyo de la Base Naval Integrada de Ushuaia; offtake potencial en USH/RGL",
+    "summary": "Carga manual para el mail del 17/9. Zona Militar: Ravier presentó la Base Naval Integrada de Ushuaia como polo logístico al Atlántico Sur y la Antártida, con P-3 Orion y despliegue futuro de F-16 desde aeropuertos compatibles (Río Gallegos a repavimentar; Ushuaia con adaptación). Peace Condor: segundo lote de F-16 en días. Señal de offtake militar de JET A-1 en el extremo sur si se concreta. El resto del mercado sigue con el marco del 15/9: American Jet consolidó NQN–Chos Malal; Flybondi 737-800 en hangares de AR en EZE; Paranair charter a ROS.",
+    "generatedAt": "2026-09-16T11:30:00.000Z",
+    "source": "manual+automation"
+  },
+  "noticias": [
+    {
+      "title": "Argentina proyecta el despliegue de F-16 desde Tierra del Fuego con apoyo de la Base Naval Integrada de Ushuaia",
+      "summary": "Zona Militar (15/9), a partir de la conferencia del vocero Adrián Ravier: la futura Base Naval Integrada de Ushuaia se plantea como polo logístico para el Atlántico Sur y la Antártida, con apoyo a P-3 Orion de la Armada y despliegue futuro de F-16 de la Fuerza Aérea. El SArm F-16 operaría desde aeropuertos compatibles (se prevé repavimentar la pista de Río Gallegos); la cercanía del aeropuerto de Ushuaia habilitaría operaciones con adaptación de pista y servicios. Peace Condor incorpora 24 F-16A/B MLU de Dinamarca; el segundo lote llega en los próximos días. Sin restricciones operativas de EE.UU. para el Atlántico Sur. Señal para YPF Aviación: potencial offtake militar de JET A-1 en USH y RGL si se concreta el despliegue austral, más demanda logística antártica.",
+      "source": "Zona Militar",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.zona-militar.com/2026/09/15/argentina-proyecta-el-despliegue-de-cazas-f-16-desde-tierra-del-fuego-con-apoyo-de-la-futura-base-naval-integrada-de-ushuaia/",
+      "publishedAt": "2026-09-16",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    }
+  ]
+}
