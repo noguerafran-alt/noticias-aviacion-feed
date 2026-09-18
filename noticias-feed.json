@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "BA diario LHR-EZE desde 2027; China Eastern SHA-AKL-EZE; handling nuevo; Joy frena ventas; F-16 Ushuaia",
-    "summary": "Comercial: British Airways anuncia servicio diario sin escalas LHR-EZE desde el 28/03/2027 (B777 Club Suite), tag EZE-SCL y Río pasa a servicio dedicado; +25% capacidad LatAm. China Eastern operó el primer Shanghai-Auckland-Buenos Aires (B777 B-2005, 265 pax, 84% ocupación). Dubai Royal Air Wing B747-433(M) A6-COM en EZE (14 pax, STN-EZE-JRO). Joy Airline sigue con venta de pasajes suspendida por temas técnicos; evalúa promociones y posible ajuste de inaugural 30/09 (JUJ-AEP / JUJ-COR, CRJ-200). Gobierno convoca a la industria para el ingreso de nuevos prestadores de handling (Res. 69/2026, plazo 1/12). Masterplan para reactivar el aeropuerto de La Plata (terminal low-cost + logística, USD 93 millones). American Jet publicó tarifas NQN; JetSMART reanudó EZE/AEP-FTE; Aerolíneas Cargo operó BA-Bogotá-Río. Flybondi sigue en tierra. FAA: segundo lote F-16 (Peace Condor) en tránsito; proyección de despliegue desde Tierra del Fuego con apoyo Base Naval Integrada Ushuaia. Brent operó ~USD 105-107 por restricciones persistentes en Hormuz y Red Sea; presión alcista sobre costo de JET A-1.",
-    "generatedAt": "2026-09-18T12:20:00.000Z",
+    "title": "BA diario LHR-EZE desde 2027; China Eastern SHA-AKL-EZE; handling nuevo; Joy frena ventas; F-16 ferry Brasil autorizado; Brent ~103",
+    "summary": "Comercial: British Airways anuncia servicio diario sin escalas LHR-EZE desde el 28/03/2027 (B777 Club Suite), tag EZE-SCL y Río pasa a servicio dedicado; +25% capacidad LatAm. China Eastern operó el primer Shanghai-Auckland-Buenos Aires (B777 B-2005, 265 pax, 84% ocupación). Dubai Royal Air Wing B747-433(M) A6-COM en EZE (14 pax, STN-EZE-JRO). Joy Airline sigue con venta de pasajes suspendida por temas técnicos; evalúa promociones y posible ajuste de inaugural 30/09 (JUJ-AEP / JUJ-COR, CRJ-200). Gobierno convoca a la industria para el ingreso de nuevos prestadores de handling (Res. 69/2026, plazo 1/12). Masterplan para reactivar el aeropuerto de La Plata (terminal low-cost + logística, USD 93 millones). American Jet publicó tarifas NQN; JetSMART reanudó EZE/AEP-FTE; Aerolíneas Cargo operó BA-Bogotá-Río. Flybondi sigue en tierra. FAA: segundo lote F-16 (Peace Condor) en tránsito; Brasil autorizó ingreso y sobrevuelo para escala en Base Aérea de Natal (21/09-01/10); proyección de despliegue desde Tierra del Fuego con apoyo Base Naval Integrada Ushuaia. Brent operó ~USD 102-104 (caída tercera sesión) por esperanzas de reposición parcial de pipeline saudí East-West y cargas STS frente a Omán; prima geopolítica aún elevada por Hormuz y Red Sea; presión moderada sobre costo de JET A-1.",
+    "generatedAt": "2026-09-18T12:30:00.000Z",
     "source": "automation"
   },
   "indicadores": {
@@ -73,6 +73,19 @@
       "fuelTag": "jet",
       "relevance": "media",
       "channel": "x"
+    },
+    {
+      "title": "Brasil autorizó el ingreso de los F-16 de la FAA para el vuelo ferry (escala Natal 21/09-01/10)",
+      "summary": "Zona Militar: Secretaría Especial de la Receita Federal do Brasil autorizó ingreso y sobrevuelo de los seis F-16 del segundo lote Peace Condor. Escala prevista en Base Aérea de Natal. Apoyo logístico de KC-135 USAF y medios propios FAA. Señal de avance operativo del ferry y offtake militar de JET A-1 en bases de tránsito.",
+      "source": "Zona Militar",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.zona-militar.com/2026/09/16/a-dias-del-inicio-del-vuelo-ferry-brasil-autorizo-el-ingreso-de-los-f-16-de-la-fuerza-aerea-argentina-a-su-territorio/",
+      "publishedAt": "2026-09-16",
+      "airline": "Fuerza Aerea Argentina",
+      "segment": "faa",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
     },
     {
       "title": "Joy Airline sigue con venta de pasajes suspendida; evalúa promociones y fecha inaugural 30/09",
@@ -244,12 +257,12 @@
       "channel": "web"
     },
     {
-      "title": "Brent cerca de USD 107 por postergación de charlas sobre Hormuz y riesgos de oferta",
-      "summary": "Brent ~USD 106-108 tras postergación GCC-Irán sobre Hormuz. Prima geopolítica elevada. Presión alcista sobre costo de JET A-1 en Argentina.",
+      "title": "Brent cae a ~USD 102-104 por tercera sesión; esperanzas de pipeline saudí y cargas STS Omán",
+      "summary": "Brent futures ~USD 102-104 (caída ~1-2% por tercera sesión consecutiva). Esperanzas de reposición parcial del pipeline East-West saudí y ofertas de cargas ship-to-ship frente a Omán aliviaron temores de oferta. Prima geopolítica permanece por restricciones en Hormuz y Red Sea. Impacto: presión moderada a la baja sobre el costo de JET A-1 importado a Argentina.",
       "source": "Reuters / Bloomberg / OilPrice",
       "sourceHandle": "",
-      "sourceUrl": "https://financefeeds.com/brent-crude-oil-price-107-oman-postpones-iran-hormuz-talks/",
-      "publishedAt": "2026-09-14",
+      "sourceUrl": "https://www.reuters.com/business/energy/",
+      "publishedAt": "2026-09-18",
       "airline": "-",
       "segment": "brent",
       "fuelTag": "brent",
