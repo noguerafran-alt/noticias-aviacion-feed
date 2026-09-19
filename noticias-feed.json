@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "BA diario LHR-EZE desde 2027; China Eastern SHA-AKL-EZE; handling nuevo; Joy frena ventas; F-16 ferry Brasil autorizado; Brent ~102",
-    "summary": "Comercial: British Airways anuncia servicio diario sin escalas LHR-EZE desde el 28/03/2027 (B777 Club Suite), tag EZE-SCL y Río pasa a servicio dedicado; +25% capacidad LatAm. China Eastern operó el primer Shanghai-Auckland-Buenos Aires (B777 B-2005, 265 pax, 84% ocupación). Dubai Royal Air Wing B747-433(M) A6-COM en EZE (14 pax, STN-EZE-JRO). Joy Airline sigue con venta de pasajes suspendida por temas técnicos; evalúa promociones y posible ajuste de inaugural 30/09 (JUJ-AEP / JUJ-COR, CRJ-200). Gobierno convoca a la industria para el ingreso de nuevos prestadores de handling (Res. 69/2026, plazo 1/12). Masterplan para reactivar el aeropuerto de La Plata (terminal low-cost + logística, USD 93 millones). American Jet publicó tarifas NQN; JetSMART reanudó EZE/AEP-FTE; Aerolíneas Cargo operó BA-Bogotá-Río. Flybondi sigue en tierra. FAA: segundo lote F-16 (Peace Condor) en tránsito; Brasil autorizó ingreso y sobrevuelo para escala en Base Aérea de Natal (21/09-01/10); proyección de despliegue desde Tierra del Fuego con apoyo Base Naval Integrada Ushuaia. Brent operó ~USD 102 (caída tercera sesión) por esperanzas de reposición parcial de pipeline saudí East-West y cargas STS frente a Omán; prima geopolítica aún elevada por Hormuz y Red Sea; presión moderada sobre costo de JET A-1.",
-    "generatedAt": "2026-09-18T12:42:24.000Z",
+    "title": "BA diario LHR-EZE desde 2027; Flybondi 737 LV-KDR vuelve a lessor; OCA Support en EZE; Brent ~104",
+    "summary": "Comercial: British Airways confirma servicio diario sin escalas LHR-EZE desde 28/03/2027 (B777 Club Suite) con tag a SCL; +25% capacidad LatAm. Flybondi: el B737-86N LV-KDR (ex flota) recuperó matrícula N453AC y partió de São José dos Campos hacia EE.UU. tras casi 4 años. Equipos de rampa OCA Support (ex Flybondi) siguen acumulándose en Ezeiza. Gulfstream G700 Qatar Executive A7-CHE operó AEP-BRC. China Eastern SHA-AKL-EZE y Dubai Royal B747 ya reportados. Joy Airline con ventas suspendidas. Handling: mesa de trabajo gobierno-industria. FAA: segundo lote F-16 en ferry (Brasil autorizó Natal); proyección despliegue desde Tierra del Fuego/Ushuaia. Brent cerró ~USD 103,87 (caída semanal 0,71%), prima geopolítica Hormuz/Red Sea aún elevada; presión moderada sobre JET A-1.",
+    "generatedAt": "2026-09-19T08:15:00.000Z",
     "source": "automation"
   },
   "indicadores": {
@@ -22,6 +22,45 @@
     }
   },
   "noticias": [
+    {
+      "title": "Flybondi: B737 LV-KDR recupera matrícula N453AC y parte a EE.UU. tras casi 4 años",
+      "summary": "@SpottersArg: el Boeing 737-86N MSN 37887, que operó casi cuatro años para Flybondi como LV-KDR, volvió a la matrícula N453AC (lessor Aircastle). Partió el 18/09 de São José dos Campos (donde estuvo 7 meses) con rumbo aparente a Estados Unidos. Señal de desmovilización de flota de la low-cost en crisis.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2101092260045902164",
+      "publishedAt": "2026-09-18",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Equipos de rampa OCA Support (ex Flybondi) se acumulan en Ezeiza",
+      "summary": "@SpottersArg: cada vez más equipos de rampa de OCA Support (ex Flybondi) visibles en el aeropuerto de Ezeiza. Refleja la parálisis operativa de la low-cost y posible reasignación o idle de activos de handling.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2101045018219725300",
+      "publishedAt": "2026-09-18",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Gulfstream G700 Qatar Executive A7-CHE operó Buenos Aires-Bariloche",
+      "summary": "@SpottersArg: arribó a Bariloche el Gulfstream G700 de Qatar Executive A7-CHE procedente de Buenos Aires con 1 pasajero. Operación ejecutiva puntual de alto consumo en BRC.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2101116681129210053",
+      "publishedAt": "2026-09-19",
+      "airline": "Qatar Executive",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
     {
       "title": "British Airways: servicio diario sin escalas LHR-EZE desde 28/03/2027 (B777 Club Suite)",
       "summary": "BA operará vuelo diario y sin escalas Londres-Heathrow-Buenos Aires desde el verano boreal 2027, con Boeing 777 Club Suite. Tag EZE-SCL; Río de Janeiro pasa a servicio dedicado. +25% capacidad en LatAm. Señal de offtake incremental de JET A-1 en EZE a partir de 2027.",
@@ -257,9 +296,9 @@
       "channel": "web"
     },
     {
-      "title": "Brent cae a ~USD 102 por tercera sesión; esperanzas de pipeline saudí y cargas STS Omán",
-      "summary": "Brent futures ~USD 102 (caída ~2% por tercera sesión consecutiva). Esperanzas de reposición parcial del pipeline East-West saudí y ofertas de cargas ship-to-ship frente a Omán aliviaron temores de oferta. Prima geopolítica permanece por restricciones en Hormuz y Red Sea. Impacto: presión moderada a la baja sobre el costo de JET A-1 importado a Argentina.",
-      "source": "Reuters / Bloomberg / OilPrice",
+      "title": "Brent cierra ~USD 103,87 (caída semanal 0,71%); prima Hormuz/Red Sea sigue elevada",
+      "summary": "Brent front-month liquidó el 18/09 en USD 103,87 (−0,71% semanal, tercera sesión a la baja). Mercados evalúan reparación parcial pipeline saudí East-West y cargas STS frente a Omán frente a riesgos persistentes en Hormuz y Red Sea. Impacto: presión moderada a la baja sobre el costo de JET A-1 importado a Argentina, aunque la prima geopolítica permanece.",
+      "source": "Reuters / MarketWatch / Dow Jones",
       "sourceHandle": "",
       "sourceUrl": "https://www.reuters.com/business/energy/",
       "publishedAt": "2026-09-18",
