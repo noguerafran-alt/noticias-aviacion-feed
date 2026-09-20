@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "JetSMART Posadas para paraguayos; Air Europa COR 100%; AA Uruguay-BRC; Brent ~104",
-    "summary": "Comercial: JetSMART promociona Posadas–AEP (diario desde 1/11) como puerta para residentes de Itapúa (Paraguay) con tarifas desde USD 66 y conexiones. Air Europa UX121 MAD-COR llegó con 339 pax (100% ocupación). Aerolíneas Argentinas operó 4 vuelos Uruguay-Bariloche el 19/09. Flybondi: LV-KDR a lessor y equipos OCA en EZE ya reportados. FAA: F-16 segundo lote ferry (Natal) y proyección Ushuaia intactos. Brent ~USD 104 (fin de semana sin cambios materiales); prima Hormuz/Red Sea sigue elevada con presión moderada sobre JET A-1.",
-    "generatedAt": "2026-09-20T08:10:00.000Z",
+    "title": "Uruguay-AR leasing + trabajo aéreo; JetSMART SKYTRAX; combustible caro 2027; Posadas paraguayos",
+    "summary": "Comercial: ANAC-DINACIA amplían MoU a interchange/wet/dry lease y trabajo aéreo. JetSMART revalida SKYTRAX Mejor Ultra Low-Cost Sudamérica 2026 (4ª vez). SirChandler: JP1 Madrid +117% amenaza capacidad 2027. JetSMART Posadas–AEP para Itapúa (desde 1/11). Air Europa COR 100%; AA 4 vuelos UY-BRC. Flybondi LV-KDR a lessor. FAA: F-16 ferry Natal y Ushuaia intactos. Brent ~103,87 (fin de semana); prima Hormuz/Red Sea elevada con presión sobre JET A-1.",
+    "generatedAt": "2026-09-20T12:45:00.000Z",
     "source": "automation"
   },
   "indicadores": {
@@ -22,6 +22,19 @@
     }
   },
   "noticias": [
+    {
+      "title": "El combustible caro amenaza vuelos y precios para 2027",
+      "summary": "SirChandler: desde la crisis Golfo Pérsico el JP1 en Madrid llegó a USD 1.519/tm (+117% vs pre-conflicto). Impacto global en aerolíneas con baja cobertura/liquidez; AA estima +USD 1.000 M solo en Q4; United recorta capacidad. Riesgo de ajustes de oferta y tarifas más altas hacia 2027. Señal de presión sostenida sobre costo de JET A-1 y offtake en rutas marginales.",
+      "source": "Sir Chandler",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/09/el-combustible-caro-amenaza-vuelos-y-precios-para-2027/",
+      "publishedAt": "2026-09-19",
+      "airline": "-",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
     {
       "title": "JetSMART promociona Posadas–Buenos Aires como puerta aérea para paraguayos de Itapúa",
       "summary": "Aviacionline: con tarifas desde USD 66, JetSMART impulsa su nueva ruta diaria Posadas–Aeroparque (desde 1/11, A320/A321) hacia residentes del departamento paraguayo de Itapúa (Encarnación). Conexiones vía AEP a Bariloche, Mendoza, Neuquén y más. Encarnación aún sin operaciones regulares consolidadas. Señal de offtake incremental de JET A-1 en POS y AEP.",
@@ -60,6 +73,32 @@
       "fuelTag": "jet",
       "relevance": "media",
       "channel": "x"
+    },
+    {
+      "title": "Argentina y Uruguay amplían MoU de cooperación aeronáutica: leasing y trabajo aéreo",
+      "summary": "Aviacionline / Aviation Club Center: ANAC y DINACIA firmaron memorando que flexibiliza interchange, wet lease y dry lease, e incorpora operaciones de trabajo aéreo (aeroaplicación, incendios). Profundiza acuerdo de febrero 2025 con doble vigilancia. Facilita uso eficiente de flotas binacionales y offtake potencial de JET A-1 / AVGAS en ambos países.",
+      "source": "Aviacionline",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/los-cielos-de-argentina-y-uruguay-mas-integrados-tras-la-ampliacion-del-acuerdo-bilateral_a6aad5f621b0ea259a5661f5e",
+      "publishedAt": "2026-09-18",
+      "airline": "-",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "JetSMART revalida SKYTRAX como Mejor Ultra Low-Cost de Sudamérica 2026",
+      "summary": "Aviation Club Center: JetSMART obtuvo por cuarta vez (segunda consecutiva) el reconocimiento SKYTRAX Mejor Aerolínea Ultra Low-Cost de Sudamérica. Flota 56 A320/A321 (más joven de la región); plan 62 aviones a fin 2026 y 120 hacia 2031. +60 M pax transportados. Señal de consolidación del modelo low-cost y offtake sostenido de JET A-1.",
+      "source": "Aviation Club Center",
+      "sourceHandle": "",
+      "sourceUrl": "https://aviationclubcenter.com/2026/09/18/jetsmart-vuelve-a-ser-reconocida-por-skytrax-como-la-mejor-ultra-low-cost-de-sudamerica/",
+      "publishedAt": "2026-09-18",
+      "airline": "JetSMART",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
     },
     {
       "title": "Flybondi: B737 LV-KDR recupera matrícula N453AC y parte a EE.UU. tras casi 4 años",
