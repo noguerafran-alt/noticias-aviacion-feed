@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "BA diario LHR-EZE desde 2027; Flybondi 737 LV-KDR vuelve a lessor; OCA Support en EZE; Brent ~104",
-    "summary": "Comercial: British Airways confirma servicio diario sin escalas LHR-EZE desde 28/03/2027 (B777 Club Suite) con tag a SCL; +25% capacidad LatAm. Flybondi: el B737-86N LV-KDR (ex flota) recuperó matrícula N453AC y partió de São José dos Campos hacia EE.UU. tras casi 4 años. Equipos de rampa OCA Support (ex Flybondi) siguen acumulándose en Ezeiza. Gulfstream G700 Qatar Executive A7-CHE operó AEP-BRC. China Eastern SHA-AKL-EZE y Dubai Royal B747 ya reportados. Joy Airline con ventas suspendidas. Handling: mesa de trabajo gobierno-industria. FAA: segundo lote F-16 en ferry (Brasil autorizó Natal); proyección despliegue desde Tierra del Fuego/Ushuaia. Brent cerró ~USD 103,87 (caída semanal 0,71%), prima geopolítica Hormuz/Red Sea aún elevada; presión moderada sobre JET A-1.",
-    "generatedAt": "2026-09-19T08:15:00.000Z",
+    "title": "JetSMART Posadas para paraguayos; Air Europa COR 100%; AA Uruguay-BRC; Brent ~104",
+    "summary": "Comercial: JetSMART promociona Posadas–AEP (diario desde 1/11) como puerta para residentes de Itapúa (Paraguay) con tarifas desde USD 66 y conexiones. Air Europa UX121 MAD-COR llegó con 339 pax (100% ocupación). Aerolíneas Argentinas operó 4 vuelos Uruguay-Bariloche el 19/09. Flybondi: LV-KDR a lessor y equipos OCA en EZE ya reportados. FAA: F-16 segundo lote ferry (Natal) y proyección Ushuaia intactos. Brent ~USD 104 (fin de semana sin cambios materiales); prima Hormuz/Red Sea sigue elevada con presión moderada sobre JET A-1.",
+    "generatedAt": "2026-09-20T08:10:00.000Z",
     "source": "automation"
   },
   "indicadores": {
@@ -22,6 +22,45 @@
     }
   },
   "noticias": [
+    {
+      "title": "JetSMART promociona Posadas–Buenos Aires como puerta aérea para paraguayos de Itapúa",
+      "summary": "Aviacionline: con tarifas desde USD 66, JetSMART impulsa su nueva ruta diaria Posadas–Aeroparque (desde 1/11, A320/A321) hacia residentes del departamento paraguayo de Itapúa (Encarnación). Conexiones vía AEP a Bariloche, Mendoza, Neuquén y más. Encarnación aún sin operaciones regulares consolidadas. Señal de offtake incremental de JET A-1 en POS y AEP.",
+      "source": "Aviacionline",
+      "sourceHandle": "",
+      "sourceUrl": "https://www.aviacionline.com/english/commercial-aviation/latin-america-and-caribbean/argentina/jetsmart-targets-paraguayan-passengers-using-an-argentine-border-airport_a6aae9721477e4600bbe0216f",
+      "publishedAt": "2026-09-19",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Air Europa UX121 Madrid-Córdoba: 339 pasajeros, 100% ocupación",
+      "summary": "@SpottersArg: el vuelo UX121 de Air Europa procedente de Madrid arribó a Córdoba con 339 pasajeros (ocupación plena). Señal de demanda sólida en la ruta europea y offtake de JET A-1 en COR.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2101371612410917094",
+      "publishedAt": "2026-09-19",
+      "airline": "Air Europa",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Aerolíneas Argentinas operó 4 vuelos Uruguay-Bariloche el 19/09",
+      "summary": "@SpottersArg: Aerolíneas Argentinas operó hoy 4 vuelos entre Uruguay y Bariloche (3 desde Montevideo y 1 desde Punta del Este). Operación puntual de cabotaje regional con offtake de JET A-1 en BRC y puntos uruguayos.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2101310180986179834",
+      "publishedAt": "2026-09-19",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
     {
       "title": "Flybondi: B737 LV-KDR recupera matrícula N453AC y parte a EE.UU. tras casi 4 años",
       "summary": "@SpottersArg: el Boeing 737-86N MSN 37887, que operó casi cuatro años para Flybondi como LV-KDR, volvió a la matrícula N453AC (lessor Aircastle). Partió el 18/09 de São José dos Campos (donde estuvo 7 meses) con rumbo aparente a Estados Unidos. Señal de desmovilización de flota de la low-cost en crisis.",
