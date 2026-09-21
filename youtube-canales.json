@@ -1,0 +1,48 @@
+{
+  "updatedAt": "2026-09-21",
+  "reglaMail": "El mail diario incluye exactamente UN video (el featuredAt m\u00e1s reciente que no est\u00e9 en youtube-mail.json).",
+  "canales": [
+    {
+      "name": "Coby Explanes",
+      "handle": "cobyexplanes",
+      "url": "https://www.youtube.com/@cobyexplanes",
+      "eje": "flota / fabricantes / widebody"
+    },
+    {
+      "name": "Plane Curious",
+      "handle": "planecurious",
+      "url": "https://www.youtube.com/@planecurious",
+      "eje": "red / aerol\u00edneas / estrategia"
+    },
+    {
+      "name": "Mentour Pilot",
+      "handle": "MentourPilot",
+      "url": "https://www.youtube.com/@MentourPilot",
+      "eje": "seguridad / operaciones"
+    },
+    {
+      "name": "Mentour Now",
+      "handle": "MentourNow",
+      "url": "https://www.youtube.com/@MentourNow",
+      "eje": "industria / Boeing calidad"
+    },
+    {
+      "name": "Simple Flying",
+      "handle": "SimpleFlyingNews",
+      "url": "https://www.youtube.com/@SimpleFlyingNews",
+      "eje": "noticias industria"
+    },
+    {
+      "name": "74 Gear",
+      "handle": "74Gear",
+      "url": "https://www.youtube.com/@74Gear",
+      "eje": "ULCC / flota / costos"
+    },
+    {
+      "name": "Geekonomy",
+      "handle": "Geekonomy",
+      "url": "https://www.youtube.com/@Geekonomy",
+      "eje": "energ\u00eda / crudo / jet fuel"
+    }
+  ]
+}
