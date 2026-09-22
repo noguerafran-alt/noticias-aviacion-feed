@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-21",
+  "featuredAt": "2026-09-22",
   "item": {
-    "title": "Coby Explanes: Emirates no quiere los 777X tempranos que Boeing ya fabricó",
-    "summary": "Video (Coby Explanes, 6 ago 2026). Tim Clark rechazó en Farnborough los 10 primeros 777X armados en 2021 para tapar el hueco de producción: el diseño cambió en ensayo y hay que rehacerlos (análogo a los 787 'terrible teens'). Si Emirates no los toma, compradores posibles son clientes 777/777X que acepten penalidad de performance a cambio de precio: Ethiopian, Air India, United. Señal para el widebody: white tails / renegociación de slots, y presión de CASK en rutas largas mientras el jet sigue caro. Featured en el briefing del 21/09.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=y-vWWYP3q3g",
-    "publishedAt": "2026-09-21",
-    "airline": "Emirates",
+    "title": "Simple Flying: el A321XLR no sostuvo la ruta troncal Toronto–Heathrow",
+    "summary": "Air Canada programó el A321XLR en el AC852 Toronto–Heathrow y lo retiró del schedule antes del primer pasajero. Restaura 777 y 787 para no recortar asientos premium ni capacidad de panza. El XLR recorta ~45% el costo de viaje frente a un widebody y sirve para abrir rutas finas con jet caro, pero en un trunk con conexiones y carga el techo de 180 asientos mata el ingreso. Lectura para YPF Aviación: el jet alto empuja down-gauging en long-haul marginal, no en los widebodies que concentran offtake de JET A-1 en EZE.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=DJ6Jn7OZ_fU",
+    "publishedAt": "2026-09-22",
+    "airline": "Air Canada",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "y-vWWYP3q3g",
-    "featuredAt": "2026-09-21"
+    "videoId": "DJ6Jn7OZ_fU",
+    "featuredAt": "2026-09-22"
   }
 }
