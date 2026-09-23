@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-22",
+  "featuredAt": "2026-09-23",
   "item": {
-    "title": "Simple Flying: el A321XLR no sostuvo la ruta troncal Toronto–Heathrow",
-    "summary": "Air Canada programó el A321XLR en el AC852 Toronto–Heathrow y lo retiró del schedule antes del primer pasajero. Restaura 777 y 787 para no recortar asientos premium ni capacidad de panza. El XLR recorta ~45% el costo de viaje frente a un widebody y sirve para abrir rutas finas con jet caro, pero en un trunk con conexiones y carga el techo de 180 asientos mata el ingreso. Lectura para YPF Aviación: el jet alto empuja down-gauging en long-haul marginal, no en los widebodies que concentran offtake de JET A-1 en EZE.",
+    "title": "Simple Flying: camión de combustible daña 747-8 de Air China en JFK y vierte JET A-1",
+    "summary": "Un camión de reabastecimiento se retiró con las mangueras todavía conectadas al Boeing 747-8 B-2486 de Air China en JFK, dañando los puertos de reabastecimiento del ala y derramando jet fuel en la rampa. El vuelo CA982 a Pekín se canceló; la aeronave quedó en tierra dos días. Ningún herido. El video muestra el chorro de combustible y al conductor bajando con calma. Recordatorio operativo de interlocks y procedimientos de handling de JET A-1 en aeropuertos de alto tráfico. Lectura para YPF Aviación: el costo y el riesgo del offtake de jet en rampa sigue siendo un punto de atención operativa global.",
     "source": "Simple Flying",
     "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=DJ6Jn7OZ_fU",
-    "publishedAt": "2026-09-22",
-    "airline": "Air Canada",
+    "sourceUrl": "https://www.youtube.com/watch?v=i3OgsQ_291M",
+    "publishedAt": "2026-09-23",
+    "airline": "Air China",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "DJ6Jn7OZ_fU",
-    "featuredAt": "2026-09-22"
+    "videoId": "i3OgsQ_291M",
+    "featuredAt": "2026-09-23"
   }
 }
