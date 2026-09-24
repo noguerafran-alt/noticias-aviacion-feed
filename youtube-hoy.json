@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-23",
+  "featuredAt": "2026-09-24",
   "item": {
-    "title": "Simple Flying: camión de combustible daña 747-8 de Air China en JFK y vierte JET A-1",
-    "summary": "Un camión de reabastecimiento se retiró con las mangueras todavía conectadas al Boeing 747-8 B-2486 de Air China en JFK, dañando los puertos de reabastecimiento del ala y derramando jet fuel en la rampa. El vuelo CA982 a Pekín se canceló; la aeronave quedó en tierra dos días. Ningún herido. El video muestra el chorro de combustible y al conductor bajando con calma. Recordatorio operativo de interlocks y procedimientos de handling de JET A-1 en aeropuertos de alto tráfico. Lectura para YPF Aviación: el costo y el riesgo del offtake de jet en rampa sigue siendo un punto de atención operativa global.",
+    "title": "Simple Flying: más de diez 737 MAX y A320neo van a desguace en 2026 por demanda de partes",
+    "summary": "Simple Flying reporta que más de diez jets de nueva generación (737 MAX y A320neo) están programados para teardown este año porque el mercado de partes usadas rinde más que mantener las aeronaves en servicio en algunas flotas. El fenómeno refleja presión de costos operativos —combustible, mantenimiento y availability— y un mercado de spare parts tensionado. Para offtake de JET A-1, menos horas de vuelo en esos cascos puntuales no cambia el consumo agregado de las flotas que sí vuelan, pero sí marca cómo las aerolíneas recortan aviones ineficientes o dañados. Lectura para YPF Aviación: el costo del jet sigue siendo el filtro que decide qué avión se repara y cuál se canibaliza.",
     "source": "Simple Flying",
     "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=i3OgsQ_291M",
-    "publishedAt": "2026-09-23",
-    "airline": "Air China",
+    "sourceUrl": "https://www.youtube.com/watch?v=dipO4_Zmc7A",
+    "publishedAt": "2026-09-24",
+    "airline": "—",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "i3OgsQ_291M",
-    "featuredAt": "2026-09-23"
+    "videoId": "dipO4_Zmc7A",
+    "featuredAt": "2026-09-24"
   }
 }
