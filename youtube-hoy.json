@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-24",
+  "featuredAt": "2026-09-25",
   "item": {
-    "title": "Simple Flying: más de diez 737 MAX y A320neo van a desguace en 2026 por demanda de partes",
-    "summary": "Simple Flying reporta que más de diez jets de nueva generación (737 MAX y A320neo) están programados para teardown este año porque el mercado de partes usadas rinde más que mantener las aeronaves en servicio en algunas flotas. El fenómeno refleja presión de costos operativos —combustible, mantenimiento y availability— y un mercado de spare parts tensionado. Para offtake de JET A-1, menos horas de vuelo en esos cascos puntuales no cambia el consumo agregado de las flotas que sí vuelan, pero sí marca cómo las aerolíneas recortan aviones ineficientes o dañados. Lectura para YPF Aviación: el costo del jet sigue siendo el filtro que decide qué avión se repara y cuál se canibaliza.",
+    "title": "Simple Flying: Amerijet 767-300F dañado tras aterrizaje duro en Guatemala",
+    "summary": "Simple Flying reporta otro fuselaje fisurado: un Boeing 767-300F de Amerijet resultó dañado tras un aterrizaje duro en Guatemala. Un freighter fuera de servicio recorta horas y consumo puntual de JET A-1 en esa célula, y refuerza la tensión de availability de widebodies de carga. Lectura para YPF Aviación: cada baja no programada mueve el mix de flota que sí carga combustible en la región.",
     "source": "Simple Flying",
     "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=dipO4_Zmc7A",
-    "publishedAt": "2026-09-24",
-    "airline": "—",
+    "sourceUrl": "https://www.youtube.com/watch?v=uNir4e7jyCM",
+    "publishedAt": "2026-09-25",
+    "airline": "Amerijet",
     "segment": "analisis",
     "fuelTag": "jet",
-    "relevance": "alta",
+    "relevance": "media",
     "channel": "youtube",
-    "videoId": "dipO4_Zmc7A",
-    "featuredAt": "2026-09-24"
+    "videoId": "uNir4e7jyCM",
+    "featuredAt": "2026-09-25"
   }
 }
