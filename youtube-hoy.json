@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-25",
+  "featuredAt": "2026-09-26",
   "item": {
-    "title": "Simple Flying: Amerijet 767-300F dañado tras aterrizaje duro en Guatemala",
-    "summary": "Simple Flying reporta otro fuselaje fisurado: un Boeing 767-300F de Amerijet resultó dañado tras un aterrizaje duro en Guatemala. Un freighter fuera de servicio recorta horas y consumo puntual de JET A-1 en esa célula, y refuerza la tensión de availability de widebodies de carga. Lectura para YPF Aviación: cada baja no programada mueve el mix de flota que sí carga combustible en la región.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=uNir4e7jyCM",
-    "publishedAt": "2026-09-25",
-    "airline": "Amerijet",
+    "title": "Coby Explanes: Qantas es apenas el comienzo del A350-1000ULR",
+    "summary": "Coby Explanes analiza el A350-1000ULR a partir del caso Qantas: el ultra-largo radio concentra horas y consumo de JET A-1 en pocos fuselajes de alto utilization. Si el tipo se replica, el mix de flota empuja más toneladas de jet por avión y menos escalas. Lectura para YPF Aviación: los ULR que tocan EZE o alimentan hubs que sí lo hacen son los que más mueven el offtake por rotación.",
+    "source": "Coby Explanes",
+    "sourceHandle": "cobyexplanes",
+    "sourceUrl": "https://www.youtube.com/watch?v=7PwKs_qu9Bw",
+    "publishedAt": "2026-09-26",
+    "airline": "Qantas",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "uNir4e7jyCM",
-    "featuredAt": "2026-09-25"
+    "videoId": "7PwKs_qu9Bw",
+    "featuredAt": "2026-09-26"
   }
 }
