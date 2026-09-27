@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-26",
+  "featuredAt": "2026-09-27",
   "item": {
-    "title": "Coby Explanes: Qantas es apenas el comienzo del A350-1000ULR",
-    "summary": "Coby Explanes analiza el A350-1000ULR a partir del caso Qantas: el ultra-largo radio concentra horas y consumo de JET A-1 en pocos fuselajes de alto utilization. Si el tipo se replica, el mix de flota empuja más toneladas de jet por avión y menos escalas. Lectura para YPF Aviación: los ULR que tocan EZE o alimentan hubs que sí lo hacen son los que más mueven el offtake por rotación.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=7PwKs_qu9Bw",
-    "publishedAt": "2026-09-26",
-    "airline": "Qantas",
+    "title": "Simple Flying: el mundo se queda corto de widebodies",
+    "summary": "Simple Flying explica por qué escasean los widebody: 777X demorado más de seis años, A350 limitado a seis por mes y A330neo en cuatro. Los pedidos de 787 y 777X están vendidos hasta la década de 2030. Lectura para YPF Aviación: menos entrega de twin-aisle fuerza a estirar horas de los A330/787 que sí tocan EZE, concentrando JET A-1 en menos fuselajes de alto utilization.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=JnF7reVGQjA",
+    "publishedAt": "2026-09-27",
+    "airline": "—",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "7PwKs_qu9Bw",
-    "featuredAt": "2026-09-26"
+    "videoId": "JnF7reVGQjA",
+    "featuredAt": "2026-09-27"
   }
 }
