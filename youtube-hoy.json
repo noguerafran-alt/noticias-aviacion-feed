@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-27",
+  "featuredAt": "2026-09-28",
   "item": {
-    "title": "Simple Flying: el mundo se queda corto de widebodies",
-    "summary": "Simple Flying explica por qué escasean los widebody: 777X demorado más de seis años, A350 limitado a seis por mes y A330neo en cuatro. Los pedidos de 787 y 777X están vendidos hasta la década de 2030. Lectura para YPF Aviación: menos entrega de twin-aisle fuerza a estirar horas de los A330/787 que sí tocan EZE, concentrando JET A-1 en menos fuselajes de alto utilization.",
+    "title": "Simple Flying: cuánto combustible ahorran de verdad los winglets",
+    "summary": "Simple Flying desmenuza el ahorro real de los winglets: en un narrowbody de corto-medio radio el recorte de arrastre suele ubicarse en el 4–6% de combustible en crucero. Con Brent cerca de USD 106 y Jet 54 USGC en 435,4 cpg, cada punto de burn en la flota A320/737 que toca EZE y AEP se traduce en offtake diario.",
     "source": "Simple Flying",
     "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=JnF7reVGQjA",
-    "publishedAt": "2026-09-27",
+    "sourceUrl": "https://www.youtube.com/watch?v=cC1MR6inNbM",
+    "publishedAt": "2026-09-28",
     "airline": "—",
     "segment": "analisis",
     "fuelTag": "jet",
-    "relevance": "media",
+    "relevance": "alta",
     "channel": "youtube",
-    "videoId": "JnF7reVGQjA",
-    "featuredAt": "2026-09-27"
+    "videoId": "cC1MR6inNbM",
+    "featuredAt": "2026-09-28"
   }
 }
