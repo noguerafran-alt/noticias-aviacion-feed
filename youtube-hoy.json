@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-28",
+  "featuredAt": "2026-09-29",
   "item": {
-    "title": "Simple Flying: cuánto combustible ahorran de verdad los winglets",
-    "summary": "Simple Flying desmenuza el ahorro real de los winglets: en un narrowbody de corto-medio radio el recorte de arrastre suele ubicarse en el 4–6% de combustible en crucero. Con Brent cerca de USD 106 y Jet 54 USGC en 435,4 cpg, cada punto de burn en la flota A320/737 que toca EZE y AEP se traduce en offtake diario.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=cC1MR6inNbM",
-    "publishedAt": "2026-09-28",
-    "airline": "—",
+    "title": "Coby Explanes: quién más comprará el A350-1000ULR además de Qantas",
+    "summary": "Coby analiza el A350-1000ULR, un widebody de ultra largo radio con un solo cliente (Qantas, 12 unidades) tras un test de más de 24 horas Melbourne–Toulouse. Airbus apuesta a más pedidos. Con Brent cerca de USD 107 y Jet 54 en 435,4 cpg, el burn de un twin-aisle ULR redefine costos de largo radio y disputa horas de flota que hoy cubren EZE–Europa con A330/787.",
+    "source": "Coby Explanes",
+    "sourceHandle": "cobyexplanes",
+    "sourceUrl": "https://www.youtube.com/watch?v=7PwKs_qu9Bw",
+    "publishedAt": "2026-09-29",
+    "airline": "Qantas",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "cC1MR6inNbM",
-    "featuredAt": "2026-09-28"
+    "videoId": "7PwKs_qu9Bw",
+    "featuredAt": "2026-09-29"
   }
 }
