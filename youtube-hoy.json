@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-09-29",
+  "featuredAt": "2026-09-30",
   "item": {
-    "title": "Coby Explanes: quién más comprará el A350-1000ULR además de Qantas",
-    "summary": "Coby analiza el A350-1000ULR, un widebody de ultra largo radio con un solo cliente (Qantas, 12 unidades) tras un test de más de 24 horas Melbourne–Toulouse. Airbus apuesta a más pedidos. Con Brent cerca de USD 107 y Jet 54 en 435,4 cpg, el burn de un twin-aisle ULR redefine costos de largo radio y disputa horas de flota que hoy cubren EZE–Europa con A330/787.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=7PwKs_qu9Bw",
-    "publishedAt": "2026-09-29",
-    "airline": "Qantas",
+    "title": "Mentour Pilot: por qué el jet en las alas evita que el avión se rompa",
+    "summary": "Mentour explica que el combustible en las alas no es solo energía: alivia flexión estructural. Con Brent en torno a USD 103 y Jet 54 FRED en 435,4 cpg, cada kilo en tanque de ala es costo y alivio de carga. El short conecta burn, peso y fatiga de flota que opera EZE y el interior.\n\nPlanificar offtake no es solo llenar a tope: vaciar alas de más o tankerear de más cambia tensiones. En rutas largas con JET caro, el trade-off entre precio del litro y vida útil de la célula pesa en el dispatch.\n\nPara el mapa de combustible aéreo el dato es operacional: más ciclos AR/LCC y el ferry F-16 no cambian la física. El jet se paga dos veces.",
+    "source": "Mentour Pilot",
+    "sourceHandle": "MentourPilot",
+    "sourceUrl": "https://www.youtube.com/watch?v=aeqSxfid4tg",
+    "publishedAt": "2026-09-30",
+    "airline": "—",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "7PwKs_qu9Bw",
-    "featuredAt": "2026-09-29"
+    "videoId": "aeqSxfid4tg",
+    "featuredAt": "2026-09-30"
   }
 }
