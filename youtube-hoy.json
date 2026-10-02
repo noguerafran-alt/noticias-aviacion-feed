@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-01",
+  "featuredAt": "2026-10-02",
   "item": {
-    "title": "Simple Flying: la corte de Londres puede liquidar el A380 de Global Airlines",
-    "summary": "Simple Flying cubre el winding-up de Global Airlines en High Court: un A380 parado en Francia, petition CR-2026-004213 y plazo de cuentas al 30/09. El CEO promete Maldives antes de Navidad.\n\nUn widebody idle no quema JET, pero el caso muestra el costo fijo de mantener células grandes con combustible caro y demanda incierta.\n\nPara el mapa: cada A350/A380 que sí vuela (World2Fly a Rosario) concentra offtake; los que no vuelan solo consumen hangar.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=bJjMev8FqZ0",
-    "publishedAt": "2026-10-01",
-    "airline": "Global Airlines",
+    "title": "Mentour Pilot: el 787 de Vietnam Airlines que tiró combustible en Múnich",
+    "summary": "Mentour Pilot resume el informe interino del Vietnam Airlines 34, un Boeing 787-9 que el 12 de agosto se pasó de pista al despegar de Múnich: tail strike, luces de pista rotas y regreso tras arrojar varias toneladas de combustible.\n\nEl reporte indica que los frenos siguieron aplicados durante la carrera. El capitán, con más de 27.000 horas, iba en el asiento izquierdo. No es un evento argentino, pero es el caso de la semana en la watchlist que mueve flota y combustible: un widebody en tierra y un dump de JET no programado.\n\nSirve como recordatorio operativo mientras el jet del Golfo sigue arriba de 430 centavos por galón.",
+    "source": "Mentour Pilot",
+    "sourceHandle": "MentourPilot",
+    "sourceUrl": "https://www.youtube.com/shorts/pjTod9jzXTM",
+    "publishedAt": "2026-10-02",
+    "airline": "Vietnam Airlines",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "bJjMev8FqZ0",
-    "featuredAt": "2026-10-01"
+    "videoId": "pjTod9jzXTM",
+    "featuredAt": "2026-10-02"
   }
 }
