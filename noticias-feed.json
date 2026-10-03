@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing aviación 2026-10-02",
-    "summary": "JetSMART reabre Jujuy lleno; World2Fly inaugura Rosario–Madrid con A350; Flybondi despide el 737 LV-KDQ desde Ezeiza. La FAA completa 12 de 24 F-16 en Río Cuarto. Brent otra vez cerca de USD 100 porque China corta exportaciones de productos y Hormuz no se normaliza. Jet 54 USGC 439,9 cpg.",
-    "generatedAt": "2026-10-02T03:20:00-03:00",
+    "title": "Briefing aviación 2026-10-03",
+    "summary": "JetSMART metió el A321neo de 240 plazas, lleno, en el segundo día de Jujuy. Lynden Air Cargo dejó el primer Hercules en Ezeiza y World2Fly ya tiene el marco de ANAC en Rosario–Madrid. La FAA suma matrículas del segundo lote F-16 (12 de 24). Brent se sostiene arriba de USD 101–102 con un tercer portaaviones hacia el Golfo. Jet 54 USGC sin dato nuevo: 439,9 cpg al 29/09.",
+    "generatedAt": "2026-10-03T03:20:00-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -23,6 +23,21 @@
   },
   "noticias": [
     {
+      "title": "Simple Flying: la audiencia de Londres que puede liquidar el intento de revivir el A380",
+      "summary": "Simple Flying cubre la audiencia en el High Court de Londres que puede terminar con Global Airlines, la startup que quiere devolver un Airbus A380 al servicio regular. El 29 de mayo de 2026 se presentó el winding-up petition CR-2026-004213, el recurso más duro del derecho societario inglés: congela cuentas y puede forzar la liquidación.\n\nEl único A380 con marca de la compañía, 9H-GLOBL, completó apenas dos idas y vueltas (cuatro vuelos) en wet lease con Hi Fly Malta, 62 horas de vuelo en 20 días operativos, y volvió a almacenamiento en Francia. El CEO James Asquith sigue diciendo que el avión volvería antes de Navidad 2026 con rutas Reino Unido–Maldivas. Hay plazo al 30 de septiembre de 2026 para presentar las cuentas auditadas de 2025.\n\nNo es una nota argentina, pero es el video de la semana en la watchlist que habla de widebody parado: un A380 en tierra es uplift de JET A-1 que no se concreta. Con el jet del Golfo todavía en 439,9 centavos por galón, revivir un cuatrimotor de alto consumo es todavía más difícil.",
+      "source": "Simple Flying",
+      "sourceHandle": "SimpleFlyingNews",
+      "sourceUrl": "https://www.youtube.com/watch?v=bJjMev8FqZ0",
+      "publishedAt": "2026-10-03",
+      "airline": "Global Airlines",
+      "segment": "analisis",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "youtube",
+      "videoId": "bJjMev8FqZ0",
+      "featuredAt": "2026-10-03"
+    },
+    {
       "title": "Mentour Pilot: el 787 de Vietnam Airlines que tiró combustible en Múnich",
       "summary": "Mentour Pilot resume el informe interino del Vietnam Airlines 34, un Boeing 787-9 que el 12 de agosto se pasó de pista al despegar de Múnich: tail strike, luces de pista rotas y regreso tras arrojar varias toneladas de combustible.\n\nEl reporte indica que los frenos siguieron aplicados durante la carrera. El capitán, con más de 27.000 horas, iba en el asiento izquierdo. No es un evento argentino, pero es el caso de la semana en la watchlist que mueve flota y combustible: un widebody en tierra y un dump de JET no programado.\n\nSirve como recordatorio operativo mientras el jet del Golfo sigue arriba de 430 centavos por galón.",
       "source": "Mentour Pilot",
@@ -36,6 +51,123 @@
       "channel": "youtube",
       "videoId": "pjTod9jzXTM",
       "featuredAt": "2026-10-02"
+    },
+    {
+      "title": "SpottersArg: primer Hercules de Lynden Air Cargo en Ezeiza, el L-100-30 N409LC",
+      "summary": "El 2 de octubre @SpottersArg registró el primer aterrizaje en Argentina de Lynden Air Cargo. El Lockheed L-100-30 Hercules N409LC, de 50 años, llegó a Ezeiza desde Asunción. Después pasó por Quito, Santiago de Chile y volvió a Asunción, con regreso previsto al día siguiente.\n\nEl L-100 es la versión civil del C-130. No es un vuelo de línea, pero sí carga y uplift de JET A-1 en Ezeiza, el principal punto de combustible del país. Una célula de medio siglo en plataforma también marca que el aeropuerto sigue recibiendo cargueros fuera de la red regular.\n\nPara el mapa de offtake es un extra puntual, no una ruta nueva. Suma litros en Ezeiza mientras Flybondi sigue sin flota propia en servicio.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2106117887744458987",
+      "publishedAt": "2026-10-02",
+      "airline": "Lynden Air Cargo",
+      "segment": "flota",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "SpottersArg: JetSMART metió el A321neo de 240 plazas en el segundo vuelo a Jujuy",
+      "summary": "El 2 de octubre @SpottersArg marcó que JetSMART Argentina ya usó el Airbus A321neo de 240 asientos en el segundo vuelo a Jujuy, otra vez al 100% de ocupación. La compañía va a mantener un mix de A320 y A321 en la ruta diaria al aeropuerto Gobernador Horacio Guzmán.\n\nEl salto de 186 a 240 plazas en el mismo tramo sube el consumo de JET A-1 por rotación en Aeroparque y en Jujuy, sin abrir un aeropuerto nuevo. Encaja con el plan de llegar a 19 aviones en diciembre y superar los 20 en enero, y con los más de 800 vuelos semanales anunciados para el verano 2027.\n\nEs la confirmación operativa del reinicio del 1 de octubre: la demanda del primer día no fue un vuelo inaugural vacío.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2106144392469749827",
+      "publishedAt": "2026-10-02",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "SpottersArg: charter de Hi Fly, el A330 CS-TCE, demorado hacia Ezeiza",
+      "summary": "El 2 de octubre @SpottersArg informó que el Airbus A330-203 de Hi Fly, matrícula CS-TCE, estaba previsto en Buenos Aires a las 18:30 desde Casablanca y seguía demorado. El charter sería para traer a la selección de Burkina Faso.\n\nUn A330 de largo radio, aunque sea un vuelo único, carga JET A-1 en Ezeiza o en la escala previa. No cambia la programación regular, pero sí el uplift del día en el hub.\n\nLa demora deja el consumo en la ventana del 2 y 3 de octubre, no cancelado.",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2106075456885666236",
+      "publishedAt": "2026-10-02",
+      "airline": "Hi Fly",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "x"
+    },
+    {
+      "title": "Aviacionline: fotos del A350 de World2Fly en el inaugural Rosario–Madrid",
+      "summary": "Aviacionline publicó el 2 de octubre fotos tomadas con dron del Airbus A350-900 de World2Fly operando el día anterior en Rosario el primer vuelo desde Madrid. La cuenta confirmó que la operación estaba autorizada.\n\nEl widebody de alta densidad (432 asientos en la flota de la compañía) ya está en la programación regular: dos frecuencias semanales ROS–MAD. El uplift principal es Madrid, pero Rosario pasa a tener un punto nuevo de JET A-1 de largo radio.\n\nSuma a los seis operadores y unos 60 vuelos semanales Argentina–España que SpottersArg contabilizó con este arranque.",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://x.com/aviacionline/status/2106160729435095493",
+      "publishedAt": "2026-10-02",
+      "airline": "World2Fly",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "ANAC: World2Fly abre el primer regular directo Rosario–Madrid",
+      "summary": "La ANAC publicó el 2 de octubre que, por primera vez, Rosario y Madrid quedan conectadas con vuelos regulares y directos. Atribuye la llegada de World2Fly a la política de Cielos Abiertos y la presenta como más líneas y más conectividad federal.\n\nPara combustible es un widebody nuevo fuera de Ezeiza. Dos frecuencias semanales no mueven el mercado doméstico, pero sí el offtake internacional en el aeropuerto de Rosario, que hasta ahora no tenía este tramo.\n\nLa nota oficial confirma el marco regulatorio del vuelo que SpottersArg y Aviacionline registraron el 1 de octubre.",
+      "source": "ANAC",
+      "sourceHandle": "ANACargentina",
+      "sourceUrl": "https://x.com/ANACargentina/status/2106136625873080507",
+      "publishedAt": "2026-10-02",
+      "airline": "World2Fly",
+      "segment": "regulacion",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "x"
+    },
+    {
+      "title": "Aviación News: JetSMART inauguró Buenos Aires–Jujuy con siete frecuencias",
+      "summary": "Aviación News reportó el 2 de octubre que JetSMART inauguró los vuelos entre Buenos Aires y San Salvador de Jujuy, ruta que ya había operado. El enlace Aeroparque–Gobernador Horacio Guzmán queda con siete frecuencias semanales.\n\nFederico Petazzi, gerente comercial en Argentina, habló de horarios todos los días y de demanda que prioriza previsibilidad. El ministro de Cultura y Turismo de Jujuy, Federico Posadas, leyó el regreso como más competencia y más conectividad.\n\nSiete vueltas semanales de narrowbody son offtake recurrente de JET A-1 en Aeroparque y en Jujuy, no un charter. Encaja con el A321neo de 240 plazas que SpottersArg vio lleno en el segundo día.",
+      "source": "Aviación News",
+      "sourceHandle": "aviacionnews",
+      "sourceUrl": "https://www.aviacionnews.com/2026/10/jetsmart-inicio-sus-nuevos-vuelos-entre-buenos-aires-y-jujuy/",
+      "publishedAt": "2026-10-02",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Brent se sostiene arriba de USD 102: rebotan las cargas del Golfo, pero llega un tercer portaaviones",
+      "summary": "El 2 de octubre OilPrice marcó el Brent en USD 102,24 y el WTI en USD 92,62. El mercado venía de un cierre del jueves en USD 102,31 (+USD 4,28, cerca de 4,4%) después de que China frenara exportaciones de combustibles en octubre y de reportes de un tercer portaaviones estadounidense y hasta 10.000 efectivos más hacia Medio Oriente.\n\nEl contrapeso es la oferta. Arabia Saudita reanudó cargas en Yanbu y reactivó el oleoducto Este-Oeste. Goldman estimó exportaciones del Golfo en 23,3 millones de barriles diarios. Tres tanqueros fueron alcanzados por proyectiles no identificados en Ormuz en la semana. BNEF ve el cierre del estrecho y el bloqueo a Irán extendiéndose hacia el año nuevo.\n\nUn Brent clavado arriba de 100 dólares mantiene cara la referencia del jet USGC (FRED sigue en 439,9 cpg al 29 de septiembre) y el crack que paga el JET A-1 argentino.",
+      "source": "OilPrice",
+      "sourceHandle": "OilPrice",
+      "sourceUrl": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Gulf-Export-Rebound-Offsets-US-Military-Moves.html",
+      "publishedAt": "2026-10-02",
+      "airline": "",
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Reuters: el crudo afloja el viernes, Brent a USD 101,61, con señales mixtas de oferta",
+      "summary": "Reuters reportó el 2 de octubre que el Brent cedía 70 centavos, 0,7%, a USD 101,61 hacia las 06:35 GMT, y el WTI 85 centavos a USD 92,02, después del salto del jueves. Ambos contratos apuntaban a una baja semanal.\n\nEl mercado volvió a mirar la recuperación de cargas saudíes y el oleoducto Este-Oeste, contra el tercer portaaviones hacia el Golfo y el corte chino de exportaciones de productos. Estados Unidos presiona a Europa para liberar más stocks de diésel. El nivel de USD 100 queda como umbral psicológico.\n\nPara el jet, el retroceso es chico: el barril sigue arriba de 100 y no alcanza para bajar el precio de costa del Golfo que FRED todavía publica en 4,399 dólares por galón.",
+      "source": "Reuters",
+      "sourceHandle": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/oil-rises-slightly-market-weighs-mixed-supply-signals-2026-10-02/",
+      "publishedAt": "2026-10-02",
+      "airline": "",
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Realpolitik: micros de Flybondi ya llevan el violeta de OCA en Ezeiza",
+      "summary": "Realpolitik publicó el 2 de octubre que un micro de traslado de Flybondi en Ezeiza ya muestra la marca sobre fondo violeta de OCA. La nota, con foto difundida por spotters, describe el armado logístico de Leonardo Scatturice: rutas y CESA de FB Líneas Aéreas, depósitos de OCA y Flecha Log.\n\nEl cuadro financiero que cita es el mismo de las últimas semanas: pasivos del orden de USD 120 millones y activos por debajo del 10% de esa cifra. Los aviones están en leasing y los lessors ya suspendieron vuelos por falta de pago. En julio la empresa movió una fracción mínima de su programación.\n\nPara JET A-1 el dato operativo no cambió: sin flota propia en servicio, el offtake de Flybondi en Aeroparque y Ezeiza sigue casi en cero. El violeta de OCA es ground handling y logística, no una reposición de 737.",
+      "source": "Realpolitik",
+      "sourceHandle": "realpolitik",
+      "sourceUrl": "https://realpolitik.com.ar/nota/74402/flybondi-se-tine-con-el-violeta-de-oca-mientras-scatturice-define-su-futuro-judicial/",
+      "publishedAt": "2026-10-02",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "web"
     },
     {
       "title": "JetSMART retomó Jujuy–Buenos Aires con vuelo diario y avión lleno",
@@ -125,6 +257,19 @@
       "airline": "",
       "segment": "brent",
       "fuelTag": "brent",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Defensa.com: la FAA recibió el segundo lote de F-16, ya son 12 de 24",
+      "summary": "Defensa.com detalló el 1 de octubre la recepción en el Área Material Río Cuarto del segundo lote del programa Peace Condor: cuatro F-16AM monoplazas (M-1011, M-1013, M-1018 y M-1024) y dos biplazas (M-1001 y M-1002). Con esto la Fuerza Aérea Argentina tiene 12 de los 24 cazas comprados a Dinamarca.\n\nEl ferry salió de Skrydstrup, cruzó más de 7.000 millas con escalas en España y Brasil y diez reabastecimientos por avión con KC-135R de la USAF, apoyado por el KC-130H TC-69 y un Boeing 737 de la FAA. Estuvieron el ministro Presti, el jefe del EMC Dalle Nogare, el brigadier Valverde y el embajador de Estados Unidos Peter Lamelas.\n\nLas otras doce células llegarían en 2027. Mientras tanto siguen en Río Cuarto: la reconstrucción de la VI Brigada de Tandil demanda como mínimo todo el año próximo. El combustible de la flota sigue atado a Córdoba, no todavía a Tandil.",
+      "source": "Defensa.com",
+      "sourceHandle": "defensa.com",
+      "sourceUrl": "https://www.defensa.com/argentina/fuerza-aerea-argentina-recibe-segundo-lote-aviones-combate-f-16",
+      "publishedAt": "2026-10-01",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "jet",
       "relevance": "alta",
       "channel": "web"
     },
