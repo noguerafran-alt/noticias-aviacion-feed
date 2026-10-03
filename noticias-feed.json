@@ -1,8 +1,8 @@
 {
   "briefing": {
     "title": "Briefing aviación 2026-10-03",
-    "summary": "JetSMART metió el A321neo de 240 plazas, lleno, en el segundo día de Jujuy. Lynden Air Cargo dejó el primer Hercules en Ezeiza y World2Fly ya tiene el marco de ANAC en Rosario–Madrid. La FAA suma matrículas del segundo lote F-16 (12 de 24). Brent se sostiene arriba de USD 101–102 con un tercer portaaviones hacia el Golfo. Jet 54 USGC sin dato nuevo: 439,9 cpg al 29/09.",
-    "generatedAt": "2026-10-03T03:20:00-03:00",
+    "summary": "Alerta de la mañana: el Gobierno confirmó el Rosario–Madrid de World2Fly con el A350 de 432 plazas y Jet Handling en rampa. Aerolíneas activó el Stopover de 24 a 72 horas. La FAA queda con 12 de 24 F-16 tras el Ferry II. Brent sigue arriba de USD 102 por Ormuz. Jet 54 USGC sin dato nuevo: 439,9 cpg al 29/09.",
+    "generatedAt": "2026-10-03T09:35:00-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -35,6 +35,21 @@
       "relevance": "media",
       "channel": "youtube",
       "videoId": "bJjMev8FqZ0",
+      "featuredAt": "2026-10-03"
+    },
+    {
+      "title": "Mentour Pilot: el copiloto de flydubai y el 737 que perdió el timón",
+      "summary": "Mentour Pilot publicó el 2 de octubre la actualización del flydubai 1073, un 737 MAX 8 que se desplomó, entró en overspeed y perdió gran parte del timón. El primer oficial atacó al capitán en cabina. El capitán herido alcanzó a abrir la puerta; dos pilotos que viajaban de pasajeros tomaron los mandos y aterrizaron.\n\nNo es un hecho argentino. Es el video fresco de la watchlist que mueve flota: un narrowbody fuera de servicio por daño estructural y un evento de cabina que revisan aerolíneas de todo el mapa, incluidas las que operan MAX en la región.\n\nEl avión dañado es uplift de JET A-1 que no vuelve a la rotación hasta la reparación. Con el jet del Golfo en 439,9 centavos por galón, cada célula en tierra pesa más.",
+      "source": "Mentour Pilot",
+      "sourceHandle": "MentourPilot",
+      "sourceUrl": "https://www.youtube.com/watch?v=wEb2EgquLnA",
+      "publishedAt": "2026-10-03",
+      "airline": "flydubai",
+      "segment": "analisis",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "youtube",
+      "videoId": "wEb2EgquLnA",
       "featuredAt": "2026-10-03"
     },
     {
@@ -170,6 +185,45 @@
       "channel": "web"
     },
     {
+      "title": "Gobierno: se inauguró la primera conexión aérea regular Rosario–Madrid",
+      "summary": "El 2 de octubre la Presidencia confirmó la inauguración del primer vuelo regular y directo de la historia entre Rosario y Madrid, operado por World2Fly, que así empieza sus servicios regulares en Argentina. La ruta tiene dos frecuencias semanales, martes y jueves, con Airbus A350-900 de 432 asientos: hoy el avión comercial de mayor capacidad que opera en el país.\n\nEl marco es el acuerdo aerocomercial con España y la autorización a World2Fly para pasajeros y cargas. Entre enero y agosto de 2026 viajaron 1.034.574 pasajeros entre Argentina y España, 7% más que en 2025. El handling en Rosario lo hace Jet Handling FBO, un prestador nuevo de rampa.\n\nPara combustible es un widebody de alta densidad fuera de Ezeiza: el uplift de largo radio pasa a Rosario dos veces por semana, y el interior suma una de las 28 rutas internacionales que no pasan por Buenos Aires. No es promo: es capacidad nueva de JET A-1.",
+      "source": "Argentina.gob.ar",
+      "sourceHandle": "argentina.gob.ar",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/se-inauguro-la-primera-conexion-aerea-de-la-historia-entre-rosario-y-madrid",
+      "publishedAt": "2026-10-02",
+      "airline": "World2Fly",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Ladevi: World2Fly eligió Rosario para no pasar por Ezeiza",
+      "summary": "Ladevi publicó el 2 de octubre la entrevista a Ruth Rubio, directora de Operaciones Tierra y Seguridad de World2Fly, sobre el Rosario–Madrid. La compañía opera dos frecuencias semanales con A350-900 de 432 asientos y apunta al mercado del interior que no quiere conectar en Ezeiza.\n\nRubio dijo que Rosario era un objetivo desde el inicio, una plaza sin explorar, y que los comandantes confirmaron pista y aproximación en condiciones. El A350 exigió trabajo de guiado y rampa con el aeropuerto.\n\nEl dato de combustible es operativo: un widebody de nueva generación, más eficiente por asiento, pero con un punto nuevo de carga en Rosario. Parte del tráfico que hoy entra por Ezeiza puede salir del hub.",
+      "source": "Ladevi",
+      "sourceHandle": "ladevi",
+      "sourceUrl": "https://argentina.ladevi.info/transporte/companias-aereas/world2fly-une-rosario-y-madrid-un-a350-hay-un-mercado-poco-explorado-que-no-quiere-pasar-ezeiza-n106932",
+      "publishedAt": "2026-10-02",
+      "airline": "World2Fly",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Brent sigue arriba de USD 102 el sábado: Ormuz recuperó flujo, no el riesgo",
+      "summary": "El monitor de Ormuz marcó el 3 de octubre el Brent en USD 102,25 y el WTI en USD 91,11, con una prima de guerra de cerca de 42% contra los USD 72 de febrero, antes del bloqueo. En la semana el Brent pasó de USD 97,37 el 30 de septiembre a USD 100,10 el 1, USD 101,46 el 2 y USD 102,44 intradía el 3.\n\nGulf News y OilPrice coinciden en que las cargas del Golfo rebotaron —Kpler midió unos 13,2 millones de barriles diarios por el estrecho— mientras EE.UU. mueve un tercer portaaviones y China frena exportaciones de combustibles en octubre. BNEF ve el cierre parcial y el bloqueo a Irán estirándose hacia el año nuevo. OPEC+ dejaría sin cambios la cuota de noviembre.\n\nUn Brent clavado sobre 100 dólares sostiene caro el crack del jet. El USGC de FRED no se actualizó: sigue en 439,9 centavos por galón al 29 de septiembre.",
+      "source": "Gulf News",
+      "sourceHandle": "GulfNews",
+      "sourceUrl": "https://gulfnews.com/business/energy/brent-crude-oil-surges-past-102-amid-hormuz-tensions-us-iran-conflict-1.500695537",
+      "publishedAt": "2026-10-02",
+      "airline": "",
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
       "title": "JetSMART retomó Jujuy–Buenos Aires con vuelo diario y avión lleno",
       "summary": "El 1 de octubre JetSMART reabrió la ruta regular entre Buenos Aires y el aeropuerto Gobernador Horacio Guzmán de Jujuy. El primer servicio llegó con el 100% de las plazas ocupadas, según el gobierno provincial y el gerente comercial Federico Petazzi.\n\nLa programación inicial es diaria, de lunes a domingo, con Airbus A320 de 186 asientos. La compañía prevé pasar a A321neo de 240 plazas si la demanda se sostiene. Con Jujuy, JetSMART declara 15 destinos domésticos y más de 18 rutas directas.\n\nPara offtake de JET A-1 es una recuperación de frecuencia, no un descuento: un A320 diario ida y vuelta suma consumo en Aeroparque y en Jujuy, y encaja con el plan de superar los 800 vuelos semanales en el verano 2027.",
       "source": "Prensa Jujuy",
@@ -266,6 +320,58 @@
       "source": "Defensa.com",
       "sourceHandle": "defensa.com",
       "sourceUrl": "https://www.defensa.com/argentina/fuerza-aerea-argentina-recibe-segundo-lote-aviones-combate-f-16",
+      "publishedAt": "2026-10-01",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Aviacionline: aterrizó en Rosario el primer vuelo de World2Fly desde Madrid",
+      "summary": "Aviacionline registró el aterrizaje del inaugural de World2Fly en el Aeropuerto Internacional Islas Malvinas de Rosario a las 17:21 del jueves 1 de octubre. El Airbus A350-900 EC-NTB, de 432 asientos, despegó de Barajas a las 10:38 hora local y completó el tramo sin escalas.\n\nLa programación queda en dos frecuencias semanales. Los martes Madrid sale 13:30 y llega a Rosario 21:10; el regreso sale 23:10. Los jueves Barajas sale 10:25, aterriza 18:00 y vuelve 20:00. Madrid pasa a ser el sexto destino internacional regular todo el año desde Rosario, junto a Panamá, San Pablo, Lima, Río y Punta Cana.\n\nUn A350 de 432 plazas dos veces por semana es el mayor uplift puntual de JET A-1 que hoy tiene el aeropuerto de Rosario. El consumo principal del ciclo está en Madrid, pero la escala argentina deja recarga de retorno.",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/aterrizo-en-rosario-el-historico-primer-vuelo-de-world2fly-desde-madrid_a6abebb8d06fa52caf4691e54",
+      "publishedAt": "2026-10-01",
+      "airline": "World2Fly",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Aerolíneas y Visit Buenos Aires lanzan el Stopover de 24 a 72 horas",
+      "summary": "Aviacionline informó el 1 de octubre que Aerolíneas Argentinas y Visit Buenos Aires habilitaron Stopover Buenos Aires. El pasajero en conexión puede sumar una estadía de 24, 48 o 72 horas con beneficios en hotelería, gastronomía y traslados antes de seguir al destino final. La gestión es por stopover.visitbue.app.\n\nValentín Díaz Gilligan, presidente de Visit Buenos Aires, dijo que Buenos Aires es uno de los principales puntos de conexión de la región y que buscan que quien pasa por la ciudad tenga una razón para quedarse. Aerolíneas concentra la mayor cantidad de frecuencias hacia Buenos Aires.\n\nNo abre una ruta nueva, pero alarga la estadía en tierra de tránsitos que ya consumen JET A-1 en Ezeiza. Si convierte conexiones en pernoctes, sostiene la red de largo radio de la compañía de bandera sin sumar frecuencias.",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/aerolineas-argentinas-implementa-el-buenos-aires-stopover_a6abe82ed06fa52caf45aa15f",
+      "publishedAt": "2026-10-01",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "channel": "web"
+    },
+    {
+      "title": "Avion Revue: Argentina ya tiene la mitad de los F-16 de Peace Condor",
+      "summary": "Avion Revue resumió la recepción de la segunda tanda de F-16. Con el segundo ferry, la Fuerza Aérea Argentina dispone de la mitad de los cazas previstos para recuperar el combate supersónico: 12 de 24 aviones del programa Peace Condor, llegados desde Dinamarca.\n\nEl lote se compone de monoplazas F-16AM y biplazas F-16BM. El cruce atlántico usó reabastecimiento en vuelo de KC-135R de la USAF, con escalas en España y Brasil, y aterrizaje en el Área Material Río Cuarto.\n\nPara la FAA es el mismo hito que ya marcaron Zona Militar y Defensa: flota en el país, no todavía en Tandil. El sostenimiento de 12 células en Córdoba suma JP-8/JET en el AM Río IV mientras se reconstruye la VI Brigada.",
+      "source": "Avion Revue",
+      "sourceHandle": "avionrevue",
+      "sourceUrl": "https://www.avionrevue.com/aviacion-militar/argentina-recibe-la-segunda-tanda-de-f-16/",
+      "publishedAt": "2026-10-01",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "channel": "web"
+    },
+    {
+      "title": "Presidencia: segundo ferry de F-16, la FAA ya opera 12 cazas",
+      "summary": "El 1 de octubre la Presidencia detalló la recepción del segundo lote de F-16AM/BM, el 29 de septiembre en el Área Material Río IV. Estuvieron el jefe del Estado Mayor Conjunto, almirante Marcelo Alejandro Dalle Nogare; el ministro de Defensa, teniente general Carlos Alberto Presti; y el jefe de la Fuerza Aérea, brigadier general Gustavo Javier Valverde.\n\nEl ferry trajo cuatro monoplazas F-16AM y dos biplazas F-16BM. Recorrió más de 7.000 millas con 10 reabastecimientos en vuelo por cada caza, a cargo de KC-135R de la USAF, con escalas en España y Brasil. La FAA queda con 12 de 24 aviones.\n\nEs la confirmación oficial del Ferry II. El consumo de traslado fue en el cruce atlántico; el offtake local empieza en Río Cuarto, no en Ushuaia ni en Tandil.",
+      "source": "Argentina.gob.ar",
+      "sourceHandle": "argentina.gob.ar",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/argentina-recibio-al-segundo-ferry-de-los-aviones-f-16-fighting-falcon",
       "publishedAt": "2026-10-01",
       "airline": "Fuerza Aérea Argentina",
       "segment": "faa",
