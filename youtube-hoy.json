@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-03",
+  "featuredAt": "2026-10-04",
   "item": {
-    "title": "Mentour Pilot: el copiloto de flydubai y el 737 que perdió el timón",
-    "summary": "Mentour Pilot publicó el 2 de octubre la actualización del flydubai 1073, un 737 MAX 8 que se desplomó, entró en overspeed y perdió gran parte del timón. El primer oficial atacó al capitán en cabina. El capitán herido alcanzó a abrir la puerta; dos pilotos que viajaban de pasajeros tomaron los mandos y aterrizaron.\n\nNo es un hecho argentino. Es el video fresco de la watchlist que mueve flota: un narrowbody fuera de servicio por daño estructural y un evento de cabina que revisan aerolíneas de todo el mapa, incluidas las que operan MAX en la región.\n\nEl avión dañado es uplift de JET A-1 que no vuelve a la rotación hasta la reparación. Con el jet del Golfo en 439,9 centavos por galón, cada célula en tierra pesa más.",
+    "title": "Mentour Pilot: en el flydubai 1073 el copiloto habría cortado los dos fuel switches",
+    "summary": "Mentour Pilot publicó el 3 de octubre un corte nuevo del flydubai 1073, el 737 MAX 8 del 30 de septiembre en el que el primer oficial atacó al capitán con el hacha de cabina y metió el avión en picada. A partir de videos de la cabina de pasajeros, el canal sostiene que Hamam al-Hami no solo apagó sistemas: lo más probable es que haya llevado los dos fuel switches a cutoff antes de ser reducido.\n\nEso cambia el cuadro operativo. Los dos pilotos que viajaban de pasajeros y tomaron los mandos habrían encontrado los motores cortados, no solo un avión en overspeed con el timón dañado. Es el escenario de combustible más extremo de un narrowbody: los interruptores de corte de JET A-1 usados como arma, no como procedimiento.\n\nNo es un hecho argentino. Es el video del día en la watchlist porque mueve flota y combustible a la vez: un MAX fuera de servicio y una lección de cabina que revisan todas las operadoras de la familia, incluidas Aerolíneas y JetSMART. El video de ayer (wEb2EgquLnA) contaba el daño al timón; este es otro upload, centrado en los fuel switches.\n\nCon el jet del Golfo todavía en 439,9 centavos por galón y sin impresión nueva de FRED desde el 29 de septiembre, cada célula en tierra pesa más en el uplift.",
     "source": "Mentour Pilot",
     "sourceHandle": "MentourPilot",
-    "sourceUrl": "https://www.youtube.com/watch?v=wEb2EgquLnA",
-    "publishedAt": "2026-10-03",
+    "sourceUrl": "https://www.youtube.com/watch?v=NPw0T09douE",
+    "publishedAt": "2026-10-04",
     "airline": "flydubai",
     "segment": "analisis",
     "fuelTag": "jet",
-    "relevance": "media",
+    "relevance": "alta",
     "channel": "youtube",
-    "videoId": "wEb2EgquLnA",
-    "featuredAt": "2026-10-03"
+    "videoId": "NPw0T09douE",
+    "featuredAt": "2026-10-04"
   }
 }
