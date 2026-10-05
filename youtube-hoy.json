@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-04",
+  "featuredAt": "2026-10-05",
   "item": {
-    "title": "Mentour Pilot: en el flydubai 1073 el copiloto habría cortado los dos fuel switches",
-    "summary": "Mentour Pilot publicó el 3 de octubre un corte nuevo del flydubai 1073, el 737 MAX 8 del 30 de septiembre en el que el primer oficial atacó al capitán con el hacha de cabina y metió el avión en picada. A partir de videos de la cabina de pasajeros, el canal sostiene que Hamam al-Hami no solo apagó sistemas: lo más probable es que haya llevado los dos fuel switches a cutoff antes de ser reducido.\n\nEso cambia el cuadro operativo. Los dos pilotos que viajaban de pasajeros y tomaron los mandos habrían encontrado los motores cortados, no solo un avión en overspeed con el timón dañado. Es el escenario de combustible más extremo de un narrowbody: los interruptores de corte de JET A-1 usados como arma, no como procedimiento.\n\nNo es un hecho argentino. Es el video del día en la watchlist porque mueve flota y combustible a la vez: un MAX fuera de servicio y una lección de cabina que revisan todas las operadoras de la familia, incluidas Aerolíneas y JetSMART. El video de ayer (wEb2EgquLnA) contaba el daño al timón; este es otro upload, centrado en los fuel switches.\n\nCon el jet del Golfo todavía en 439,9 centavos por galón y sin impresión nueva de FRED desde el 29 de septiembre, cada célula en tierra pesa más en el uplift.",
-    "source": "Mentour Pilot",
-    "sourceHandle": "MentourPilot",
-    "sourceUrl": "https://www.youtube.com/watch?v=NPw0T09douE",
-    "publishedAt": "2026-10-04",
-    "airline": "flydubai",
+    "title": "Simple Flying: el 787-9 de Air India que no puede hacer Delhi–Toronto sin escala de combustible",
+    "summary": "Long Haul by Simple Flying publicó el 28 de septiembre el caso del AI 187 Delhi–Toronto. Air India prometió desde el 1 de agosto un westbound nonstop de unas 17 horas con sus Boeing 787-9 nuevos y sacó la escala técnica de Viena. El 11 de agosto el vuelo volvió a parar en Viena.\n\nNo fue un fallo del Dreamliner. Voló el VT-AWA, entregado en enero de 2026, antes de que Air India activara el mayor peso máximo de despegue. Los dos aviones con IMTOW (unos 10.000 lb / 4.540 kg extra, del orden de 3 toneladas de payload o más de 300 millas náuticas) estaban en mantenimiento. Con el VT-AWA, evitar la escala habría obligado a bajar unos 70 a 80 pasajeros.\n\nEs el video de la semana en la watchlist porque habla de JET A-1, no de cabina. En un sector de 17 horas el combustible es el peso dominante: si el avión no tiene el peso certificado, la escala técnica vuelve. Air India había recortado la ruta en junio y julio por el combustible caro y la restitución a diario depende de tener el 787-9 correcto, no cualquier 787-9.\n\nNo hay upload fresco de la watchlist en las últimas 72 horas. El de ayer (Mentour Pilot, fuel switches del flydubai 1073) no se repite.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=uSamIoXEQMk",
+    "publishedAt": "2026-10-05",
+    "airline": "Air India",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "NPw0T09douE",
-    "featuredAt": "2026-10-04"
+    "videoId": "uSamIoXEQMk",
+    "featuredAt": "2026-10-05"
   }
 }
