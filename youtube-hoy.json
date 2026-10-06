@@ -1,19 +1,19 @@
 {
-  "featuredAt": "2026-10-05",
-  "note": "Sin upload fresco de la watchlist en las últimas 72 h. Se mantiene el video del run de las 03:16.",
+  "featuredAt": "2026-10-06",
+  "note": "Sin upload fresco de la watchlist en las últimas 72 h. Se featurea el video de Reuters del 29/09 sobre la factura de jet fuel de Lufthansa. No se repite el sourceUrl de ayer (Simple Flying, uSamIoXEQMk).",
   "item": {
-    "title": "Simple Flying: el 787-9 de Air India que no puede hacer Delhi–Toronto sin escala de combustible",
-    "summary": "Long Haul by Simple Flying publicó el 28 de septiembre el caso del AI 187 Delhi–Toronto. Air India prometió desde el 1 de agosto un westbound nonstop de unas 17 horas con sus Boeing 787-9 nuevos y sacó la escala técnica de Viena. El 11 de agosto el vuelo volvió a parar en Viena.\n\nNo fue un fallo del Dreamliner. Voló el VT-AWA, entregado en enero de 2026, antes de que Air India activara el mayor peso máximo de despegue. Los dos aviones con IMTOW (unos 10.000 lb / 4.540 kg extra, del orden de 3 toneladas de payload o más de 300 millas náuticas) estaban en mantenimiento. Con el VT-AWA, evitar la escala habría obligado a bajar unos 70 a 80 pasajeros.\n\nEs el video de la semana en la watchlist porque habla de JET A-1, no de cabina. En un sector de 17 horas el combustible es el peso dominante: si el avión no tiene el peso certificado, la escala técnica vuelve. Air India había recortado la ruta en junio y julio por el combustible caro y la restitución a diario depende de tener el 787-9 correcto, no cualquier 787-9.\n\nNo hay upload fresco de la watchlist en las últimas 72 horas. El de ayer (Mentour Pilot, fuel switches del flydubai 1073) no se repite.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=uSamIoXEQMk",
-    "publishedAt": "2026-10-05",
-    "airline": "Air India",
+    "title": "Reuters: Lufthansa ya no puede acotar la factura de jet fuel por la guerra en Irán",
+    "summary": "Reuters publicó el 29 de septiembre la advertencia de Carsten Spohr: la factura extra de combustible de Lufthansa en 2026 va a superar los 1.500 millones de euros que el grupo había bajado en agosto, después de haber hablado de 1.700 millones en mayo. No dan cifra nueva. Dicen que va a ser más alta, porque la guerra en Irán sigue y el precio del jet no afloja.\n\nEl video pone el número que mira el sector: según el mercado, el jet llega a unos USD 140 por barril según el punto de compra, Europa o Estados Unidos. Ryanair aparece como el caso contrario, con cobertura hasta marzo de 2027. La salida que describen las aerolíneas es la de siempre: menos vuelos para quemar menos, o pasaje más caro. Lufthansa, Air France y British Airways ya subieron tarifas.\n\nNo hubo upload fresco de la watchlist (Coby, Plane Curious, Mentour, Simple Flying, 74 Gear, Geekonomy) en las últimas 72 horas. Este es el video de la semana que habla de JET A-1 y del Brent de la guerra, no de cabina. El de ayer, el 787 de Air India y la escala de combustible, no se repite.\n\nCon el Jet 54 USGC todavía en 439,9 centavos por galón al 29 de septiembre, el mensaje es el mismo que en el Golfo: el crack no volvió al nivel previo a febrero.",
+    "source": "Reuters",
+    "sourceHandle": "Reuters",
+    "sourceUrl": "https://www.youtube.com/watch?v=n3MmLB81i5s",
+    "publishedAt": "2026-10-06",
+    "airline": "Lufthansa",
     "segment": "analisis",
     "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "uSamIoXEQMk",
-    "featuredAt": "2026-10-05"
+    "videoId": "n3MmLB81i5s",
+    "featuredAt": "2026-10-06"
   }
 }
