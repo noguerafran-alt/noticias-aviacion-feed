@@ -1,19 +1,19 @@
 {
-  "featuredAt": "2026-10-06",
-  "note": "Corrida de alerta 09:45 AR. Sin upload fresco de la watchlist en 72 h. Se mantiene el video de Reuters del 29/09 (factura de jet fuel de Lufthansa). No se repite el de ayer (Simple Flying uSamIoXEQMk).",
+  "featuredAt": "2026-10-07",
+  "note": "Sin upload fresco de la watchlist en 72 h. No se repite el de ayer (Reuters n3MmLB81i5s). Se featurea Quest/Kloza del 29/09 sobre el físico del crudo versus el Brent de papel.",
   "item": {
-    "title": "Reuters: Lufthansa ya no puede acotar la factura de jet fuel por la guerra en Irán",
-    "summary": "Reuters publicó el 29 de septiembre la advertencia de Carsten Spohr: la factura extra de combustible de Lufthansa en 2026 va a superar los 1.500 millones de euros que el grupo había bajado en agosto, después de haber hablado de 1.700 millones en mayo. No dan cifra nueva. Dicen que va a ser más alta, porque la guerra en Irán sigue y el precio del jet no afloja.\n\nEl video pone el número que mira el sector: según el mercado, el jet llega a unos USD 140 por barril según el punto de compra, Europa o Estados Unidos. Ryanair aparece como el caso contrario, con cobertura hasta marzo de 2027. La salida que describen las aerolíneas es la de siempre: menos vuelos para quemar menos, o pasaje más caro. Lufthansa, Air France y British Airways ya subieron tarifas.\n\nNo hubo upload fresco de la watchlist (Coby, Plane Curious, Mentour, Simple Flying, 74 Gear, Geekonomy) en las últimas 72 horas. Este es el video de la semana que habla de JET A-1 y del Brent de la guerra, no de cabina. El de ayer, el 787 de Air India y la escala de combustible, no se repite.\n\nCon el Jet 54 USGC todavía en 439,9 centavos por galón al 29 de septiembre, el mensaje es el mismo que en el Golfo: el crack no volvió al nivel previo a febrero.",
-    "source": "Reuters",
-    "sourceHandle": "Reuters",
-    "sourceUrl": "https://www.youtube.com/watch?v=n3MmLB81i5s",
-    "publishedAt": "2026-10-06",
-    "airline": "Lufthansa",
+    "title": "Quest: el físico del crudo sigue cerca de USD 130 aunque el Brent de papel ronde los 100",
+    "summary": "No hubo upload fresco de la watchlist (Coby Explanes, Plane Curious, Mentour Pilot, Mentour Now, Simple Flying, 74 Gear, Geekonomy) en las últimas 72 horas. El video de ayer, Reuters sobre la factura de jet de Lufthansa, no se repite.\n\nSe featurea la entrevista del 29 de septiembre de Quest Means Business a Tom Kloza, asesor de energía de Gulf Oil. El Brent de papel rondaba los USD 105 cuando Trump rechazó una propuesta iraní para reabrir Ormuz. Kloza separa el futuro del físico: el contrato mira 60 a 90 días, pero el crudo para una refinería del Mar del Norte o de Asia fuera de Ormuz se acercaba a USD 120–130 por el flete de los tanqueros.\n\nEsa brecha es la que mira el JET A-1. El crack del jet no sigue al Brent de pantalla: sigue al producto físico y al diésel. Kloza veía una baja moderada a principios de octubre si no había un embargo de exportaciones de diésel. Esta semana el Brent volvió a USD 101 con ataques en el estrecho, así que el alivio no llegó.\n\nCon el Jet 54 USGC todavía en 439,9 centavos por galón al 29 de septiembre, el video sigue siendo el más pertinente de la semana sobre el precio que paga una aerolínea.",
+    "source": "Quest Means Business",
+    "sourceHandle": "QuestMeansBusiness",
+    "sourceUrl": "https://www.youtube.com/watch?v=T3qhGnhVx1c",
+    "publishedAt": "2026-10-07",
+    "airline": "",
     "segment": "analisis",
-    "fuelTag": "jet",
+    "fuelTag": "brent",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "n3MmLB81i5s",
-    "featuredAt": "2026-10-06"
+    "videoId": "T3qhGnhVx1c",
+    "featuredAt": "2026-10-07"
   }
 }
