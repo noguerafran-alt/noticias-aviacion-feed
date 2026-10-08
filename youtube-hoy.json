@@ -1,19 +1,19 @@
 {
-  "featuredAt": "2026-10-07",
-  "note": "Sin upload fresco de la watchlist en 72 h. No se repite el de ayer (Reuters n3MmLB81i5s). Se featurea Quest/Kloza del 29/09 sobre el físico del crudo versus el Brent de papel.",
+  "featuredAt": "2026-10-08",
+  "note": "Sin upload fresco de la watchlist en 72 h. No se repite el de ayer (Quest T3qhGnhVx1c). Se featurea Bloomberg Odd Lots del 5/10 sobre cobertura de jet fuel.",
   "item": {
-    "title": "Quest: el físico del crudo sigue cerca de USD 130 aunque el Brent de papel ronde los 100",
-    "summary": "No hubo upload fresco de la watchlist (Coby Explanes, Plane Curious, Mentour Pilot, Mentour Now, Simple Flying, 74 Gear, Geekonomy) en las últimas 72 horas. El video de ayer, Reuters sobre la factura de jet de Lufthansa, no se repite.\n\nSe featurea la entrevista del 29 de septiembre de Quest Means Business a Tom Kloza, asesor de energía de Gulf Oil. El Brent de papel rondaba los USD 105 cuando Trump rechazó una propuesta iraní para reabrir Ormuz. Kloza separa el futuro del físico: el contrato mira 60 a 90 días, pero el crudo para una refinería del Mar del Norte o de Asia fuera de Ormuz se acercaba a USD 120–130 por el flete de los tanqueros.\n\nEsa brecha es la que mira el JET A-1. El crack del jet no sigue al Brent de pantalla: sigue al producto físico y al diésel. Kloza veía una baja moderada a principios de octubre si no había un embargo de exportaciones de diésel. Esta semana el Brent volvió a USD 101 con ataques en el estrecho, así que el alivio no llegó.\n\nCon el Jet 54 USGC todavía en 439,9 centavos por galón al 29 de septiembre, el video sigue siendo el más pertinente de la semana sobre el precio que paga una aerolínea.",
-    "source": "Quest Means Business",
-    "sourceHandle": "QuestMeansBusiness",
-    "sourceUrl": "https://www.youtube.com/watch?v=T3qhGnhVx1c",
-    "publishedAt": "2026-10-07",
+    "title": "Odd Lots: cómo cubren las aerolíneas el jet cuando el Brent no baja de USD 100",
+    "summary": "No hubo upload fresco de la watchlist (Coby Explanes, Plane Curious, Mentour Pilot, Mentour Now, Simple Flying, 74 Gear, Geekonomy) en las últimas 72 horas. No se repite el video de ayer, la entrevista de Quest a Tom Kloza.\n\nSe featurea el episodio del 5 de octubre de Bloomberg Odd Lots, «How Airlines Actually Hedge Higher Fuel Prices». David Kang, ex tesorero de Qatar Airways, explica cómo se cubre el jet con swaps y opciones, por qué el proxy suele ser el gasoil y no el contrato de jet, y cuánto se puede pasar al pasaje con fuel surcharge.\n\nEl contexto es el de esta semana: dos guerras sobre infraestructura energética, fletes de tanquero en récord y Brent consolidado arriba de USD 100. Kang separa el precio de pantalla del costo que llega a la aerolínea. Esa es la cuenta del JET A-1 argentino: el crack no sigue al Brent al centavo.\n\nCon el Jet 54 USGC en 434,2 centavos por galón al 6 de octubre, el episodio es el más pertinente de la semana sobre cómo una compañía administra la factura, no sobre una ruta puntual.",
+    "source": "Bloomberg Odd Lots",
+    "sourceHandle": "BloombergPodcasts",
+    "sourceUrl": "https://www.youtube.com/watch?v=8wGO8SyEDTc",
+    "publishedAt": "2026-10-08",
     "airline": "",
     "segment": "analisis",
-    "fuelTag": "brent",
+    "fuelTag": "jet",
     "relevance": "alta",
     "channel": "youtube",
-    "videoId": "T3qhGnhVx1c",
-    "featuredAt": "2026-10-07"
+    "videoId": "8wGO8SyEDTc",
+    "featuredAt": "2026-10-08"
   }
 }
