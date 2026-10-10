@@ -1,19 +1,19 @@
 {
-  "featuredAt": "2026-10-09",
-  "note": "Upload del 8/10 de Mentour Pilot podcast sobre Flydubai 1073. No se repite fllVnRB8cMQ.",
+  "featuredAt": "2026-10-10",
+  "note": "Video fresco de Simple Flying (~17h) sobre pelea de pilotos Air NZ que cancela 787. No se repite EBc2gNkPVi8.",
   "item": {
-    "title": "Mentour Now: una semana después, el 737 de Flydubai y el ataque en cabina",
-    "summary": "El upload fresco de la watchlist es el podcast de Mentour del 8 de octubre, «The FlyDubai Incident Gets WORSE!?», canal Captains Speaking / Mentour Pilot. No se repite el corto del 30 de septiembre (fllVnRB8cMQ) que ya está en el feed.\n\nPetter y Ben repasan lo verificado una semana después del Flydubai 1073, un 737 MAX 8 Dubai–Tel Aviv del 30 de septiembre. El primer oficial atacó al comandante sobre Arabia Saudita. El avión perdió unos 16.000 pies en alrededor de un minuto, la velocidad pasó el límite operativo y la tripulación cambió el código de emergencia 7700 a 7500, interferencia ilícita. Dos pilotos fuera de servicio recuperaron el control y el avión aterrizó en Tabuk.\n\nNo es una nota de precio de JET A-1. Es de seguridad que saca de línea una tripulación y deja en revisión un narrowbody de una low cost del Golfo, con el Brent otra vez arriba de USD 104 por Ormuz. El episodio es el más reciente de la watchlist en 72 horas.\n\nEl Jet 54 USGC no tiene impresión nueva: sigue en 434,2 centavos por galón al 6 de octubre.",
-    "source": "Mentour Pilot",
-    "sourceHandle": "MentourPilot",
-    "sourceUrl": "https://www.youtube.com/watch?v=EBc2gNkPVi8",
-    "publishedAt": "2026-10-09",
-    "airline": "Flydubai",
+    "title": "Simple Flying: pelea de pilotos de Air New Zealand cancela vuelo 787 en San Francisco",
+    "summary": "El video fresco de la watchlist (publicado hace ~17 horas) es de Simple Flying: «Air New Zealand Pilots Allegedly Fight During San Francisco Layover, Forcing 787 Flight Cancellation». No se repite el podcast de Mentour del 8 de octubre sobre Flydubai.\n\nDos pilotos de Air New Zealand se habrían peleado durante una escala en San Francisco, forzando la cancelación de un vuelo operado con Boeing 787. El incidente saca temporalmente de línea un widebody y una tripulación. Es seguridad operativa que mueve flota, no precio de combustible.\n\nCon el Brent cerca de USD 104 y el Jet 54 USGC sin dato nuevo en 434,2 cpg, el episodio es el más reciente de la watchlist en las últimas 72 horas. Se featurea para el día.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=avNYps6xFZQ",
+    "publishedAt": "2026-10-10",
+    "airline": "Air New Zealand",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "EBc2gNkPVi8",
-    "featuredAt": "2026-10-09"
+    "videoId": "avNYps6xFZQ",
+    "featuredAt": "2026-10-10"
   }
 }
