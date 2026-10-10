@@ -6,13 +6,13 @@ on:
       - noticias-feed.json
 jobs:
   never-shrink:
-    if: ${{ github.event.head_commit.message != 'restore: no borrar notas del feed' }}
+    if: "!startsWith(github.event.head_commit.message, 'restore: no borrar notas del feed')"
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 30
       - name: Restaurar si achicó el JSON
         run: python3 .github/scripts/restore_if_shrunk.py
