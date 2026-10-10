@@ -1,1 +1,166 @@
-FULL_CONTENT_HERE
+{
+  "briefing": {
+    "title": "Briefing de aviación 2026-10-10",
+    "summary": "Nuevas rutas chárter de Andes, avance de YPF en SAF con offtake TotalEnergies, plan de inversión de Aeropuertos Argentina por US$1.500M, habilitación de Ethiopian para carga hasta 9ª libertad. Jet 54 en 434,2 cpg. Brent volátil cerca de USD 104 por riesgos en Hormuz y huracán. Incluye notas de @SpottersArg y análisis YouTube.",
+    "generatedAt": "2026-10-10T09:41:00-03:00",
+    "source": "automation"
+  },
+  "indicadores": {
+    "jet54": {
+      "fecha": "2026-10-06",
+      "precio_usd_gal": 4.342,
+      "cpg": 434.2,
+      "change_from_prev": -0.008,
+      "platts": null,
+      "source": "FRED DJFUELUSGULF",
+      "updatedAt": "2026-10-10"
+    }
+  },
+  "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/lanzan-vuelos-charter-desde-10-ciudades-argentinas-hacia-brasil-y-venezuela_a6ac99b4505849ac9aacd38f9",
+      "publishedAt": "2026-10-10",
+      "airline": "Andes Líneas Aéreas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Lanzan vuelos chárter desde 10 ciudades argentinas hacia Brasil y Venezuela",
+      "summary": "Andes Líneas Aéreas operará vuelos chárter desde diez ciudades argentinas (Buenos Aires, Córdoba y ocho del interior) hacia destinos de playa en Brasil (Cabo Frío, Florianópolis, Porto Seguro, Recife) y Venezuela (Porlamar) entre el 1 de enero y el 28 de febrero de 2027. Comercializados por Multitravel. Buenos Aires y Córdoba tendrán frecuencias semanales; las demás, salidas puntuales. Paquetes desde USD 800."
+    },
+    {
+      "channel": "web",
+      "source": "Ladevi Argentina",
+      "sourceHandle": null,
+      "sourceUrl": "https://argentina.ladevi.info/transporte/companias-aereas/ypf-producira-combustible-sostenible-aviacion-n107324",
+      "publishedAt": "2026-10-09",
+      "airline": "YPF",
+      "segment": "mercado",
+      "fuelTag": "saf",
+      "relevance": "alta",
+      "title": "YPF producirá combustible sostenible de aviación",
+      "summary": "YPF, a través de Santa Fe Bio (junto a Essential Energy), invertirá más de US$400 millones para reconvertir el complejo de San Lorenzo en una biorrefinería que producirá unas 170.000 toneladas anuales de SAF y HVO. Acuerdo de offtake de largo plazo con TotalEnergies. Inicio operativo proyectado para fines de 2029. Avance en la cadena de suministro de combustibles alternativos para aviación."
+    },
+    {
+      "channel": "web",
+      "source": "Infobae",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.infobae.com/economia/2026/10/09/aeropuertos-argentina-anuncio-el-mayor-plan-de-inversion-de-su-historia-desembolsara-usd-1500-millones-en-los-proximos-5-anos/",
+      "publishedAt": "2026-10-09",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aeropuertos Argentina invertirá US$1.500 millones para ampliar Ezeiza y Aeroparque hasta 2031",
+      "summary": "Aeropuertos Argentina anunció el mayor plan de inversión de su historia: US$1.500 millones entre 2027 y 2031. Incluye nuevas terminales en Ezeiza (arribos internacionales de 35.000 m2 y doméstica), ampliación de Aeroparque (6 nuevas mangas), y obras en 33 aeropuertos del interior. Financiado con fondos propios y FFSNA."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2108650229054517556",
+      "publishedAt": "2026-10-09",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aeropuertos Argentina anuncia inversión de más de 1500 millones de dólares",
+      "summary": "SpottersArg reporta que Aeropuertos Argentina anunció la inversión de más de 1500 millones de dólares en cinco años, con trabajos en Aeroparque y Ezeiza, y en otros 33 aeropuertos. Incluye seis nuevas mangas para Aeroparque y dos nuevas terminales para Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2108553944548913464",
+      "publishedAt": "2026-10-09",
+      "airline": "Flybondi",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Flybondi devolvió seis Boeing 737-800 a sus propietarios",
+      "summary": "Durante las últimas tres semanas, Flybondi devolvió seis Boeing 737-800 a sus propietarios. Todos partieron hacia Estados Unidos (Tucson, Greenwood, Phoenix vía escalas). Refleja la reducción drástica de flota en el marco de la crisis y concurso preventivo."
+    },
+    {
+      "channel": "web",
+      "source": "The Guardian",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "publishedAt": "2026-10-09",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent cierra cerca de USD 104 tras pausa de Trump en ataques a Irán",
+      "summary": "El Brent se mantuvo volátil alrededor de USD 103-104. Cayó tras la promesa de Trump de no atacar Irán antes de las midterms de noviembre, pero se sostiene por riesgos en Hormuz, ataques previos y cierre de producción en el Golfo de México por el huracán Isaias. Impacto: mantiene presión alcista en jet fuel."
+    },
+    {
+      "channel": "youtube",
+      "source": "Mentour Pilot",
+      "sourceHandle": "MentourPilot",
+      "sourceUrl": "https://www.youtube.com/watch?v=EBc2gNkPVi8",
+      "publishedAt": "2026-10-08",
+      "airline": "FlyDubai",
+      "segment": "analisis",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Mentour Pilot: The FlyDubai Incident Gets WORSE!?",
+      "summary": "Análisis del incidente de FlyDubai FZ1073 donde el copiloto atacó al capitán, provocando descenso abrupto y daño. Recuperado por otros pilotos. Caso de seguridad que impacta flota y operaciones.",
+      "channel": "youtube",
+      "videoId": "EBc2gNkPVi8"
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/ethiopian-airlines-podra-operar-carga-exclusiva-en-la-argentina-hasta-la-novena-libertad_a6ac7ba0a4f6837e79638b694",
+      "publishedAt": "2026-10-08",
+      "airline": "Ethiopian Airlines",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Ethiopian Airlines podrá operar carga exclusiva en la Argentina hasta la novena libertad",
+      "summary": "La Disposición 26/2026 habilita a Ethiopian Airlines a operar servicios regulares de carga exclusiva con derechos de 3ª a 9ª libertad (incluyendo cabotaje). Proyecta vuelo semanal Adís Abeba-Lagos-San Pablo-Ezeiza desde el 31 de octubre. Amplía oferta de carga aérea en el marco de cielos abiertos."
+    },
+    {
+      "channel": "web",
+      "source": "Buenos Aires Herald",
+      "sourceHandle": null,
+      "sourceUrl": "https://buenosairesherald.com/business/flybondi-files-for-insolvency-proceedings-following-months-long-crisis",
+      "publishedAt": "2026-10-06",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Flybondi presenta concurso preventivo tras meses de crisis",
+      "summary": "Flybondi pidió concurso preventivo de acreedores. Lleva casi dos meses sin volar, flota reducida a 3 aviones de 13, cientos de despidos. Deudas incluyen salarios impagos y a proveedores como YPF por combustible. El colapso reconfigura el mercado doméstico a favor de Aerolíneas y JetSMART."
+    },
+    {
+      "channel": "web",
+      "source": "Zona Militar",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.zona-militar.com/2026/09/29/12-de-24-la-fuerza-aerea-argentina-completo-la-mitad-de-su-flota-de-f-16-con-la-llegada-de-la-segunda-tanda-a-rio-cuarto/",
+      "publishedAt": "2026-09-29",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "FAA completó la mitad de su flota de F-16 con segunda tanda a Río Cuarto",
+      "summary": "La Fuerza Aérea Argentina recibió la segunda tanda de F-16 en el Área Material Río Cuarto, completando 12 de 24 cazas del programa Peace Condor. Incluye monoplazas y biplazas. Escolta de aviones ya en el país. Autoridades de Defensa y embajador de EEUU presentes."
+    },
+    {
+      "channel": "web",
+      "source": "Zona Militar",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.zona-militar.com/2026/09/15/argentina-proyecta-el-despliegue-de-cazas-f-16-desde-tierra-del-fuego-con-apoyo-de-la-futura-base-naval-integrada-de-ushuaia/",
+      "publishedAt": "2026-09-16",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Argentina proyecta el despliegue de cazas F-16 desde Tierra del Fuego con apoyo de la futura Base Naval Integrada de Ushuaia",
+      "summary": "Zona Militar reporta que Argentina proyecta desplegar cazas F-16 desde Tierra del Fuego, apoyados por la futura Base Naval Integrada de Ushuaia. Esto forma parte del programa Peace Condor de modernización de la FAA. La base naval integrada facilitaría operaciones en el sur del país."
+    }
+  ]
+}
