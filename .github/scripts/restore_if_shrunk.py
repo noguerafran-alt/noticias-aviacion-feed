@@ -16,8 +16,19 @@ def key(n):
     u = (n.get("sourceUrl") or n.get("source_url") or "").strip().rstrip("/").lower()
     return ("u:" + u) if u else ("t:" + (n.get("title") or "").strip().lower())
 
-new = json.loads(Path("noticias-feed.json").read_text(encoding="utf-8"))
-old = load_at("HEAD~1")
+try:
+    new = json.loads(Path("noticias-feed.json").read_text(encoding="utf-8"))
+    if not isinstance(new, dict):
+        new = {}
+except Exception:
+    print("new feed is not valid JSON; treating as empty")
+    new = {}
+# compare against the largest valid feed in recent history (stubs/placeholders can be consecutive)
+old = {}
+for i in range(1, 30):
+    cand = load_at(f"HEAD~{i}")
+    if len(items(cand)) > len(items(old)):
+        old = cand
 old_items, new_items = items(old), items(new)
 print(f"old={len(old_items)} new={len(new_items)}")
 if not old_items:
