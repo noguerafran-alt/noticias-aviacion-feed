@@ -1,0 +1,126 @@
+{
+  "briefing": {
+    "title": "Briefing de aviación 2026-10-11",
+    "summary": "Dolarización de la TUA de cabotaje a USD 9, análisis de la reforma de Ezeiza, operaciones SpottersArg de Andes, Air Canada y Lufthansa, avance FAA con pods Litening G4 en F-16 y posible reutilización de A-4AR. Jet 54 en 434,2 cpg. Brent volátil cerca de USD 104-105 por Hormuz y huracán.",
+    "generatedAt": "2026-10-11T03:15:00-03:00",
+    "source": "automation"
+  },
+  "indicadores": {
+    "jet54": {
+      "fecha": "2026-10-06",
+      "precio_usd_gal": 4.342,
+      "cpg": 434.2,
+      "change_from_prev": -0.008,
+      "platts": null,
+      "source": "FRED DJFUELUSGULF",
+      "updatedAt": "2026-10-11"
+    }
+  },
+  "noticias": [
+    {
+      "channel": "web",
+      "source": "Sir Chandler",
+      "sourceHandle": "SirChandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/10/la-nueva-gran-reforma-de-ezeiza-ahora-si/",
+      "publishedAt": "2026-10-10",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "La nueva gran reforma de Ezeiza ¿Ahora sí?",
+      "summary": "Sir Chandler analiza el plan de obras en Ezeiza por US$760 millones dentro del plan de Aeropuertos Argentina. Incluye nueva terminal de arribos internacionales de 35.000 m², nueva terminal doméstica, ampliación de embarque internacional con seis nuevas puertas y renovación de pistas. Los trabajos se desarrollarán entre 2026 y 2027. Contextualiza que partes ya se habían anunciado antes."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2109059169458295047",
+      "publishedAt": "2026-10-10",
+      "airline": "Andes Líneas Aéreas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Andes opera vuelo Iquique-Santa Cruz de la Sierra con trayectoria inusual",
+      "summary": "El Boeing 737-700 LV-PPM de Andes operó la ruta Iquique - Santa Cruz de la Sierra con una trayectoria inusual, con casi 4 horas de vuelo. SpottersArg documenta la operación."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2108974575354831346",
+      "publishedAt": "2026-10-10",
+      "airline": "Air Canada",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Air Canada llega a Buenos Aires con 787-9 livery especial y 97% de ocupación",
+      "summary": "Air Canada operó el vuelo a Buenos Aires proveniente de Toronto y São Paulo en el Boeing 787-9 Dreamliner con livery '2025 Employee Excellence'. Llegó con 289 pasajeros, ocupación del 97%."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2108914038960755027",
+      "publishedAt": "2026-10-10",
+      "airline": "Lufthansa",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Lufthansa 747 llega lleno a Buenos Aires con 98,9% de ocupación",
+      "summary": "La reina centenaria: 360 pasajeros arribaron a Buenos Aires en el vuelo LH 510 de Lufthansa proveniente de Frankfurt, operado por el Boeing 747 D-ABYN, con 98,9% de ocupación."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/argentina-dolariza-la-tasa-de-uso-de-aeroestacion-de-cabotaje-y-la-fija-en-usd-9-por-pasajero_a6ac8bbecc5c1a58b5bbafd29",
+      "publishedAt": "2026-10-09",
+      "airline": null,
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Argentina dolariza la tasa de uso de aeroestación de cabotaje y la fija en USD 9 por pasajero",
+      "summary": "La Resolución 69/2026 del ORSNA dolariza la Tasa de Uso de Aeroestación (TUA) de cabotaje y la fija en USD 9 por pasajero embarcado, un valor único para todos los aeropuertos del Grupo A. Los nuevos valores serán exigibles a los 60 días de su publicación. En vuelos internacionales la TUA se mantiene, y se incorpora el descuento del 30% en tasas de aterrizaje internacional. Impacto directo en el costo de los pasajes domésticos."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09/",
+      "publishedAt": "2026-10-09",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent cierra cerca de USD 104,7 por huracán e incertidumbre en Hormuz",
+      "summary": "El Brent se mantuvo volátil y cerró cerca de USD 104,72 el viernes, apoyado por el cierre de más del 70% de la producción en el Golfo de México por el huracán Isaias y riesgos persistentes en el Estrecho de Hormuz. Trump prometió no atacar Irán antes de las midterms. Impacto: sostiene presión alcista en el jet fuel."
+    },
+    {
+      "channel": "web",
+      "source": "Zona Militar",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.zona-militar.com/2026/10/08/fuerza-aerea-argentina-tras-la-baja-de-los-a-4ar-empresas-de-agresores-evaluan-darles-una-segunda-vida/",
+      "publishedAt": "2026-10-08",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Tras la baja de los A-4AR, empresas de agresores evalúan darles una segunda vida",
+      "summary": "La desprogramación de los A-4AR Fightinghawk no necesariamente significa el final de su vida operativa. Empresas privadas de agresores (como Top Aces o Draken) evalúan adquirir algunas células con horas disponibles. Concentración de material en V Brigada Aérea para liberar Río Cuarto al programa F-16."
+    },
+    {
+      "channel": "web",
+      "source": "Zona Militar",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.zona-militar.com/2026/10/07/los-f-16-argentinos-ya-cuentan-con-los-pods-litening-g4-y-amplian-sus-posibilidades-de-empleo-de-armamento-guiado/",
+      "publishedAt": "2026-10-07",
+      "airline": "Fuerza Aérea Argentina",
+      "segment": "faa",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Los F-16 argentinos ya cuentan con los pods Litening G4",
+      "summary": "Confirmación del arribo e incorporación de los primeros pods de navegación y adquisición de objetivos AN/AAQ-28 Litening G4 a los F-16 de la Fuerza Aérea Argentina. Amplía las posibilidades de empleo de armamento guiado. Parte del programa Peace Condor, con 12 de 24 aeronaves ya recibidas."
+    }
+  ],
+  "note": "Delta 2026-10-11. Histórico completo sigue en noticias-feed.json (213). Merge local tiene 221."
+}
