@@ -1,18 +1,18 @@
 {
   "featuredAt": "2026-10-12",
   "item": {
-    "title": "This Should NEVER Have Happened!! | The Insane Story Of Air Niugini Flight 73",
-    "summary": "Mentour Pilot analiza el accidente del Air Niugini Flight 73 el 28 de septiembre de 2018, cuando un Boeing 737-800 se estrelló corto de pista en Chuuk International Airport y cayó en la laguna. Rescate por locales en botes. El video detalla las causas, factores humanos y lecciones de seguridad. Pertinente para operaciones en condiciones desafiantes y flotas regionales.",
-    "source": "Mentour Pilot",
-    "sourceHandle": "MentourPilot",
-    "sourceUrl": "https://www.youtube.com/watch?v=Q_SQC-hzI70",
-    "publishedAt": "2026-10-10",
-    "airline": "Air Niugini",
+    "title": "There's A New Plan To Bring Back The Mid-Size Widebody",
+    "summary": "Plane Curious analiza el vacío en el mercado de widebodies de tamaño medio. Ni Airbus ni Boeing lideran un nuevo diseño; en su lugar, la startup Jet Zero avanza con el Z4 blended-wing-body para ~250 pasajeros y 5.000 nm, con hasta 50% menos consumo de combustible. Inversores incluyen United, Delta y Alaska. Pertinente para flota, eficiencia de combustible y evolución de widebodies en un contexto de altos precios de jet fuel.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=gXpO3jH8J9M",
+    "publishedAt": "2026-10-12",
+    "airline": null,
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "Q_SQC-hzI70",
+    "videoId": "gXpO3jH8J9M",
     "featuredAt": "2026-10-12"
   }
 }
