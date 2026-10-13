@@ -1,0 +1,49 @@
+{
+  "briefing": {
+    "title": "Briefing de aviación 2026-10-13",
+    "summary": "Emergencia de Aerolíneas por impacto de aves (AR1648 desviado a Ezeiza); JOY Airline suma charters Santa Fe–Florianópolis; Air Class 727 transportó equipos de Robbie Williams. Feed actualizado con notas del 13/10.",
+    "generatedAt": "2026-10-13T15:45:00-03:00",
+    "source": "manual-merge-fix"
+  },
+  "notes": [
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110021757163778533",
+      "publishedAt": "2026-10-13",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Boeing 727 de Air Class transportó equipos de Robbie Williams por Latinoamérica",
+      "summary": "El Boeing 727 CX-CLC de Air Class movió los equipos de la gira de Robbie Williams durante 8 días, con ruta que incluyó Argentina, México y Brasil."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2109998721148600454",
+      "publishedAt": "2026-10-13",
+      "airline": "JOY Airline",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline operará vuelos charter Santa Fe–Florianópolis desde el 26 de diciembre",
+      "summary": "JOY Airline programó dos frecuencias semanales (sábados) entre Santa Fe y Florianópolis desde el 26 de diciembre de 2026 hasta el 20 de marzo de 2027. Comercializados por agencias de viajes."
+    },
+    {
+      "channel": "web",
+      "source": "Red 23 Noticias",
+      "sourceHandle": null,
+      "sourceUrl": "https://red23noticias.com.ar/nota/10758/un-avion-de-aerolineas-argentinas-aterrizo-de-emergencia-en-ezeiza-tras-una-falla-tecnica/",
+      "publishedAt": "2026-10-13",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Un avión de Aerolíneas Argentinas aterrizó de emergencia en Ezeiza tras impacto de aves",
+      "summary": "El vuelo AR1648 de Aerolíneas Argentinas (Aeroparque–Neuquén) sufrió un impacto de aves en un motor poco después del despegue y declaró emergencia. Aterrizó en Ezeiza con un motor operativo, sin evacuaciones. 143 pasajeros + 9 tripulantes. Se inspeccionó la pista de Aeroparque."
+    }
+  ]
+}
