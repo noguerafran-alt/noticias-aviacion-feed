@@ -16,6 +16,19 @@ def key(n):
     u = (n.get("sourceUrl") or n.get("source_url") or "").strip().rstrip("/").lower()
     return ("u:" + u) if u else ("t:" + (n.get("title") or "").strip().lower())
 
+# --- merge pending-notes.json if present ---
+pending_path = Path("pending-notes.json")
+pending_notes = []
+pending_briefing = None
+if pending_path.exists():
+    try:
+        p = json.loads(pending_path.read_text(encoding="utf-8"))
+        pending_notes = [n for n in (p.get("notes") or []) if isinstance(n, dict)]
+        pending_briefing = p.get("briefing")
+        print(f"found pending-notes: {len(pending_notes)} notes")
+    except Exception as e:
+        print(f"pending-notes invalid: {e}")
+
 try:
     new = json.loads(Path("noticias-feed.json").read_text(encoding="utf-8"))
     if not isinstance(new, dict):
@@ -23,7 +36,8 @@ try:
 except Exception:
     print("new feed is not valid JSON; treating as empty")
     new = {}
-# compare against the largest valid feed in recent history (stubs/placeholders can be consecutive)
+
+# compare against the largest valid feed in recent history
 old = {}
 for i in range(1, 30):
     cand = load_at(f"HEAD~{i}")
@@ -31,16 +45,22 @@ for i in range(1, 30):
         old = cand
 old_items, new_items = items(old), items(new)
 print(f"old={len(old_items)} new={len(new_items)}")
-if not old_items:
+
+# If we have pending notes, force a merge even if sizes look ok
+force_merge = bool(pending_notes)
+
+if not old_items and not force_merge:
     print("no parent feed; ok")
     sys.exit(0)
-if len(new_items) >= len(old_items) and not (len(new_items) == 1 and (new_items[0].get("title") or "").startswith("RESTORE")):
+if (len(new_items) >= len(old_items) and not force_merge
+    and not (len(new_items) == 1 and (new_items[0].get("title") or "").startswith("RESTORE"))):
     print("ok append")
     sys.exit(0)
 
-print("SHRINK or stub; merging restore")
+print("SHRINK, stub, or pending notes; merging")
 seen, out = set(), []
-for n in old_items + new_items:
+# pending first (newest), then old, then any new
+for n in pending_notes + old_items + new_items:
     k = key(n)
     if not k or k in ("u:", "t:") or k in seen:
         continue
@@ -49,16 +69,22 @@ for n in old_items + new_items:
     seen.add(k)
     out.append(n)
 out.sort(key=lambda n: n.get("publishedAt") or "", reverse=True)
+
 merged = dict(new or old)
 merged["noticias"] = out
 if old.get("indicadores") and not (merged.get("indicadores") or {}).get("jet54"):
     merged["indicadores"] = old["indicadores"]
-if (merged.get("briefing") or {}).get("title", "").startswith("RESTORE"):
+if pending_briefing:
+    merged["briefing"] = pending_briefing
+elif (merged.get("briefing") or {}).get("title", "").startswith("RESTORE"):
     merged["briefing"] = old.get("briefing") or merged.get("briefing")
+
 Path("noticias-feed.json").write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 subprocess.check_call(["git", "config", "user.name", "feed-append-only"])
 subprocess.check_call(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
 subprocess.check_call(["git", "add", "noticias-feed.json"])
-subprocess.check_call(["git", "commit", "-m", "restore: no borrar notas del feed"])
+if pending_path.exists():
+    subprocess.check_call(["git", "rm", "-f", "pending-notes.json"])
+subprocess.check_call(["git", "commit", "-m", "restore+merge: notas pendientes aplicadas"])
 subprocess.check_call(["git", "push"])
-print(f"restored {len(out)} notes")
+print(f"restored/merged {len(out)} notes")
