@@ -20,11 +20,13 @@ def key(n):
 pending_path = Path("pending-notes.json")
 pending_notes = []
 pending_briefing = None
+pending_indicadores = None
 if pending_path.exists():
     try:
         p = json.loads(pending_path.read_text(encoding="utf-8"))
         pending_notes = [n for n in (p.get("notes") or []) if isinstance(n, dict)]
         pending_briefing = p.get("briefing")
+        pending_indicadores = p.get("indicadores")
         print(f"found pending-notes: {len(pending_notes)} notes")
     except Exception as e:
         print(f"pending-notes invalid: {e}")
@@ -72,8 +74,13 @@ out.sort(key=lambda n: n.get("publishedAt") or "", reverse=True)
 
 merged = dict(new or old)
 merged["noticias"] = out
-if old.get("indicadores") and not (merged.get("indicadores") or {}).get("jet54"):
+
+# indicadores: prefer pending, else preserve from old
+if pending_indicadores:
+    merged["indicadores"] = pending_indicadores
+elif old.get("indicadores") and not (merged.get("indicadores") or {}).get("jet54"):
     merged["indicadores"] = old["indicadores"]
+
 if pending_briefing:
     merged["briefing"] = pending_briefing
 elif (merged.get("briefing") or {}).get("title", "").startswith("RESTORE"):
