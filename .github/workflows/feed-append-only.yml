@@ -4,9 +4,10 @@ on:
     branches: [main]
     paths:
       - noticias-feed.json
+      - pending-notes.json
 jobs:
   never-shrink:
-    if: "!startsWith(github.event.head_commit.message, 'restore: no borrar notas del feed')"
+    if: "!startsWith(github.event.head_commit.message, 'restore') && !startsWith(github.event.head_commit.message, 'restore+merge')"
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,5 +15,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 30
-      - name: Restaurar si achicó el JSON
+      - name: Restaurar o mergear pending
         run: python3 .github/scripts/restore_if_shrunk.py
