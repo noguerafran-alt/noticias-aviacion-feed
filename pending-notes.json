@@ -1,49 +1,151 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-13",
-    "summary": "Emergencia de Aerolíneas por impacto de aves (AR1648 desviado a Ezeiza); JOY Airline suma charters Santa Fe–Florianópolis; Air Class 727 transportó equipos de Robbie Williams. Feed actualizado con notas del 13/10.",
-    "generatedAt": "2026-10-13T15:45:00-03:00",
-    "source": "manual-merge-fix"
+    "title": "Briefing de aviación 2026-10-14",
+    "summary": "Mercado de cabotaje se concentra en Aerolíneas (66%) y JetSMART (31%) tras el colapso de Flybondi; American Jet inicia regular con ATR 42; China Eastern duplica frecuencias Shanghai-Auckland-Buenos Aires; Brent se mantiene sobre $105 por ataques en Hormuz y Arabia Saudita.",
+    "generatedAt": "2026-10-14T03:16:00-03:00",
+    "source": "automation"
+  },
+  "indicadores": {
+    "jet54": {
+      "fecha": "2026-10-06",
+      "precio_usd_gal": 4.342,
+      "cpg": 434.2,
+      "change_from_prev": -0.008,
+      "platts": null,
+      "source": "FRED DJFUELUSGULF",
+      "updatedAt": "2026-10-14"
+    }
   },
   "notes": [
     {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110021757163778533",
+      "channel": "web",
+      "source": "Sir Chandler",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/10/vuelos-de-cabotaje-septiembre-volvio-a-crecer-en-argentina/",
       "publishedAt": "2026-10-13",
       "airline": null,
       "segment": "mercado",
       "fuelTag": "ninguno",
-      "relevance": "media",
-      "title": "Boeing 727 de Air Class transportó equipos de Robbie Williams por Latinoamérica",
-      "summary": "El Boeing 727 CX-CLC de Air Class movió los equipos de la gira de Robbie Williams durante 8 días, con ruta que incluyó Argentina, México y Brasil."
+      "relevance": "alta",
+      "title": "Cabotaje argentino creció 1% en septiembre: Aerolíneas 66% y JetSMART 31%",
+      "summary": "ANAC reportó 1.442.805 pasajeros de cabotaje en septiembre (+1% interanual). Aerolíneas transportó 951.030 (66%, +15,4%) y JetSMART 442.347 (31%, +34,2%). Flybondi registró cero pasajeros. Ambas concentran el 96,6% del mercado."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/flybondi-en-concurso-preventivo-la-deuda-que-se-volvio-irreversible_a6ace3c7420a9aaff767a6292",
+      "publishedAt": "2026-10-13",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Flybondi en concurso: pasivo de $609.589 millones y casi sin flota",
+      "summary": "FB Líneas Aéreas declaró cesación de pagos desde marzo 2026. Al 28/09 tiene pasivo $609.589 millones, activos $176.103 millones y patrimonio neto negativo de $433.485 millones. Incluye deuda con YPF por combustible (~$15.900 millones). Flota operativa promedio cayó a ~2,67 aviones."
     },
     {
       "channel": "x",
       "source": "@SpottersArg",
       "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2109998721148600454",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110191587859022001",
+      "publishedAt": "2026-10-14",
+      "airline": null,
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Boeing 757 ARG-01 partió de Aeroparque rumbo a Washington",
+      "summary": "El Boeing 757 presidencial ARG-01 despegó de Aeroparque con destino a Washington."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110147966082093224",
       "publishedAt": "2026-10-13",
-      "airline": "JOY Airline",
+      "airline": "American Jet",
       "segment": "rutas",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "JOY Airline operará vuelos charter Santa Fe–Florianópolis desde el 26 de diciembre",
-      "summary": "JOY Airline programó dos frecuencias semanales (sábados) entre Santa Fe y Florianópolis desde el 26 de diciembre de 2026 hasta el 20 de marzo de 2027. Comercializados por agencias de viajes."
+      "title": "American Jet operó por primera vez un vuelo regular con ATR 42",
+      "summary": "El ATR 42 LV-KKZ de American Jet cubrió Perito Moreno - Trelew (escala técnica) - Aeroparque con 44 pasajeros y ocupación del 100%. Primer vuelo regular de la aerolínea con este tipo."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110125032743616855",
+      "publishedAt": "2026-10-13",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aeropuertos Argentina anuncia nueva terminal en San Fernando",
+      "summary": "Aeropuertos Argentina invertirá en una nueva terminal de pasajeros en el Aeropuerto de San Fernando, centro clave de aviación privada y ejecutiva."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110102678575649127",
+      "publishedAt": "2026-10-13",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas y JetSMART concentran el 97% del cabotaje argentino",
+      "summary": "Dos aerolíneas concentran el 97% del mercado de cabotaje: Aerolíneas Argentinas (66%) y JetSMART Argentina (31%)."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110078475017036067",
+      "publishedAt": "2026-10-13",
+      "airline": "JetSMART",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JetSMART alcanzó el 31% del cabotaje argentino en septiembre",
+      "summary": "JetSMART logró el 31% del mercado de cabotaje en septiembre, el número más alto desde que opera en el país y primera vez que supera el 30%."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110062824601120918",
+      "publishedAt": "2026-10-13",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "China Eastern duplicará vuelos Shanghai-Auckland-Buenos Aires",
+      "summary": "En menos de dos meses, China Eastern Airlines pasará de 2 a 4 frecuencias semanales en la ruta Shanghai - Auckland - Buenos Aires, operada con Boeing 777-300ER de 316 asientos."
     },
     {
       "channel": "web",
-      "source": "Red 23 Noticias",
+      "source": "Reuters",
       "sourceHandle": null,
-      "sourceUrl": "https://red23noticias.com.ar/nota/10758/un-avion-de-aerolineas-argentinas-aterrizo-de-emergencia-en-ezeiza-tras-una-falla-tecnica/",
-      "publishedAt": "2026-10-13",
-      "airline": "Aerolíneas Argentinas",
-      "segment": "operaciones",
-      "fuelTag": "ninguno",
+      "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/",
+      "publishedAt": "2026-10-14",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
       "relevance": "alta",
-      "title": "Un avión de Aerolíneas Argentinas aterrizó de emergencia en Ezeiza tras impacto de aves",
-      "summary": "El vuelo AR1648 de Aerolíneas Argentinas (Aeroparque–Neuquén) sufrió un impacto de aves en un motor poco después del despegue y declaró emergencia. Aterrizó en Ezeiza con un motor operativo, sin evacuaciones. 143 pasajeros + 9 tripulantes. Se inspeccionó la pista de Aeroparque."
+      "title": "Brent sube a $106,32 por ataques en Hormuz y tácticas iraníes",
+      "summary": "Brent futures +0,6% a $106,32 tras dos buques golpeados en el Estrecho de Hormuz y declaraciones iraníes de nuevas tácticas contra el tráfico. Mantiene la prima geopolítica que sostiene el crudo y, por arrastre, el jet fuel."
+    },
+    {
+      "channel": "youtube",
+      "source": "Plane Curious",
+      "sourceHandle": "planecurious",
+      "sourceUrl": "https://www.youtube.com/watch?v=gXpO3jH8J9M",
+      "publishedAt": "2026-10-04",
+      "airline": null,
+      "segment": "analisis",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "There's A New Plan To Bring Back The Mid-Size Widebody",
+      "summary": "Plane Curious analiza la recuperación de A330 CEO almacenados y el impulso del A321XLR que ataca el segmento medio. Relevancia para eficiencia de combustible y evolución de flota widebody vs narrowbody de largo radio en entorno de altos precios de jet."
     }
   ]
 }
