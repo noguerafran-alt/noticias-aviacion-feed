@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-13",
+  "featuredAt": "2026-10-14",
   "item": {
-    "title": "How Far Can Airbus Push the A350?",
-    "summary": "Coby Explanes analiza el potencial de la familia A350 en el segmento widebody. El A350-900 y -1000 cubren rangos de 8.000 a 8.600 nm con consumos hasta 25% menores que generaciones anteriores. Se discute la versión freighter y el A350-1000ULR con tanque central adicional que extiende el alcance a cerca de 9.800 nm. Relevante para eficiencia de combustible y evolución de flota de largo radio en un entorno de altos precios de jet fuel.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=SalbjzL5ZR8",
-    "publishedAt": "2026-10-13",
+    "title": "There's A New Plan To Bring Back The Mid-Size Widebody",
+    "summary": "Plane Curious analiza la recuperación de A330 CEO almacenados y el impulso del A321XLR que ataca el segmento medio. Relevancia para eficiencia de combustible y evolución de flota widebody vs narrowbody de largo radio en entorno de altos precios de jet.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=gXpO3jH8J9M",
+    "publishedAt": "2026-10-04",
     "airline": null,
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "SalbjzL5ZR8",
-    "featuredAt": "2026-10-13"
+    "videoId": "gXpO3jH8J9M",
+    "featuredAt": "2026-10-14"
   }
 }
