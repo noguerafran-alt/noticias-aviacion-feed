@@ -1,8 +1,8 @@
 {
   "briefing": {
     "title": "Briefing de aviación 2026-10-14",
-    "summary": "Mercado de cabotaje se concentra en Aerolíneas (66%) y JetSMART (31%) tras el colapso de Flybondi; American Jet inicia regular con ATR 42; China Eastern duplica frecuencias Shanghai-Auckland-Buenos Aires; Brent se mantiene sobre $105 por ataques en Hormuz y Arabia Saudita.",
-    "generatedAt": "2026-10-14T03:16:00-03:00",
+    "summary": "Argentina autoriza a JetSMART Chile derechos de 3.ª a 9.ª libertad (incluyendo cabotaje autónomo); récord histórico de 4,18 millones de pasajeros en aeropuertos en septiembre; Aeropuertos Argentina invierte US$16 millones en nueva terminal en San Fernando para aviación ejecutiva; Brent se sostiene sobre US$106 por ataques en Hormuz y tácticas iraníes. Jet 54 en 434,2 cpg.",
+    "generatedAt": "2026-10-14T09:45:00-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -19,107 +19,42 @@
   "notes": [
     {
       "channel": "web",
-      "source": "Sir Chandler",
+      "source": "Aviacionline",
       "sourceHandle": null,
-      "sourceUrl": "https://www.sirchandler.com.ar/2026/10/vuelos-de-cabotaje-septiembre-volvio-a-crecer-en-argentina/",
-      "publishedAt": "2026-10-13",
-      "airline": null,
-      "segment": "mercado",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-autoriza-a-jetsmart-chile-a-operar-cabotaje-con-novena-libertad_a6acefce120a9aaff76bb5498",
+      "publishedAt": "2026-10-14",
+      "airline": "JetSMART",
+      "segment": "regulacion",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "Cabotaje argentino creció 1% en septiembre: Aerolíneas 66% y JetSMART 31%",
-      "summary": "ANAC reportó 1.442.805 pasajeros de cabotaje en septiembre (+1% interanual). Aerolíneas transportó 951.030 (66%, +15,4%) y JetSMART 442.347 (31%, +34,2%). Flybondi registró cero pasajeros. Ambas concentran el 96,6% del mercado."
+      "title": "Argentina autoriza a JetSMART Chile a operar cabotaje con novena libertad",
+      "summary": "Disposición 27/2026 habilita a la matriz chilena JetSMART Airlines S.p.A. a operar servicios regulares internos e internacionales con derechos de 3.ª a 9.ª libertad, incluyendo cabotaje autónomo, sin limitación de rutas. No implica inicio inmediato; la filial argentina ya opera localmente. Precedente de LATAM en 2025."
     },
     {
       "channel": "web",
-      "source": "Aviacionline",
+      "source": "Argentina.gob.ar",
       "sourceHandle": null,
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/flybondi-en-concurso-preventivo-la-deuda-que-se-volvio-irreversible_a6ace3c7420a9aaff767a6292",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/septiembre-marco-un-nuevo-record-historico-de-pasajeros-en-los-aeropuertos-argentinos",
       "publishedAt": "2026-10-13",
-      "airline": "Flybondi",
+      "airline": null,
       "segment": "mercado",
-      "fuelTag": "jet",
+      "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "Flybondi en concurso: pasivo de $609.589 millones y casi sin flota",
-      "summary": "FB Líneas Aéreas declaró cesación de pagos desde marzo 2026. Al 28/09 tiene pasivo $609.589 millones, activos $176.103 millones y patrimonio neto negativo de $433.485 millones. Incluye deuda con YPF por combustible (~$15.900 millones). Flota operativa promedio cayó a ~2,67 aviones."
+      "title": "Septiembre marcó récord histórico de pasajeros en aeropuertos argentinos",
+      "summary": "4.186.500 pasajeros en septiembre 2026, +2% vs récord 2025. Internacionales 1.300.890 (+5%), cabotaje 2.885.610 (+1%). 181.068 viajaron al exterior desde el interior (+17%). 28 rutas internacionales directas desde provincias."
     },
     {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110191587859022001",
+      "channel": "web",
+      "source": "Aviación News",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionnews.com/2026/10/us-16-millones-para-san-fernando-aeropuertos-argentina-apuesta-por-la-aviacion-ejecutiva/",
       "publishedAt": "2026-10-14",
       "airline": null,
-      "segment": "operaciones",
-      "fuelTag": "ninguno",
-      "relevance": "media",
-      "title": "Boeing 757 ARG-01 partió de Aeroparque rumbo a Washington",
-      "summary": "El Boeing 757 presidencial ARG-01 despegó de Aeroparque con destino a Washington."
-    },
-    {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110147966082093224",
-      "publishedAt": "2026-10-13",
-      "airline": "American Jet",
-      "segment": "rutas",
-      "fuelTag": "ninguno",
-      "relevance": "alta",
-      "title": "American Jet operó por primera vez un vuelo regular con ATR 42",
-      "summary": "El ATR 42 LV-KKZ de American Jet cubrió Perito Moreno - Trelew (escala técnica) - Aeroparque con 44 pasajeros y ocupación del 100%. Primer vuelo regular de la aerolínea con este tipo."
-    },
-    {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110125032743616855",
-      "publishedAt": "2026-10-13",
-      "airline": null,
       "segment": "mercado",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "Aeropuertos Argentina anuncia nueva terminal en San Fernando",
-      "summary": "Aeropuertos Argentina invertirá en una nueva terminal de pasajeros en el Aeropuerto de San Fernando, centro clave de aviación privada y ejecutiva."
-    },
-    {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110102678575649127",
-      "publishedAt": "2026-10-13",
-      "airline": null,
-      "segment": "mercado",
-      "fuelTag": "ninguno",
-      "relevance": "alta",
-      "title": "Aerolíneas y JetSMART concentran el 97% del cabotaje argentino",
-      "summary": "Dos aerolíneas concentran el 97% del mercado de cabotaje: Aerolíneas Argentinas (66%) y JetSMART Argentina (31%)."
-    },
-    {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110078475017036067",
-      "publishedAt": "2026-10-13",
-      "airline": "JetSMART",
-      "segment": "mercado",
-      "fuelTag": "ninguno",
-      "relevance": "alta",
-      "title": "JetSMART alcanzó el 31% del cabotaje argentino en septiembre",
-      "summary": "JetSMART logró el 31% del mercado de cabotaje en septiembre, el número más alto desde que opera en el país y primera vez que supera el 30%."
-    },
-    {
-      "channel": "x",
-      "source": "@SpottersArg",
-      "sourceHandle": "SpottersArg",
-      "sourceUrl": "https://x.com/SpottersArg/status/2110062824601120918",
-      "publishedAt": "2026-10-13",
-      "airline": "China Eastern",
-      "segment": "rutas",
-      "fuelTag": "ninguno",
-      "relevance": "alta",
-      "title": "China Eastern duplicará vuelos Shanghai-Auckland-Buenos Aires",
-      "summary": "En menos de dos meses, China Eastern Airlines pasará de 2 a 4 frecuencias semanales en la ruta Shanghai - Auckland - Buenos Aires, operada con Boeing 777-300ER de 316 asientos."
+      "title": "US$ 16 millones para San Fernando: Aeropuertos Argentina apuesta por la aviación ejecutiva",
+      "summary": "Nueva terminal de pasajeros en San Fernando por US$16 millones. También terminales de aviación general en Córdoba, Mendoza y Bariloche. Aviación general representa 1 de cada 3 operaciones de la red, más de 120.000 movimientos anuales. Impulso a minería, agro y oil&gas."
     },
     {
       "channel": "web",
@@ -131,21 +66,8 @@
       "segment": "brent",
       "fuelTag": "brent",
       "relevance": "alta",
-      "title": "Brent sube a $106,32 por ataques en Hormuz y tácticas iraníes",
-      "summary": "Brent futures +0,6% a $106,32 tras dos buques golpeados en el Estrecho de Hormuz y declaraciones iraníes de nuevas tácticas contra el tráfico. Mantiene la prima geopolítica que sostiene el crudo y, por arrastre, el jet fuel."
-    },
-    {
-      "channel": "youtube",
-      "source": "Plane Curious",
-      "sourceHandle": "planecurious",
-      "sourceUrl": "https://www.youtube.com/watch?v=gXpO3jH8J9M",
-      "publishedAt": "2026-10-04",
-      "airline": null,
-      "segment": "analisis",
-      "fuelTag": "ninguno",
-      "relevance": "media",
-      "title": "There's A New Plan To Bring Back The Mid-Size Widebody",
-      "summary": "Plane Curious analiza la recuperación de A330 CEO almacenados y el impulso del A321XLR que ataca el segmento medio. Relevancia para eficiencia de combustible y evolución de flota widebody vs narrowbody de largo radio en entorno de altos precios de jet."
+      "title": "Brent sube a ~$106 por ataques en Hormuz y nuevas tácticas iraníes",
+      "summary": "Brent futures alrededor de $106,32 (+0,6%) tras buques golpeados en el Estrecho de Hormuz y declaraciones iraníes de nuevas tácticas para mantener precios altos. Prima geopolítica sostiene el crudo y arrastra al jet fuel."
     }
   ]
 }
