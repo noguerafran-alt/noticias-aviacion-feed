@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-14",
-    "summary": "Argentina autoriza a JetSMART Chile derechos de 3.ª a 9.ª libertad (incluyendo cabotaje autónomo); récord histórico de 4,18 millones de pasajeros en aeropuertos en septiembre; Aeropuertos Argentina invierte US$16 millones en nueva terminal en San Fernando para aviación ejecutiva; Brent se sostiene sobre US$106 por ataques en Hormuz y tácticas iraníes. Jet 54 en 434,2 cpg.",
-    "generatedAt": "2026-10-14T09:45:00-03:00",
+    "title": "Briefing de aviación 2026-10-15",
+    "summary": "Argentina oficializa autorización a JetSMART Chile para cabotaje con derechos hasta 9ª libertad (Disposición 27/2026); Plus Ultra reduce temporalmente Madrid-Buenos Aires a 2 frecuencias; JetSMART consolida Neuquén-Salta con alta ocupación; ANAC busca sumar a México al acuerdo ALAS. Brent oscila entre US$104-106 por riesgos en Hormuz y posibles alivios de sanciones. Jet 54 se mantiene en 434,2 cpg.",
+    "generatedAt": "2026-10-15T03:15:00-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,61 +13,87 @@
       "change_from_prev": -0.008,
       "platts": null,
       "source": "FRED DJFUELUSGULF",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     }
   },
   "notes": [
     {
       "channel": "web",
-      "source": "Aviacionline",
+      "source": "Argentina.gob.ar",
       "sourceHandle": null,
-      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-autoriza-a-jetsmart-chile-a-operar-cabotaje-con-novena-libertad_a6acefce120a9aaff76bb5498",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/se-autorizan-nuevas-conexiones-nacionales-e-internacionales",
       "publishedAt": "2026-10-14",
       "airline": "JetSMART",
       "segment": "regulacion",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "Argentina autoriza a JetSMART Chile a operar cabotaje con novena libertad",
-      "summary": "Disposición 27/2026 habilita a la matriz chilena JetSMART Airlines S.p.A. a operar servicios regulares internos e internacionales con derechos de 3.ª a 9.ª libertad, incluyendo cabotaje autónomo, sin limitación de rutas. No implica inicio inmediato; la filial argentina ya opera localmente. Precedente de LATAM en 2025."
+      "title": "Se autorizan nuevas conexiones nacionales e internacionales a JetSMART Chile",
+      "summary": "Disposición 27/2026 de la Secretaría de Transporte autoriza a JetSMART Airlines S.p.A. (Chile) a explotar servicios regulares de pasajeros y cargas con derechos de tráfico hasta la 9ª libertad, habilitando cabotaje autónomo en Argentina y nuevas conexiones Santiago-Buenos Aires-Río de Janeiro/Florianópolis. Se enmarca en el MOU bilateral de abril 2024 y la política de Cielos Abiertos."
     },
     {
       "channel": "web",
-      "source": "Argentina.gob.ar",
+      "source": "Clarín",
       "sourceHandle": null,
-      "sourceUrl": "https://www.argentina.gob.ar/noticias/septiembre-marco-un-nuevo-record-historico-de-pasajeros-en-los-aeropuertos-argentinos",
-      "publishedAt": "2026-10-13",
-      "airline": null,
-      "segment": "mercado",
+      "sourceUrl": "https://www.clarin.com/economia/argentina-vuelve-tener-vuelos-internos-aerolineas-extranjeras-filial-chilena-jetsmart-autorizada-operar-cabotaje_0_ihAAwUO9pj.html",
+      "publishedAt": "2026-10-14",
+      "airline": "JetSMART",
+      "segment": "regulacion",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "Septiembre marcó récord histórico de pasajeros en aeropuertos argentinos",
-      "summary": "4.186.500 pasajeros en septiembre 2026, +2% vs récord 2025. Internacionales 1.300.890 (+5%), cabotaje 2.885.610 (+1%). 181.068 viajaron al exterior desde el interior (+17%). 28 rutas internacionales directas desde provincias."
+      "title": "La Argentina vuelve a tener vuelos internos con aerolíneas extranjeras: JetSMART Chile autorizada a cabotaje",
+      "summary": "Tras la salida de LATAM en 2020, la filial chilena de JetSMART podrá operar rutas domésticas en Argentina. JetSMART ya tiene 31% del mercado interno (442.347 pax en septiembre) vs 66% de Aerolíneas Argentinas. Récord de 4,18 millones de pasajeros en septiembre."
     },
     {
-      "channel": "web",
-      "source": "Aviación News",
-      "sourceHandle": null,
-      "sourceUrl": "https://www.aviacionnews.com/2026/10/us-16-millones-para-san-fernando-aeropuertos-argentina-apuesta-por-la-aviacion-ejecutiva/",
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110511874135507184",
       "publishedAt": "2026-10-14",
-      "airline": null,
-      "segment": "mercado",
+      "airline": "Plus Ultra",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Plus Ultra reducirá de 5 a 2 vuelos semanales Madrid-Buenos Aires desde el 20 de octubre",
+      "summary": "Reducción temporal de frecuencias entre Madrid y Buenos Aires a partir del 20 de octubre. Aparentemente se restablecerán las 5 frecuencias desde el 14 de diciembre."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110491732244914523",
+      "publishedAt": "2026-10-14",
+      "airline": "JetSMART",
+      "segment": "rutas",
       "fuelTag": "ninguno",
       "relevance": "alta",
-      "title": "US$ 16 millones para San Fernando: Aeropuertos Argentina apuesta por la aviación ejecutiva",
-      "summary": "Nueva terminal de pasajeros en San Fernando por US$16 millones. También terminales de aviación general en Córdoba, Mendoza y Bariloche. Aviación general representa 1 de cada 3 operaciones de la red, más de 120.000 movimientos anuales. Impulso a minería, agro y oil&gas."
+      "title": "Neuquén-Salta, ruta consolidada de JetSMART con alta ocupación",
+      "summary": "JetSMART Argentina opera frecuencia diaria Neuquén-Salta en Airbus A321neo de 240 asientos, con ocupación promedio superior al 90% y usualmente más de 200 pasajeros."
     },
     {
       "channel": "web",
-      "source": "Reuters",
+      "source": "A21",
       "sourceHandle": null,
-      "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/",
+      "sourceUrl": "https://a21.com.mx/destacado-principal/2026/10/14/busca-argentina-incorporar-a-mexico-al-acuerdo-de-cielos-abiertos-alas/",
       "publishedAt": "2026-10-14",
+      "airline": null,
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "ANAC busca incorporar a México al acuerdo de cielos abiertos ALAS",
+      "summary": "Óscar Villabona (ANAC) manifestó intención de integrar a México al Acuerdo de Liberalización Aérea Sudamericana (ALAS, actualmente con Argentina, Brasil, Chile, Paraguay, Uruguay y Bolivia). Conversaciones en los próximos 2 meses para ampliar frecuencias y liberar el espacio bilateral."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters/Yahoo",
+      "sourceHandle": null,
+      "sourceUrl": "https://finance.yahoo.com/energy/articles/oil-prices-fall-investors-weigh-012948990.html",
+      "publishedAt": "2026-10-15",
       "airline": null,
       "segment": "brent",
       "fuelTag": "brent",
       "relevance": "alta",
-      "title": "Brent sube a ~$106 por ataques en Hormuz y nuevas tácticas iraníes",
-      "summary": "Brent futures alrededor de $106,32 (+0,6%) tras buques golpeados en el Estrecho de Hormuz y declaraciones iraníes de nuevas tácticas para mantener precios altos. Prima geopolítica sostiene el crudo y arrastra al jet fuel."
+      "title": "Brent cae más de 1% a ~$104,4 al sopesar riesgos en Hormuz vs alivio de sanciones",
+      "summary": "Brent futures bajaron a $104,42 (-1,6%) mientras inversores pesan ataques a buques en el Estrecho de Hormuz y nuevas tácticas iraníes contra posibles alivios de sanciones a flota sombra por parte de EE.UU. para abaratar el transporte. Prima geopolítica se modera pero sigue elevando el crudo y el jet fuel."
     }
   ]
 }
