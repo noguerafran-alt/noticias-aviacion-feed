@@ -1,5 +1,18 @@
 {
   "featuredAt": "2026-10-15",
-  "item": null,
-  "note": "sin video fresco"
+  "item": {
+    "title": "The oil apocalypse is here",
+    "summary": "Max Fisher (The Bigger Picture) explica que la crisis actual son en realidad varios shocks simultáneos: el bloqueo de Hormuz por la guerra con Irán, el cierre de Bab al-Mandab por los hutíes y los ataques al oleoducto Este-Oeste y a la refinería saudí, que bajan la salida de crudo de la región de 20 a unos 8 millones de barriles diarios, más un shock de fletes y de refinación. El crack spread del diésel pasó de unos US$20 a US$110 por barril. Relevancia para aviación: según el video, el jet fuel sufre la misma escasez y suba que el diésel, las cuentas de combustible de las aerolíneas suben alrededor de 40% y varias quedan al borde de la insolvencia, con más cancelaciones. Latinoamérica, importadora de combustibles refinados, queda especialmente expuesta.",
+    "source": "Max Fisher",
+    "sourceHandle": "maxfisher",
+    "sourceUrl": "https://www.youtube.com/watch?v=OETnuwwsv9U",
+    "publishedAt": "2026-10-02",
+    "airline": null,
+    "segment": "analisis",
+    "fuelTag": "jet",
+    "relevance": "alta",
+    "channel": "youtube",
+    "videoId": "OETnuwwsv9U",
+    "featuredAt": "2026-10-15"
+  }
 }
