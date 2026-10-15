@@ -1,8 +1,8 @@
 {
   "briefing": {
     "title": "Briefing de aviación 2026-10-15",
-    "summary": "Argentina oficializa autorización a JetSMART Chile para cabotaje con derechos hasta 9ª libertad (Disposición 27/2026); Plus Ultra reduce temporalmente Madrid-Buenos Aires a 2 frecuencias; JetSMART consolida Neuquén-Salta con alta ocupación; ANAC busca sumar a México al acuerdo ALAS. Brent oscila entre US$104-106 por riesgos en Hormuz y posibles alivios de sanciones. Jet 54 se mantiene en 434,2 cpg.",
-    "generatedAt": "2026-10-15T03:15:00-03:00",
+    "summary": "Argentina oficializa autorización a JetSMART Chile para cabotaje con derechos hasta 9ª libertad (Disposición 27/2026); Plus Ultra reduce temporalmente Madrid-Buenos Aires a 2 frecuencias; JetSMART consolida Neuquén-Salta con alta ocupación. Brent oscila entre US$104-106 por riesgos en Hormuz y posibles alivios de sanciones. Jet 54 se mantiene en 434,2 cpg.",
+    "generatedAt": "2026-10-15T09:30:00-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -32,6 +32,19 @@
     },
     {
       "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-autoriza-a-jetsmart-chile-a-operar-cabotaje-con-novena-libertad_a6acefce120a9aaff76bb5498",
+      "publishedAt": "2026-10-14",
+      "airline": "JetSMART",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Argentina autoriza a JetSMART Chile a operar cabotaje con novena libertad",
+      "summary": "La matriz chilena de JetSMART queda habilitada para operar servicios internos e internacionales con derechos de 3ª a 9ª libertad. La autorización alcanza a la matriz chilena, no a la filial argentina, y no implica el inicio inmediato de vuelos de cabotaje puro. Precedente con LATAM en diciembre 2025."
+    },
+    {
+      "channel": "web",
       "source": "Clarín",
       "sourceHandle": null,
       "sourceUrl": "https://www.clarin.com/economia/argentina-vuelve-tener-vuelos-internos-aerolineas-extranjeras-filial-chilena-jetsmart-autorizada-operar-cabotaje_0_ihAAwUO9pj.html",
@@ -41,7 +54,7 @@
       "fuelTag": "ninguno",
       "relevance": "alta",
       "title": "La Argentina vuelve a tener vuelos internos con aerolíneas extranjeras: JetSMART Chile autorizada a cabotaje",
-      "summary": "Tras la salida de LATAM en 2020, la filial chilena de JetSMART podrá operar rutas domésticas en Argentina. JetSMART ya tiene 31% del mercado interno (442.347 pax en septiembre) vs 66% de Aerolíneas Argentinas. Récord de 4,18 millones de pasajeros en septiembre."
+      "summary": "Tras la salida de LATAM en 2020, la filial chilena de JetSMART podrá operar rutas domésticas en Argentina. JetSMART ya tiene 31% del mercado interno (442.347 pax en septiembre) vs 66% de Aerolíneas Argentinas."
     },
     {
       "channel": "x",
@@ -71,22 +84,9 @@
     },
     {
       "channel": "web",
-      "source": "A21",
+      "source": "Reuters",
       "sourceHandle": null,
-      "sourceUrl": "https://a21.com.mx/destacado-principal/2026/10/14/busca-argentina-incorporar-a-mexico-al-acuerdo-de-cielos-abiertos-alas/",
-      "publishedAt": "2026-10-14",
-      "airline": null,
-      "segment": "regulacion",
-      "fuelTag": "ninguno",
-      "relevance": "media",
-      "title": "ANAC busca incorporar a México al acuerdo de cielos abiertos ALAS",
-      "summary": "Óscar Villabona (ANAC) manifestó intención de integrar a México al Acuerdo de Liberalización Aérea Sudamericana (ALAS, actualmente con Argentina, Brasil, Chile, Paraguay, Uruguay y Bolivia). Conversaciones en los próximos 2 meses para ampliar frecuencias y liberar el espacio bilateral."
-    },
-    {
-      "channel": "web",
-      "source": "Reuters/Yahoo",
-      "sourceHandle": null,
-      "sourceUrl": "https://finance.yahoo.com/energy/articles/oil-prices-fall-investors-weigh-012948990.html",
+      "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-fall-investors-weigh-supply-outlook-middle-east-tensions-2026-10-15/",
       "publishedAt": "2026-10-15",
       "airline": null,
       "segment": "brent",
