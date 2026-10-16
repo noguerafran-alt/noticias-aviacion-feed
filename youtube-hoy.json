@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-15",
+  "featuredAt": "2026-10-16",
   "item": {
-    "title": "The oil apocalypse is here",
-    "summary": "Max Fisher (The Bigger Picture) explica que la crisis actual son en realidad varios shocks simultáneos: el bloqueo de Hormuz por la guerra con Irán, el cierre de Bab al-Mandab por los hutíes y los ataques al oleoducto Este-Oeste y a la refinería saudí, que bajan la salida de crudo de la región de 20 a unos 8 millones de barriles diarios, más un shock de fletes y de refinación. El crack spread del diésel pasó de unos US$20 a US$110 por barril. Relevancia para aviación: según el video, el jet fuel sufre la misma escasez y suba que el diésel, las cuentas de combustible de las aerolíneas suben alrededor de 40% y varias quedan al borde de la insolvencia, con más cancelaciones. Latinoamérica, importadora de combustibles refinados, queda especialmente expuesta.",
-    "source": "Max Fisher",
-    "sourceHandle": "maxfisher",
-    "sourceUrl": "https://www.youtube.com/watch?v=OETnuwwsv9U",
-    "publishedAt": "2026-10-02",
-    "airline": null,
+    "title": "How Zipair Plans To Outsmart Every American Carrier",
+    "summary": "Según la descripción del video, Plane Curious cuenta cómo Zipair, la low cost de largo radio nacida de la quiebra de Japan Airlines, vuela con solo ocho aviones a hubs de EE.UU. con tarifas cientos de dólares por debajo de los vuelos directos, en un mercado transpacífico históricamente protegido donde los intentos de low cost de largo radio venían fracasando, y por qué los grandes rivales no tienen una respuesta clara.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=b5PA-d_Jpo0",
+    "publishedAt": "2026-10-15",
+    "airline": "Zipair",
     "segment": "analisis",
-    "fuelTag": "jet",
-    "relevance": "alta",
+    "fuelTag": "ninguno",
+    "relevance": "media",
     "channel": "youtube",
-    "videoId": "OETnuwwsv9U",
-    "featuredAt": "2026-10-15"
+    "videoId": "b5PA-d_Jpo0",
+    "featuredAt": "2026-10-16"
   }
 }

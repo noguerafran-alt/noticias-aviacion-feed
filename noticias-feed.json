@@ -1,22 +1,126 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-15",
-    "summary": "Argentina oficializa autorización a JetSMART Chile para cabotaje con derechos hasta 9ª libertad (Disposición 27/2026); Plus Ultra reduce temporalmente Madrid-Buenos Aires a 2 frecuencias; JetSMART consolida Neuquén-Salta con alta ocupación. Aerolíneas movió 160.532 pasajeros en el fin de semana largo (87% de ocupación); Flybondi declaró deudas por ~$610.000 millones en su concurso preventivo. Brent oscila entre US$104-106 por riesgos en Hormuz y posibles alivios de sanciones. Jet 54 se mantiene en 434,2 cpg.",
-    "generatedAt": "2026-10-15T11:28:25-03:00",
+    "title": "Briefing de aviación 2026-10-16",
+    "summary": "GOL evalúa dejar sus rutas del Nordeste brasileño a Aeroparque desde fines de enero por el costo del combustible, y Air France bajó París-Buenos Aires de 9 a 7 frecuencias semanales. Los datos de ANAC de septiembre dejan a Aerolíneas Argentinas con 66% del cabotaje y a JetSMART con 31%, con Flybondi en cero; JetSMART suma el A320neo CC-DOA a su filial argentina. China Eastern llegó con 95% de ocupación y Andes presentó chárters de verano desde Rosario y Santa Fe. Brent ronda US$105 y va a cerrar la semana en alza. Jet 54 cerró el 14/10 en 456,2 cpg, 6,2 cpg menos que el día anterior.",
+    "generatedAt": "2026-10-16T07:08:56-03:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-10-06",
-      "precio_usd_gal": 4.342,
-      "cpg": 434.2,
-      "change_from_prev": -0.008,
+      "fecha": "2026-10-14",
+      "precio_usd_gal": 4.562,
+      "cpg": 456.2,
+      "change_from_prev": -0.062,
       "platts": null,
       "source": "FRED DJFUELUSGULF",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
+      "publishedAt": "2026-10-16",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent afloja a ~US$105,2 pero va a cerrar la semana en alza por Medio Oriente",
+      "summary": "Brent cayó 0,67% a US$105,21 y el WTI 0,79% a US$97,20 en la madrugada del viernes, aunque ambos van a cerrar la semana en alza (Brent +0,44%, WTI +5,8%). Pesan los ataques a buques en Hormuz y una caída de inventarios de crudo en EE.UU. mayor a la esperada; del otro lado, EE.UU. evalúa levantar sanciones a parte de la flota sombra para bajar fletes y la AIE liberará más de 20 millones de barriles de diésel de reservas de emergencia."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/gol-recortaria-sus-vuelos-del-nordeste-brasileno-a-buenos-aires-por-el-combustible_a6ad167d87f0e2f8050ddee2e",
+      "publishedAt": "2026-10-15",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "GOL recortaría sus vuelos del Nordeste brasileño a Aeroparque por el costo del combustible",
+      "summary": "Según el relevamiento de Melhores Destinos, GOL evalúa retirar 38 rutas, entre ellas Fortaleza, Natal, Recife y Salvador a Buenos Aires (Aeroparque), por el encarecimiento del QAV. Las bajas serían a fines de enero de 2027 (Fortaleza 28/1, Natal y Recife 30/1, Salvador 31/1). LATAM, en cambio, suma Natal y Maceió a Ezeiza y sube Recife-Ezeiza de 1 a 4 frecuencias semanales en la temporada 2026/27."
+    },
+    {
+      "channel": "web",
+      "source": "Aviones.com / Aviación News",
+      "sourceHandle": null,
+      "sourceUrl": "https://aviones.com/septiembre-aerolineas-argentinas-y-jetsmart-crecen-un-8-de-participacion-cada-una-tras-el-naufragio-de-flybondi/",
+      "publishedAt": "2026-10-15",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Septiembre (ANAC): Aerolíneas sube a 66% y JetSMART a 31% del cabotaje con Flybondi en cero",
+      "summary": "Con datos de ANAC, Aerolíneas Argentinas transportó 126.597 pasajeros domésticos más que en septiembre de 2025 y pasó de 58% a 66% de participación; JetSMART sumó 112.790 pasajeros y subió de 23% a 31%. Flybondi, sin vuelos en el mes, cayó de 16% a 0%. La ocupación mejoró a 86% en ambas (Aerolíneas +3 puntos, JetSMART +4)."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/especiales/barras-de-control-por-que-los-mercados-necesitan-una-aerolinea-berreta-pero-no-tanto-_a6ad0fc2d7f0e2f8050ba25f2",
+      "publishedAt": "2026-10-15",
+      "airline": "Flybondi",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Análisis: con Flybondi fuera, el cabotaje argentino quedó en un duopolio del 96%",
+      "summary": "Nota de opinión de Aviacionline: tras 57 días sin volar, Flybondi pidió concurso con 900 despidos y un pasivo estimado en US$120 millones. Aerolíneas Argentinas y JetSMART concentran el 96% del cabotaje, y quien más ganó cuota fue Aerolíneas. Queda abierta la pregunta sobre tarifas, más difícil de medir por la dolarización de la tasa de cabotaje anunciada este mes."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/presentaron-los-vuelos-que-uniran-rosario-y-santa-fe-con-la-isla-de-margarita-en-venezuela_a6ad0d33b7c6277e88cce46b7",
+      "publishedAt": "2026-10-15",
+      "airline": "Andes",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Andes y Multitravel presentaron chárters desde Rosario y Santa Fe a Isla Margarita, Florianópolis y Cabo Frío",
+      "summary": "Sauce Viejo (Santa Fe) y Rosario tendrán cuatro salidas cada uno este verano: dos a Porlamar (Isla Margarita), una a Florianópolis y una a Cabo Frío, entre el 2 de enero y el 20 de febrero. Los vuelos a Brasil serán directos en Boeing 737-700 y los de Margarita con escala técnica. Forman parte de una red chárter desde diez ciudades argentinas."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110874813455618534",
+      "publishedAt": "2026-10-15",
+      "airline": "JetSMART",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El A320neo CC-DOA, el avión más nuevo de JetSMART, pasa a volar para JetSMART Argentina",
+      "summary": "Desde el 16 de octubre el Airbus A320neo CC-DOA, el más nuevo de la flota del grupo, empieza a operar para JetSMART Argentina, sin plazo confirmado."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110822658363305996",
+      "publishedAt": "2026-10-15",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern llegó a Buenos Aires con 301 pasajeros y 95,25% de ocupación",
+      "summary": "El vuelo MU 745 Shanghai-Auckland-Buenos Aires arribó con 301 pasajeros (95,25% de ocupación), por encima de los 270 pasajeros y 85% registrados a comienzos de octubre."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2110738468112376227",
+      "publishedAt": "2026-10-15",
+      "airline": "Air France",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Air France operó el último vuelo de su segunda frecuencia París-Buenos Aires: pasa de 9 a 7 semanales",
+      "summary": "Air France dejó de operar la segunda frecuencia entre París y Buenos Aires y baja de 9 a 7 vuelos semanales. Según SpottersArg, podría volver más adelante porque los vuelos adicionales tuvieron buenas ocupaciones."
+    },
     {
       "channel": "web",
       "source": "Reuters",
