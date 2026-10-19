@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-16",
-    "summary": "GOL evalúa dejar sus rutas del Nordeste brasileño a Aeroparque desde fines de enero por el costo del combustible, y Air France bajó París-Buenos Aires de 9 a 7 frecuencias semanales. Los datos de ANAC de septiembre dejan a Aerolíneas Argentinas con 66% del cabotaje y a JetSMART con 31%, con Flybondi en cero; JetSMART suma el A320neo CC-DOA a su filial argentina. China Eastern llegó con 95% de ocupación y Andes presentó chárters de verano desde Rosario y Santa Fe. Brent ronda US$105 y va a cerrar la semana en alza. Jet 54 cerró el 14/10 en 456,2 cpg, 6,2 cpg menos que el día anterior.",
-    "generatedAt": "2026-10-16T07:08:56-03:00",
+    "title": "Briefing de aviación 2026-10-19",
+    "summary": "Edición de lunes con lo del viernes a la tarde, sábado y domingo. En la apertura del foro de ALTA en México, la asociación reconoció avances con el Gobierno pero insistió en que Argentina tiene las tasas de navegación más caras de la región, y Roberto Alvo dijo que LATAM no tiene decidido volver al cabotaje argentino. Copa pasó a 9 vuelos semanales a Mendoza, GOL probó Vitória-Buenos Aires y Perito Moreno ya puede operar de noche. Lufthansa retiró el A340-600 antes de lo previsto por el combustible. El Brent cerró el viernes en US$109,86, máximo desde mayo, y el lunes baja a la zona de US$108. Jet 54 no publicó cierre nuevo: el último dato sigue siendo el del 14/10, 456,2 cpg.",
+    "generatedAt": "2026-10-19T07:06:25-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,123 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/alta-ve-avances-con-el-gobierno-argentino-en-materia-aerocomercial-pero-mantiene-su-reclamo-por-las-tasas_a6ad56bfd59b6c25c2235c1e5",
+      "publishedAt": "2026-10-18",
+      "airline": null,
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ALTA ve avances con el Gobierno pero sigue reclamando por las tasas de navegación aérea en Argentina",
+      "summary": "En la apertura del ALTA AGM en Ciudad de México, Peter Cerdá dijo que el diálogo con el Gobierno derivó en tres grupos de trabajo, pero advirtió que Argentina cobra USD 2.761 cada 1.000 km a un Boeing 787 contra USD 228 en Chile, la tasa más cara de la región, tras subas de 15% este año y 18% el anterior. El reclamo apunta a la Resolución 265/2026 de la ANAC, que actualizó las tasas que cobra EANA."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-mercado-clave-pero-sin-decision-sobre-vuelos-domesticos-dice-roberto-alvo-ceo-de-latam-airlines_a6ad5606b59b6c25c22322b21",
+      "publishedAt": "2026-10-18",
+      "airline": "LATAM",
+      "segment": "aerolineas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Roberto Alvo (LATAM): Argentina es clave, pero no hay decisión de volver al cabotaje",
+      "summary": "El CEO de LATAM Airlines Group dijo que el regreso a los vuelos domésticos en Argentina es una de muchas oportunidades, sin plazos ni anuncios. LATAM ya tiene derechos de 8ª y 9ª libertad desde la Disposición 46/2025 y opera más de 30 vuelos internacionales diarios desde el país; la pregunta llegó días después de la habilitación a JetSMART Chile."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/con-el-apoyo-de-la-industria-minera-el-aeropuerto-de-perito-moreno-ya-puede-operar-durante-la-noche_a6ad52d7e59b6c25c22204faa",
+      "publishedAt": "2026-10-18",
+      "airline": null,
+      "segment": "aeropuertos",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El aeropuerto de Perito Moreno (Santa Cruz) ya puede operar de noche, con fondos de la minería",
+      "summary": "Por el NOTAM C0945/26 se levantó la restricción nocturna del aeropuerto Jalil Hamer tras obras de balizamiento, PAPI y plataforma financiadas por el fideicomiso municipal con Newmont Cerro Negro. La pista de unos 1.700 metros vive en buena parte del recambio de personal minero."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/latam-airlines-recibio-su-primer-a321neo-ensamblado-en-america_a6ad4f19759b6c25c220a4847",
+      "publishedAt": "2026-10-18",
+      "airline": "LATAM",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM Brasil recibió su primer A321neo ensamblado en Mobile, Alabama",
+      "summary": "El PS-LBT, de 224 asientos, es el A321neo número 25 de LATAM Brasil y entra en servicio en noviembre; quedan otros 14 por recibir hasta 2027. El grupo prevé sumar 28 aviones más este año y cerrar 2026 con 410 aeronaves."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/europa/el-a340-600-volo-por-ultima-vez-para-lufthansa_a6ad5482559b6c25c222a2311",
+      "publishedAt": "2026-10-19",
+      "airline": "Lufthansa",
+      "segment": "flota",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Lufthansa retiró el A340-600, con la salida adelantada por el precio del combustible",
+      "summary": "El domingo 18 Lufthansa operó el último vuelo comercial del A340-600 (Frankfurt-Washington). El retiro del cuatrimotor, que llegó a tener 24 unidades y voló a Buenos Aires, se adelantó por la suba del combustible dentro del recambio por A350 y 787."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.arabnews.com/energy/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies-3007111",
+      "publishedAt": "2026-10-19",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent baja a ~US$108 desde máximos de cinco meses por la postergación de sanciones a Rusia",
+      "summary": "Tras cerrar el viernes en US$109,86, su nivel más alto desde mayo, el Brent cae cerca de 2% el lunes a la zona de US$107-108 porque EE.UU. postergó nuevas sanciones y aranceles contra Rusia, lo que puede liberar más oferta, y la OPEP recortó su previsión de demanda. El riesgo en Hormuz sigue sosteniendo el barril arriba de US$100."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2111962187254362224",
+      "publishedAt": "2026-10-18",
+      "airline": "Copa Airlines",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Copa sumó una segunda frecuencia Panamá-Mendoza y pasa a 9 vuelos semanales",
+      "summary": "Según SpottersArg, el sábado 17 Copa Airlines inició su segunda frecuencia desde Ciudad de Panamá a Mendoza y pasa de 7 a 9 vuelos semanales."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2111482307777565015",
+      "publishedAt": "2026-10-17",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "GOL voló de prueba Vitória-Buenos Aires, primer vuelo internacional de la capital capixaba",
+      "summary": "Según SpottersArg, GOL operó el G3 9928 Vitória-Buenos Aires, vendido por una agencia de viajes; el regreso es la semana siguiente y, si acompaña la demanda, la ruta podría quedar fija."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2111234844294566327",
+      "publishedAt": "2026-10-16",
+      "airline": null,
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Tres Boeing 737 quedaron fuera de servicio definitivo por el granizo de Córdoba",
+      "summary": "Según SpottersArg, el 737-700 LV-ARR de Andes, el 737-800 9A-LAB de ETF Airways (que volaba para Flybondi) y un tercer 737-800 fueron retirados definitivamente por los daños en el fuselaje que dejó la tormenta de granizo del 1° de enero en Córdoba."
+    },
     {
       "channel": "web",
       "source": "Reuters",
