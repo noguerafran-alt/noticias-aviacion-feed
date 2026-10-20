@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-19",
-    "summary": "Edición de lunes con lo del viernes a la tarde, sábado y domingo. En la apertura del foro de ALTA en México, la asociación reconoció avances con el Gobierno pero insistió en que Argentina tiene las tasas de navegación más caras de la región, y Roberto Alvo dijo que LATAM no tiene decidido volver al cabotaje argentino. Copa pasó a 9 vuelos semanales a Mendoza, GOL probó Vitória-Buenos Aires y Perito Moreno ya puede operar de noche. Lufthansa retiró el A340-600 antes de lo previsto por el combustible. El Brent cerró el viernes en US$109,86, máximo desde mayo, y el lunes baja a la zona de US$108. Jet 54 no publicó cierre nuevo: el último dato sigue siendo el del 14/10, 456,2 cpg.",
-    "generatedAt": "2026-10-19T07:06:25-03:00",
+    "title": "Briefing de aviación 2026-10-20",
+    "summary": "El foro de ALTA en México dejó tres temas para seguir: Aeropuertos Argentina espera inaugurar la nueva terminal de arribos de Ezeiza en 2030 y conversa con TAP, Qatar Airways y Azul; Cirium advirtió que la región crece 5% en capacidad pero la programación de noviembre a enero ya retrocede; y el CEO de WestJet dijo que hay que asumir combustible caro hasta 2028. JOY Airline obtuvo la autorización para volar Jujuy-Buenos Aires y Jujuy-Córdoba, aunque le falta el certificado de explotador, y Catamarca quedó con un solo vuelo diario de Aerolíneas. En X, LATAM sumó su primer E195-E2, Copa llenó al 98% su vuelo Salta-Panamá y un A350 de Iberia se desvió a Montevideo por demoras en Ezeiza. El Brent tocó US$111,05 el martes, máximo desde mayo, por los ataques hutíes en Arabia Saudita. Jet 54 no publicó cierre nuevo: el último dato sigue siendo el del 14/10, 456,2 cpg.",
+    "generatedAt": "2026-10-20T07:12:15-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,123 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/joy-airline-obtuvo-autorizacion-para-volar-desde-jujuy-a-cordoba-y-buenos-aires_a6ad6f095e22ee8014a9ed004",
+      "publishedAt": "2026-10-20",
+      "airline": "JOY Airline",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline obtuvo la autorización para volar Jujuy-Buenos Aires y Jujuy-Córdoba",
+      "summary": "La Disposición 28/2026 de la Subsecretaría de Transporte Aéreo, publicada hoy en el Boletín Oficial, habilita a Buenos Aires International Airlines (JOY) a operar vuelos regulares de pasajeros y carga desde Jujuy. No alcanza para volar: tiene 180 días para acreditar el certificado de explotador. La aerolínea había abierto la venta con 12 frecuencias semanales a Aeroparque y 7 a Córdoba, pero postergó el debut del 30 de septiembre y todavía no tiene fecha nueva."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/rutas-tasas-obras-financiamiento-y-vertipuertos-lo-que-viene-para-aeropuertos-argentina-segun-su-ceo_a6ad6a031e22ee8014a862ec2",
+      "publishedAt": "2026-10-19",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aeropuertos Argentina espera inaugurar la nueva terminal de arribos de Ezeiza en 2030 y conversa con TAP, Qatar y Azul",
+      "summary": "Desde el foro de ALTA en México, el CEO Daniel Ketchibachian dijo que el financiamiento de la terminal de arribos internacionales de Ezeiza podría cerrarse esta semana y que la obra estaría lista en 2030, un año antes del plazo. Es parte de los USD 600 millones de fondos propios comprometidos al extender la concesión hasta 2049, dentro de un plan de USD 1.500 millones para 2027-2031. Además, contó que habla con TAP, Qatar Airways y Azul y que varias aerolíneas evalúan rutas con la nueva tasa regional."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/america-latina-crece-5-en-capacidad-pero-cirium-detecta-un-freno-en-la-programacion-de-vuelos-para-la-temporada-alta_a6ad6fa13e22ee8014aa19cad",
+      "publishedAt": "2026-10-20",
+      "airline": null,
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Cirium: América Latina crece 5% en capacidad, pero la programación para la temporada alta ya retrocede",
+      "summary": "En el ALTA AGM, el CEO de Cirium, Jeremy Bowen, mostró que la región crece 5% en asientos-kilómetro contra 1,3% global, pero la capacidad programada para noviembre-enero ya baja y más de 300 aviones dejaron de volar. Antes de la guerra con Irán la región crecía 7-8%; Bowen estima que el tráfico mundial de 2026 crecerá entre 0% y 1,5%, por debajo del 2,1% que proyecta IATA."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/canada/alexis-von-hoensbroech-ceo-de-westjet-tenemos-que-asumir-que-el-combustible-seguira-alto-hasta-2028-_a6ad67e10e22ee8014a79db3d",
+      "publishedAt": "2026-10-19",
+      "airline": "WestJet",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "CEO de WestJet: \"Tenemos que asumir que el combustible seguirá alto hasta 2028\"",
+      "summary": "Alexis von Hoensbroech habló con Aviacionline en el foro de ALTA sobre la expansión hacia América Latina, donde WestJet opera 110 a 120 vuelos diarios en temporada alta, la salida de Cuba por las sanciones de EE.UU. y el 737 MAX 10, que espera recibir en 2027. Su planificación da por hecho combustible caro hasta 2028."
+    },
+    {
+      "channel": "web",
+      "source": "Conexión Catamarca",
+      "sourceHandle": null,
+      "sourceUrl": "https://conexioncatamarca.com/2026/10/19/catamarca-un-solo-vuelo-diario-provincia-negocia-segunda-frecuencia/",
+      "publishedAt": "2026-10-19",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Catamarca quedó con un solo vuelo diario de Aerolíneas y negocia recuperar la segunda frecuencia",
+      "summary": "La ministra de Turismo provincial, Daiana Roldán, dijo que Aerolíneas Argentinas quitó en octubre el segundo vuelo diario a Buenos Aires sin preaviso, con el argumento de usar un avión más grande (de 90 a 127 plazas). La provincia busca un convenio para recuperarlo en el verano y conversa con JetSMART para sumar una opción low cost, con posible apoyo económico."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
+      "publishedAt": "2026-10-20",
+      "airline": null,
+      "segment": "brent",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent toca US$111 el martes, máximo desde mayo, por ataques hutíes a Arabia Saudita",
+      "summary": "Tras cerrar el lunes en US$109,55, el Brent subió a US$111,05 por barril el martes, su nivel más alto desde mayo, y operaba cerca de US$110,80. Los hutíes dijeron haber atacado instalaciones de Aramco, el campo de Shaybah y los aeropuertos de Riad y Abha, y Kpler contó al menos 18 buques atacados en dos semanas en el Golfo. La exención de sanciones a Rusia anunciada por Trump sigue sin decisión final."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112251542552314255",
+      "publishedAt": "2026-10-19",
+      "airline": "LATAM",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM voló su primer Embraer E195-E2 vía Asunción y suma otros 11 antes de fin de año",
+      "summary": "Según SpottersArg, el PS-LTA operó São José dos Campos-Asunción-Belo Horizonte para cerrar la entrega. Aviacionline agrega que es el primero de 24 en firme y que LATAM lo estrenaría en vuelos comerciales a fines de noviembre."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112342473473450390",
+      "publishedAt": "2026-10-19",
+      "airline": "Iberia",
+      "segment": "operaciones",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Un A350 de Iberia se desvió a Montevideo por demoras en los aterrizajes en Ezeiza",
+      "summary": "Según SpottersArg, el IB 5107 con 346 pasajeros se desvió a Montevideo el lunes por la noche por demoras en las llegadas a Ezeiza y después siguió a Buenos Aires. Un desvío así implica combustible y horas extra para la aerolínea."
+    },
+    {
+      "channel": "x",
+      "source": "@SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112283731398385776",
+      "publishedAt": "2026-10-19",
+      "airline": "Copa Airlines",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Copa salió de Salta a Panamá con 98% de ocupación",
+      "summary": "Según SpottersArg, 162 pasajeros partieron el lunes de Salta a Ciudad de Panamá; las tres frecuencias semanales de Copa en Salta parecen quedar cortas."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",

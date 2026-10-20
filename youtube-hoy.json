@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-19",
+  "featuredAt": "2026-10-20",
   "item": {
-    "title": "Condor Is TRAPPED With A Brand-New Fleet And No One To Feed It - Germany's Loneliest Airline",
-    "summary": "Según la descripción del video, Plane Curious cuenta cómo Condor sobrevivió dos veces a la caída de su controlante, renovó la flota con A330neo y logró ingresos y ganancia operativa récord, pero igual tuvo que borrar rutas mientras sumaba aviones: el problema no son los aviones ni la demanda sino quién controla los pasajeros de conexión en Frankfurt, y qué pasa cuando ese flujo se corta legalmente. El video repasa la estrategia cara que Condor arma para que ningún rival pueda volver a dejarla sin pasajeros.",
-    "source": "Plane Curious",
-    "sourceHandle": "planecurious",
-    "sourceUrl": "https://www.youtube.com/watch?v=ekJklSP5f7s",
-    "publishedAt": "2026-10-18",
-    "airline": "Condor",
+    "title": "Why the A340-600 Just Wouldn't Die",
+    "summary": "Según la descripción del video, Coby Explanes viaja a bordo de lo que probablemente sea el último vuelo de un A340-600 de una gran aerolínea, el Lufthansa de Washington a Frankfurt, y repasa las mañas del cuatrimotor, su nacimiento complicado y las razones por las que siguió volando tanto tiempo en un mundo dominado por los bimotores. Lo acompaña una charla con el comandante del último vuelo publicada en su sitio Project Jetstream.",
+    "source": "Coby Explanes",
+    "sourceHandle": "cobyexplanes",
+    "sourceUrl": "https://www.youtube.com/watch?v=UdU5UjJp5YQ",
+    "publishedAt": "2026-10-19",
+    "airline": "Lufthansa",
     "segment": "analisis",
-    "fuelTag": "ninguno",
+    "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "ekJklSP5f7s",
-    "featuredAt": "2026-10-19"
+    "videoId": "UdU5UjJp5YQ",
+    "featuredAt": "2026-10-20"
   }
 }
