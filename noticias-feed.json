@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-20",
-    "summary": "El foro de ALTA en México dejó tres temas para seguir: Aeropuertos Argentina espera inaugurar la nueva terminal de arribos de Ezeiza en 2030 y conversa con TAP, Qatar Airways y Azul; Cirium advirtió que la región crece 5% en capacidad pero la programación de noviembre a enero ya retrocede; y el CEO de WestJet dijo que hay que asumir combustible caro hasta 2028. JOY Airline obtuvo la autorización para volar Jujuy-Buenos Aires y Jujuy-Córdoba, aunque le falta el certificado de explotador, y Catamarca quedó con un solo vuelo diario de Aerolíneas. En X, LATAM sumó su primer E195-E2, Copa llenó al 98% su vuelo Salta-Panamá y un A350 de Iberia se desvió a Montevideo por demoras en Ezeiza. El Brent tocó US$111,05 el martes, máximo desde mayo, por los ataques hutíes en Arabia Saudita. Jet 54 no publicó cierre nuevo: el último dato sigue siendo el del 14/10, 456,2 cpg.",
-    "generatedAt": "2026-10-20T07:12:15-03:00",
+    "title": "Briefing de aviación 2026-10-21",
+    "summary": "Desde el foro de ALTA, el presidente de Aerolíneas, Fabián Lombardo, dijo que el combustible le sumó a la compañía unos USD 150 millones no previstos este año, 50% más de lo presupuestado, aunque espera que el mercado argentino crezca cerca de 11%. Arajet sumará frecuencias en Ezeiza para el verano pese al costo del combustible, JOY volvió a vender pasajes y debutaría el 4 de noviembre desde Jujuy, y la FAA certificó el Boeing 737-10, del que Aerolíneas espera ocho unidades desde 2028. Aeropuertos Argentina evalúa un tren exclusivo hasta Ezeiza, todavía sin proyecto. En X, Copa llenó al 99% su vuelo Tucumán-Panamá y JOY preparaba su primer vuelo de prueba en Ezeiza. El Brent tocó US$111,99 el martes, máximo en cinco meses, y el miércoles volvía a US$110. Jet 54 sigue sin cierre nuevo: el último dato es del 14/10, 456,2 cpg.",
+    "generatedAt": "2026-10-21T07:07:27-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,123 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/entrevista-a-fabian-lombardo-ceo-de-aerolineas-argentinas-crecimiento-a-pesar-de-los-condicionantes-que-enfrenta-la-industria_a6ad7c3bbb7bd4e5edcd045fa",
+      "publishedAt": "2026-10-20",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Lombardo (Aerolíneas): el combustible sumó USD 150 millones no previstos este año, 50% más de lo presupuestado",
+      "summary": "En el foro de ALTA en México, el presidente de Aerolíneas Argentinas, Fabián Lombardo, dijo que la suba del petróleo es hoy la principal amenaza para la industria y cifró en unos USD 150 millones el costo extra de combustible de 2026. Aun así, estimó que el mercado argentino crecerá cerca de 11% contra el año pasado, impulsado por el internacional. El doméstico cayó entre abril y julio, sobre todo por la reducción de frecuencias, y su recuperación tras el colapso de Flybondi es una de las claves de la empresa."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/joy-airline-vuelve-a-vender-pasajes-para-volar-desde-jujuy-a-buenos-aires-y-cordoba_a6ad8165bb7bd4e5edcebc612",
+      "publishedAt": "2026-10-20",
+      "airline": "JOY Airline",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline volvió a vender pasajes y fija el debut Jujuy-Aeroparque y Jujuy-Córdoba para el 4 de noviembre",
+      "summary": "El mismo día de la autorización oficial, JOY reabrió la venta con tres tarifas (GO, CLASSIC y FULL): Jujuy-Buenos Aires desde 257.596 pesos por tramo y Jujuy-Córdoba desde 158.290 pesos. La programación encadena seis vuelos diarios en una sola rotación con base en Jujuy, cubrible con un único CRJ-200LR de 50 asientos; para la etapa inicial prevé dos aviones."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/arajet-agregara-mas-frecuencias-en-argentina-pero-no-planea-sumar-destinos-proximamente_a6ad7b5efb7bd4e5edccb7c2b",
+      "publishedAt": "2026-10-20",
+      "airline": "Arajet",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Arajet sumará frecuencias en Ezeiza para el verano pese al combustible, pero no agrega destinos en Argentina",
+      "summary": "Argentina es el principal mercado latinoamericano de Arajet: en lo que va del año movió 191.000 pasajeros desde el país a República Dominicana. Hoy opera 30 vuelos semanales a Punta Cana desde Buenos Aires, Córdoba, Rosario y Mendoza, más Santo Domingo-Buenos Aires, todo con 737 MAX 8. La aerolínea reconoce que el largo radio es el que más sufre la suba del combustible, pero mantendrá la oferta y agregará frecuencias en Ezeiza."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/fabricantes-mro/estados-unidos/el-boeing-737-10-obtiene-la-certificacion-de-la-faa-tras-seis-anos-de-demoras_a6ad7d03cb7bd4e5edcd48a21",
+      "publishedAt": "2026-10-20",
+      "airline": "Boeing",
+      "segment": "flota",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "La FAA certificó el Boeing 737-10 tras seis años de demoras; Aerolíneas espera ocho unidades desde 2028",
+      "summary": "El 737 MAX más grande (hasta 230 pasajeros, 3.100 millas náuticas de alcance) quedó habilitado para empezar entregas en los próximos meses. Boeing promete 20% menos consumo y emisiones. Según SpottersArg, Aerolíneas Argentinas prevé incorporar ocho: cinco en 2028 y tres en 2029."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/a-los-aeropuertos-argentinos-en-colectivo-tren-o-hasta-en-barco-la-intermodalidad-que-plantea-la-principal-concesionaria_a6ad77f6cb7bd4e5edcb66c95",
+      "publishedAt": "2026-10-20",
+      "airline": null,
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aeropuertos Argentina evalúa un tren exclusivo de la estación Ezeiza del Roca al aeropuerto, aún sin proyecto",
+      "summary": "El CEO Daniel Ketchibachian dijo que un servicio ferroviario sin paradas de 1,5 km entre la estación Ezeiza y el aeropuerto es la alternativa más viable para mejorar el acceso, aunque no hay proyecto ni cronograma y el caso de negocio no es claro. Le da más urgencia a la obra vial en el trébol del predio de la AFA, porque Aeroparque se va a limitar y Ezeiza concentrará el crecimiento del AMBA."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://live.euronext.com/en/financial-news/brent-oil-prices-near-5-month-high-middle-east-supply-fears-us-inventory-drawdowns",
+      "publishedAt": "2026-10-21",
+      "airline": null,
+      "segment": "combustible",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "Brent vuelve a US$110 por los ataques a buques en el Golfo y la baja de inventarios en EE.UU.",
+      "summary": "El martes el Brent tocó US$111,99, máximo en cinco meses, y cerró en US$108,79. El miércoles subía US$1,32 a US$110,11 a las 07:47 GMT, con el WTI en US$99. Kpler contó al menos 18 ataques a buques en dos semanas e Irán ya ataca más allá de Ormuz, en el Golfo de Omán. Según datos del API, los inventarios de crudo de EE.UU. bajaron 4,9 millones de barriles, con baja también en naftas y destilados."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112600346669547546",
+      "publishedAt": "2026-10-20",
+      "airline": "JOY Airline",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El CRJ-200 LV-JOI de JOY se preparaba en Ezeiza para su primer vuelo de prueba",
+      "summary": "Según SpottersArg, el martes movieron el CRJ-200 LV-JOI de JOY Airline de la vieja pista 05-23 a la posición 70 de Ezeiza, en la previa de su primer vuelo de prueba."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112683403329818656",
+      "publishedAt": "2026-10-20",
+      "airline": "Copa Airlines",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Copa salió de Tucumán a Panamá con 99% de ocupación",
+      "summary": "Según SpottersArg, 158 pasajeros despegaron el martes de Tucumán a Ciudad de Panamá. Se suma al 98% del vuelo de Salta del lunes: las frecuencias de Copa en el NOA parecen quedar cortas."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112659188648452477",
+      "publishedAt": "2026-10-20",
+      "airline": "Titan Airways",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Un A321neo de Titan Airways despegó de Bariloche a Río de Janeiro",
+      "summary": "Según SpottersArg, el A321neo G-XATW de la británica Titan Airways partió el martes de Bariloche hacia Río de Janeiro con 52 pasajeros y 12 tripulantes."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",

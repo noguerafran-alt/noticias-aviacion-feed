@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-20",
+  "featuredAt": "2026-10-21",
   "item": {
-    "title": "Why the A340-600 Just Wouldn't Die",
-    "summary": "Según la descripción del video, Coby Explanes viaja a bordo de lo que probablemente sea el último vuelo de un A340-600 de una gran aerolínea, el Lufthansa de Washington a Frankfurt, y repasa las mañas del cuatrimotor, su nacimiento complicado y las razones por las que siguió volando tanto tiempo en un mundo dominado por los bimotores. Lo acompaña una charla con el comandante del último vuelo publicada en su sitio Project Jetstream.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=UdU5UjJp5YQ",
+    "title": "Aviation's Next BIG Problem Is Already Here...",
+    "summary": "Según la descripción del video, Mentour Now plantea que el 787 y el A350 cambiaron la aviación con la fibra de carbono, pero nadie tiene del todo claro qué hacer con esos materiales cuando los aviones dejen de volar, y explica por qué eso puede convertirse muy pronto en un problema grande para la industria.",
+    "source": "Mentour Now",
+    "sourceHandle": "MentourNow",
+    "sourceUrl": "https://www.youtube.com/watch?v=dS7u17jlgO4",
     "publishedAt": "2026-10-19",
-    "airline": "Lufthansa",
+    "airline": null,
     "segment": "analisis",
-    "fuelTag": "jet",
+    "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "UdU5UjJp5YQ",
-    "featuredAt": "2026-10-20"
+    "videoId": "dS7u17jlgO4",
+    "featuredAt": "2026-10-21"
   }
 }
