@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-21",
+  "featuredAt": "2026-10-22",
   "item": {
-    "title": "Aviation's Next BIG Problem Is Already Here...",
-    "summary": "Según la descripción del video, Mentour Now plantea que el 787 y el A350 cambiaron la aviación con la fibra de carbono, pero nadie tiene del todo claro qué hacer con esos materiales cuando los aviones dejen de volar, y explica por qué eso puede convertirse muy pronto en un problema grande para la industria.",
-    "source": "Mentour Now",
-    "sourceHandle": "MentourNow",
-    "sourceUrl": "https://www.youtube.com/watch?v=dS7u17jlgO4",
-    "publishedAt": "2026-10-19",
-    "airline": null,
+    "title": "Finally: Boeing 737 MAX 10 Attains FAA Type Certification",
+    "summary": "Según la descripción del video, Simple Flying cuenta que Boeing obtuvo la certificación de tipo de la FAA para el demorado 737 MAX 10, el miembro más grande de la familia, mediante un certificado de tipo enmendado que anunció el 20 de octubre el secretario de Transporte Sean Duffy en la nueva línea del 737 MAX en Everett, un paso clave para llevarlo al servicio comercial.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=HU9aX9yRNCg",
+    "publishedAt": "2026-10-21",
+    "airline": "Boeing",
     "segment": "analisis",
-    "fuelTag": "ninguno",
+    "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "dS7u17jlgO4",
-    "featuredAt": "2026-10-21"
+    "videoId": "HU9aX9yRNCg",
+    "featuredAt": "2026-10-22"
   }
 }

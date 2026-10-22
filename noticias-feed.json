@@ -1,22 +1,139 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-21",
-    "summary": "Desde el foro de ALTA, el presidente de Aerolíneas, Fabián Lombardo, dijo que el combustible le sumó a la compañía unos USD 150 millones no previstos este año, 50% más de lo presupuestado, aunque espera que el mercado argentino crezca cerca de 11%. Arajet sumará frecuencias en Ezeiza para el verano pese al costo del combustible, JOY volvió a vender pasajes y debutaría el 4 de noviembre desde Jujuy, y la FAA certificó el Boeing 737-10, del que Aerolíneas espera ocho unidades desde 2028. Aeropuertos Argentina evalúa un tren exclusivo hasta Ezeiza, todavía sin proyecto. En X, Copa llenó al 99% su vuelo Tucumán-Panamá y JOY preparaba su primer vuelo de prueba en Ezeiza. El Brent tocó US$111,99 el martes, máximo en cinco meses, y el miércoles volvía a US$110. Jet 54 sigue sin cierre nuevo: el último dato es del 14/10, 456,2 cpg.",
-    "generatedAt": "2026-10-21T07:07:27-03:00",
+    "title": "Briefing de aviación 2026-10-22",
+    "summary": "Aerohandling, la empresa de servicios en tierra de Aerolíneas Argentinas, ya reemplazó a Intercargo en la rampa de Resistencia, Trelew, Comodoro Rivadavia y Río Gallegos, y podría sumar más aeropuertos en noviembre. Aerolíneas lanzó 20% de descuento para volar entre abril y junio de 2027, Aeronavegantes y la CGT respaldaron a los trabajadores de Flybondi, y American completó su inversión de USD 100 millones en Azul, donde queda con 7,9%. En X, JOY hizo sus primeros vuelos de prueba entre Buenos Aires, Córdoba y El Palomar, Iberia estrenó Starlink en Madrid-Buenos Aires y Ezeiza opera vía Río para algunos vuelos del 25/10 al 11/11. El Brent subió a US$112, máximo desde mayo, por los ataques hutíes en Arabia Saudita. Jet 54 tiene cierre nuevo: 463,2 cpg al 20/10, +6,5 cpg contra el 19/10.",
+    "generatedAt": "2026-10-22T07:09:02-03:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-10-14",
-      "precio_usd_gal": 4.562,
-      "cpg": 456.2,
-      "change_from_prev": -0.062,
+      "fecha": "2026-10-20",
+      "precio_usd_gal": 4.632,
+      "cpg": 463.2,
+      "change_from_prev": 0.065,
       "platts": null,
-      "source": "FRED DJFUELUSGULF",
-      "updatedAt": "2026-10-16"
+      "source": "FRED DJFUELUSGULF / EIA",
+      "updatedAt": "2026-10-22"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Mendoza Post",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.mendozapost.com/sociedad/aerolineas-toma-el-relevo-de-intercargo-en-cuatro-terminales-del-pais/",
+      "publishedAt": "2026-10-21",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerohandling, de Aerolíneas, reemplaza a Intercargo en la rampa de Resistencia, Trelew, Comodoro y Río Gallegos",
+      "summary": "Tras quedar desierta la licitación para privatizar Intercargo, el Gobierno retira a la estatal de ocho aeropuertos del interior. Aerohandling, la firma de servicios en tierra vinculada a Aerolíneas Argentinas, ya asumió la rampa en Resistencia, Trelew, Comodoro Rivadavia y Río Gallegos, y en noviembre podría sumar Posadas, San Juan y Santiago del Estero. Según fuentes citadas por Infobae, Intercargo también dejó Mar del Plata y se negocia que Aerohandling tome esas tareas."
+    },
+    {
+      "channel": "web",
+      "source": "MDZ",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.mdzol.com/sociedad/2026/10/21/aerolineas-argentinas-lanzo-vuelos-nacionales-e-internacionales-con-un-20-de-descuento-1989753.html",
+      "publishedAt": "2026-10-21",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas lanza 20% de descuento en cabotaje, regionales e internacionales para viajar entre abril y junio de 2027",
+      "summary": "Del miércoles 21 al domingo 25 de octubre, Aerolíneas Argentinas vende pasajes con 20% de descuento en rutas regionales e internacionales (excepto Madrid y Roma) y en cabotaje, con hasta 12 cuotas sin interés en cabotaje con bancos seleccionados, para volar del 1/4/27 al 30/6/27."
+    },
+    {
+      "channel": "web",
+      "source": "Diario El Observador",
+      "sourceHandle": null,
+      "sourceUrl": "https://diarioelobservador.com.ar/aeronavegantes-y-la-cgt-se-unen-en-defensa-de-los-trabajadores-de-flybondi/",
+      "publishedAt": "2026-10-21",
+      "airline": "Flybondi",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aeronavegantes y la CGT respaldan a los trabajadores de Flybondi",
+      "summary": "La Asociación Argentina de Aeronavegantes se reunió en la CGT con trabajadores de Flybondi para abordar sus reclamos. El secretario general de la CGT, Cristian Jerónimo, y Juan Pablo Brey, de Aeronavegantes, prometieron priorizar la protección del empleo ante cualquier decisión empresarial, en medio del concurso preventivo de la low cost."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/american-airlines-completa-su-inversion-de-usd-100-millones-en-azul-y-suma-un-ejecutivo-al-consejo_a6ad9721710c4309b141c25cf",
+      "publishedAt": "2026-10-21",
+      "airline": "Azul",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "American Airlines completa su inversión de USD 100 millones en Azul y queda con 7,9% del capital",
+      "summary": "American ejerció el 19 de octubre todos sus bonos de suscripción sobre Azul, la inversión que había comprometido en febrero cuando la brasileña preparaba su salida del Chapter 11. Recibió 31,8 millones de acciones, equivalentes al 7,9% del capital, y Jeff Ogar, ejecutivo de alianzas de American, pasó a ser miembro titular del Consejo de Azul."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/centroamerica-y-el-caribe/panama/minuto-a-minuto-desde-el-aire-asi-vamos-de-panama-a-rosario-con-starlink-a-bordo-de-copa-airlines_a6ad92c23da877e356cef8249",
+      "publishedAt": "2026-10-21",
+      "airline": "Copa Airlines",
+      "segment": "producto",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Copa ya vuela con Starlink a Argentina: crónica en vivo desde un 737-800 Panamá-Rosario",
+      "summary": "Aviacionline hizo su primer reporte de vuelo en vivo a bordo de un Boeing 737-800 de Copa con internet Starlink entre Panamá y Rosario. Copa fue la primera aerolínea de Latinoamérica en elegir Starlink: lo anunció en abril, debutó a principios de julio y avanza de a poco con la instalación en la flota."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters",
+      "sourceHandle": null,
+      "sourceUrl": "https://live.euronext.com/en/financial-news/oil-jumps-escalating-middle-east-conflict",
+      "publishedAt": "2026-10-22",
+      "airline": null,
+      "segment": "combustible",
+      "fuelTag": "brent",
+      "relevance": "alta",
+      "title": "El Brent sube a US$112, máximo desde mayo, por ataques hutíes en Arabia Saudita",
+      "summary": "El jueves a las 08:18 GMT el Brent subía US$3,35 a US$112,17 (llegó a US$112,55) y el WTI US$99,83. Los hutíes atacaron el miércoles objetivos en Arabia Saudita, con un muerto en el aeropuerto civil de Dammam, y EE.UU. ordenó a parte de sus diplomáticos dejar el país. La EIA informó una baja de 3,06 millones de barriles en los inventarios de crudo de EE.UU., aunque los destilados subieron 1,68 millones."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112897779471184295",
+      "publishedAt": "2026-10-21",
+      "airline": "JOY Airline",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline hizo su primer vuelo: prueba Buenos Aires-Córdoba-El Palomar con el CRJ-200 LV-JOI",
+      "summary": "Según SpottersArg, el miércoles el CRJ-200 LV-JOI de JOY aterrizó en Córdoba desde Buenos Aires en el primer vuelo de prueba de la empresa, luego voló a El Palomar (llegó 13:35) y por la tarde volvió a despegar de Córdoba hacia El Palomar en otra prueba."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2113010450522661303",
+      "publishedAt": "2026-10-21",
+      "airline": "Iberia",
+      "segment": "producto",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Iberia operó su primer Madrid-Buenos Aires con Starlink a bordo, con 100% de ocupación",
+      "summary": "Según SpottersArg, el A350 EC-OCR de Iberia llegó el miércoles a Ezeiza con 352 pasajeros en el primer vuelo de la ruta con internet Starlink."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2112960704886247557",
+      "publishedAt": "2026-10-21",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El AR 1141 Roma-Buenos Aires salió programado vía Río; Ezeiza opera normal hasta el 24/10",
+      "summary": "Según SpottersArg, el AR 1141 de Aerolíneas (A330 LV-KHU) figuraba desviado a Río de Janeiro apenas despegó de Roma; un usuario lo atribuyó a trabajos en la pista de Ezeiza. La cuenta aclaró que Ezeiza opera con la pista normal hasta el 24 de octubre y que del 25 de octubre al 11 de noviembre esos vuelos sí operarán vía Río."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
