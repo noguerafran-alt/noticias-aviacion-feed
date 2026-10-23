@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-22",
-    "summary": "Aerohandling, la empresa de servicios en tierra de Aerolíneas Argentinas, ya reemplazó a Intercargo en la rampa de Resistencia, Trelew, Comodoro Rivadavia y Río Gallegos, y podría sumar más aeropuertos en noviembre. Aerolíneas lanzó 20% de descuento para volar entre abril y junio de 2027, Aeronavegantes y la CGT respaldaron a los trabajadores de Flybondi, y American completó su inversión de USD 100 millones en Azul, donde queda con 7,9%. En X, JOY hizo sus primeros vuelos de prueba entre Buenos Aires, Córdoba y El Palomar, Iberia estrenó Starlink en Madrid-Buenos Aires y Ezeiza opera vía Río para algunos vuelos del 25/10 al 11/11. El Brent subió a US$112, máximo desde mayo, por los ataques hutíes en Arabia Saudita. Jet 54 tiene cierre nuevo: 463,2 cpg al 20/10, +6,5 cpg contra el 19/10.",
-    "generatedAt": "2026-10-22T07:09:02-03:00",
+    "title": "Briefing de aviación 2026-10-23",
+    "summary": "Aerolíneas Argentinas volvió a perder plata: US$63 millones en el primer semestre, con un sobrecosto de combustible de más de US$100 millones, según Hacienda y la propia empresa. Desde el domingo 25 Ezeiza opera con una sola pista de 1.850 metros hasta el 11/11: Aerolíneas escala en Río, varias europeas en Montevideo, LATAM suspende Miami, y en X se vio el último vuelo de China Eastern hasta el 12/11 y la pausa de Lufthansa Frankfurt-Buenos Aires. Aeropuertos Argentina colocó USD 400 millones a 2036 para obras, otro 737 de Flybondi dejó el país, y en la región Azul Conecta abre Campo de Marte en São Paulo y Avianca hace permanente Cali-Miami. El Brent cerró en US$113,17, máximo desde mayo. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
+    "generatedAt": "2026-10-23T07:11:38-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,127 @@
       "change_from_prev": 0.065,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Infobae",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.infobae.com/economia/2026/10/22/la-suba-del-combustible-por-la-guerra-hizo-que-aerolineas-argentinas-vuelva-a-registrar-perdidas-sigue-sin-usar-fondos-del-estado/",
+      "publishedAt": "2026-10-22",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Aerolíneas Argentinas perdió US$63 millones en el primer semestre por la suba del combustible",
+      "summary": "Según el informe de ejecución presupuestaria de empresas públicas de la Secretaría de Hacienda, Aerolíneas cerró el primer semestre de 2026 con un resultado económico negativo de $95.580 millones (unos US$63 millones), tras dos años de ganancias. Los costos crecieron 38,3% interanual contra 20,7% de los ingresos. Fuentes de la empresa dicen que el combustible subió cerca de 90% desde el inicio de la crisis en Medio Oriente, con un sobrecosto de más de US$100 millones en el semestre; sin ese efecto, el EBIT habría sido positivo en unos US$25 millones. La pérdida se cubrió con caja propia, sin aportes del Tesoro."
+    },
+    {
+      "channel": "web",
+      "source": "Infobae",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.infobae.com/economia/2026/10/22/restringen-la-operacion-del-ezeiza-por-18-dias-que-pasara-con-los-vuelos-durante-las-obras-y-que-deben-tener-en-cuenta-los-pasajeros/",
+      "publishedAt": "2026-10-22",
+      "airline": "Varias",
+      "segment": "operaciones",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Ezeiza opera con una sola pista de 1.850 metros del 25/10 al 11/11: quién vuela, quién hace escala y quién cancela",
+      "summary": "Por obras de rehabilitación, Ezeiza funcionará con una sola pista reducida a 1.850 metros (contra 3.300 habituales) y los widebody no pueden despegar con carga completa de combustible. Aerolíneas hará escala en Río para Madrid y Roma; Air Europa, Iberia y Level paran en Montevideo; Copa reabastece en Rosario o Córdoba; Arajet suma escalas en Resistencia y Asunción; LATAM suspende Buenos Aires-Miami y Plus Ultra baja a dos frecuencias semanales. Cabotaje y regionales siguen sin cambios."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/aeropuertos-argentina-coloca-usd-400-millones-en-deuda-con-vencimiento-en-2036-para-financiar-su-plan-de-obras_a6ada809fb05b71125bc97372",
+      "publishedAt": "2026-10-22",
+      "airline": "Aeropuertos Argentina",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aeropuertos Argentina coloca USD 400 millones en deuda a 2036 para financiar su plan de obras",
+      "summary": "El 22 de octubre Aeropuertos Argentina colocó obligaciones negociables Clase 12 por USD 400 millones, con vencimiento en 2036, tasa del 8% y cinco años de gracia para el capital. Las órdenes llegaron a USD 1.000 millones, pero la compañía se quedó con el monto base. Con la emisión refinancia deuda y suma liquidez para las obras comprometidas en la renegociación de la concesión."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/sao-paulo-tendra-un-cuarto-aeropuerto-con-vuelos-comerciales_a6adac78ab05b71125bdce031",
+      "publishedAt": "2026-10-23",
+      "airline": "Azul",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "São Paulo suma un cuarto aeropuerto comercial: Azul Conecta volará desde Campo de Marte",
+      "summary": "Campo de Marte, en la zona norte de São Paulo y hasta ahora dedicado a aviación ejecutiva y helicópteros, tendrá vuelos comerciales desde el 27 de diciembre. Azul Conecta abrió la venta para una operación estacional a Angra dos Reis y Jacarepaguá (Río de Janeiro) durante Año Nuevo y Carnaval. Es el aeropuerto más cercano al centro, a unos 4 km, con una pista de 1.600 metros."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/avianca-convierte-la-ruta-cali-miami-en-permanente_a6adadcc9b05b71125be2462c",
+      "publishedAt": "2026-10-23",
+      "airline": "Avianca",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Avianca hace permanente la ruta Cali-Miami",
+      "summary": "La ruta deja de ser estacional y vuelve el 17 de diciembre: vuelo diario hasta el 31 de enero de 2027 y luego cuatro frecuencias semanales (lunes, miércoles, viernes y domingo), con cabina Business Class Americas."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters (vía UOL)",
+      "sourceHandle": null,
+      "sourceUrl": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/22/petroleo-fecha-em-maxima-de-5-meses-com-temor-sobre-oferta-no-oriente-medio.htm",
+      "publishedAt": "2026-10-22",
+      "airline": null,
+      "segment": "combustible",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "El Brent cerró en US$113,17, máximo desde el 4 de mayo, por nuevos ataques hutíes en Arabia Saudita",
+      "summary": "Los futuros del Brent subieron US$4,35 (4%) el jueves 22 y cerraron en US$113,17 por barril; el WTI subió 2,4% a US$99,47. Es el cierre más alto del Brent desde el 4 de mayo, en terreno técnico de sobrecompra por tercera vez en la semana, con rumores de un ataque conjunto de EE.UU. e Israel a Irán."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2113434369482543577",
+      "publishedAt": "2026-10-22",
+      "airline": "China Eastern",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern hizo su último vuelo a Buenos Aires por tres semanas: vuelve el 12/11",
+      "summary": "El MU745 Shanghai-Auckland-Buenos Aires llegó con 306 pasajeros (97% de ocupación) en el Boeing 777 B-7882. Por las obras en Ezeiza, el siguiente servicio será recién el 12 de noviembre."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2113272240146198925",
+      "publishedAt": "2026-10-22",
+      "airline": "Lufthansa",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Lufthansa suspende Frankfurt-Buenos Aires del 24/10 al 10/11 y pasa el 747-8 a Río",
+      "summary": "Por las obras en Ezeiza, Lufthansa no operará Frankfurt-Buenos Aires entre el 24 de octubre y el 10 de noviembre, y en esos días volará Frankfurt-Río de Janeiro con Boeing 747-8 en lugar del 787-9."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2113391491171115099",
+      "publishedAt": "2026-10-22",
+      "airline": "Flybondi",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Se va otro avión de Flybondi: el 737 LV-KAY sale de Ezeiza como N713AC",
+      "summary": "El Boeing 737 LV-KAY de Flybondi, rematriculado N713AC, despegaba de Ezeiza el 22/10 a las 22:30 rumbo a Ciudad de Panamá y luego a Estados Unidos, mientras la low cost sigue en concurso preventivo y sin volar."
+    },
     {
       "channel": "web",
       "source": "Mendoza Post",

@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-22",
+  "featuredAt": "2026-10-23",
   "item": {
-    "title": "Finally: Boeing 737 MAX 10 Attains FAA Type Certification",
-    "summary": "Según la descripción del video, Simple Flying cuenta que Boeing obtuvo la certificación de tipo de la FAA para el demorado 737 MAX 10, el miembro más grande de la familia, mediante un certificado de tipo enmendado que anunció el 20 de octubre el secretario de Transporte Sean Duffy en la nueva línea del 737 MAX en Everett, un paso clave para llevarlo al servicio comercial.",
+    "title": "Why A Hard Landing Is A Nightmare For The Airbus A350",
+    "summary": "Según la descripción del video, Simple Flying explica por qué reparar un Airbus A350 es tan difícil, por qué las aerolíneas temen el daño serio en la estructura de material compuesto y por qué un solo aterrizaje duro puede dejar a uno de los aviones más avanzados del mundo fuera de servicio durante meses.",
     "source": "Simple Flying",
     "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=HU9aX9yRNCg",
-    "publishedAt": "2026-10-21",
-    "airline": "Boeing",
+    "sourceUrl": "https://www.youtube.com/watch?v=Y9MK3LgxYV0",
+    "publishedAt": "2026-10-23",
+    "airline": "Airbus",
     "segment": "analisis",
-    "fuelTag": "jet",
+    "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "HU9aX9yRNCg",
-    "featuredAt": "2026-10-22"
+    "videoId": "Y9MK3LgxYV0",
+    "featuredAt": "2026-10-23"
   }
 }
