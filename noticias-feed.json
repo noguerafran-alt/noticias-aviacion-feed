@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-23",
-    "summary": "Aerolíneas Argentinas volvió a perder plata: US$63 millones en el primer semestre, con un sobrecosto de combustible de más de US$100 millones, según Hacienda y la propia empresa. Desde el domingo 25 Ezeiza opera con una sola pista de 1.850 metros hasta el 11/11: Aerolíneas escala en Río, varias europeas en Montevideo, LATAM suspende Miami, y en X se vio el último vuelo de China Eastern hasta el 12/11 y la pausa de Lufthansa Frankfurt-Buenos Aires. Aeropuertos Argentina colocó USD 400 millones a 2036 para obras, otro 737 de Flybondi dejó el país, y en la región Azul Conecta abre Campo de Marte en São Paulo y Avianca hace permanente Cali-Miami. El Brent cerró en US$113,17, máximo desde mayo. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
-    "generatedAt": "2026-10-23T07:11:38-03:00",
+    "title": "Briefing de aviación 2026-10-26",
+    "summary": "Fin de semana marcado por el arranque de la pista corta en Ezeiza: desde el domingo 25 opera con 1.850 metros y, según SpottersArg, Aerolíneas sostuvo Miami sin escalas con A330 y habría hecho Madrid sin la escala en Río, mientras Copa para en Córdoba y Azul Cargo triplica Campinas-Buenos Aires. En regulación, Avianca Costa Rica consiguió el permiso para volar San José-Bogotá-Ezeiza con quinta libertad, y LATAM Brasil anticipa una nueva ruta a Europa para 2027. Un relevamiento de Aviacionline ubica a Buenos Aires tercera en Sudamérica con 88 vuelos intercontinentales semanales para diciembre. El Brent cerró el viernes en US$116,72, máximo desde abril, con suba semanal del 6%. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
+    "generatedAt": "2026-10-26T07:04:27-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,127 @@
       "change_from_prev": 0.065,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-26"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/avianca-costa-rica-obtiene-el-permiso-argentino-para-volar-san-jose-bogota-buenos-aires-con-derechos-de-quinta-libertad_a6aded43e9bb51fe0032f3d2b",
+      "publishedAt": "2026-10-26",
+      "airline": "Avianca",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Avianca Costa Rica obtiene el permiso argentino para volar San José-Bogotá-Buenos Aires con quinta libertad",
+      "summary": "Por la Disposición 29/2026 de la Subsecretaría de Transporte Aéreo, firmada el viernes 23, Avianca Costa Rica podrá operar pasajeros y carga en San José-Bogotá-Ezeiza con derechos de tercera, cuarta y quinta libertad, lo que le permite vender el tramo Bogotá-Ezeiza. Pidió una frecuencia diaria, aunque la norma no fija tope; del lado colombiano el trámite sigue en curso. En paralelo, Avianca deja Medellín-Ezeiza desde el 1/12 y JetSMART arranca esa ruta el 12/11."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/latam-airlines-prepara-el-lanzamiento-de-una-nueva-ruta-hacia-europa_a6ade121e9bb51fe003f3f7c3",
+      "publishedAt": "2026-10-25",
+      "airline": "LATAM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM Brasil prepara una tercera ruta nueva a Europa para 2027",
+      "summary": "El CEO Jerome Cadier adelantó en un evento de LATAM Pass el jueves 22 que la compañía «prepara un bello anuncio en Europa», sin precisar destino ni fecha. En 2026 ya estrenó Ámsterdam y Bruselas desde Guarulhos con 787-9; el medio asociado Aeroin ubica a Dublín como principal candidato, aunque el límite de pasajeros del aeropuerto irlandés es un obstáculo."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/la-conectividad-intercontinental-de-la-ciudad-principal-de-cada-pais-sudamericano_a6ade5c8a9bb51fe0030cf427",
+      "publishedAt": "2026-10-25",
+      "airline": "Varias",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Conectividad intercontinental sudamericana: Buenos Aires tercera con 88 vuelos semanales en diciembre",
+      "summary": "Según la programación de Cirium Diio Mi al 23 de octubre, las principales ciudades de 13 países sudamericanos tienen 658 vuelos non-stop semanales a Europa, África, Medio Oriente, Asia y Oceanía para diciembre, con más de 208.000 asientos. São Paulo concentra 267 (41%), seguida por Bogotá con 98 y Buenos Aires con 88; Madrid es el gran destino con 246 vuelos."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-general/la-aviacion-argentina-empieza-a-salir-del-grupo-de-whatsapp_a6adcc35730605f2dd311cfcc",
+      "publishedAt": "2026-10-24",
+      "airline": null,
+      "segment": "aviacion-general",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Altuvia busca ordenar la aviación general argentina fuera de los grupos de WhatsApp",
+      "summary": "La plataforma Altuvia, lanzada el 24 de junio de 2026, reúne en un solo lugar reservas, controles previos al vuelo, servicios, cobros y compraventa de aeronaves para clubes, escuelas y propietarios, que hoy coordinan con grupos de mensajería, planillas y llamadas, incluso para saber dónde cargar combustible."
+    },
+    {
+      "channel": "web",
+      "source": "Reuters (vía Investing.com)",
+      "sourceHandle": null,
+      "sourceUrl": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+      "publishedAt": "2026-10-23",
+      "airline": null,
+      "segment": "combustible",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "El Brent cerró la semana en US$116,72, máximo desde el 29 de abril",
+      "summary": "El viernes 23 los futuros del Brent subieron US$3,55 (3,14%) y cerraron en US$116,72 por barril; el WTI subió 3,8% a US$103,27. Por los ataques hutíes en Arabia Saudita y un derrame de petróleo frente a Emiratos, el Brent ganó 6% en la semana. EE.UU. autorizó un intercambio de emergencia de hasta 400.000 barriles de la reserva estratégica por un problema en la refinería de Phillips 66 en Lake Charles."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114440030915633213",
+      "publishedAt": "2026-10-25",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "Primer día de pista corta: el AR1134 a Madrid habría salido sin la escala técnica en Río",
+      "summary": "Según SpottersArg, Aerolíneas habría operado el AR1134 Buenos Aires-Madrid del domingo 25 sin la escala para cargar combustible en Río de Janeiro, y el avión estuvo lejos de usar los 1.850 metros disponibles de la pista 11-28 de Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114516178572103837",
+      "publishedAt": "2026-10-25",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Aerolíneas sigue volando Buenos Aires-Miami sin escalas con A330-200 pese a la pista reducida",
+      "summary": "SpottersArg confirmó que el vuelo a Miami sale sin escalas con Airbus A330-200. Además contó que Copa operará tres de sus seis vuelos diarios con escala técnica en Córdoba por la pista corta, y que varios widebody están frenando en menos de 1.300 metros al aterrizar."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114407606936883485",
+      "publishedAt": "2026-10-25",
+      "airline": "Azul Cargo",
+      "segment": "carga",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Azul Cargo pasa de 1 a 3 vuelos semanales Campinas-Buenos Aires durante las obras de Ezeiza",
+      "summary": "Entre el 25 de octubre y el 11 de noviembre, Azul Cargo sumará frecuencias entre Campinas y Buenos Aires con Airbus A321(P2F), en medio de las suspensiones de varios operadores de largo radio."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "@SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114391553045053821",
+      "publishedAt": "2026-10-25",
+      "airline": "Varias",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Hasta el 11/11, Aeroparque es el aeropuerto porteño con la pista más larga",
+      "summary": "Con Ezeiza limitada a 1.850 metros, el ranking queda Aeroparque (2.350 m), Morón (2.303 m), El Palomar (2.110 m), Ezeiza (1.850 m) y San Fernando (1.690 m)."
+    },
     {
       "channel": "web",
       "source": "Infobae",
