@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-26",
-    "summary": "Fin de semana marcado por el arranque de la pista corta en Ezeiza: desde el domingo 25 opera con 1.850 metros y, según SpottersArg, Aerolíneas sostuvo Miami sin escalas con A330 y habría hecho Madrid sin la escala en Río, mientras Copa para en Córdoba y Azul Cargo triplica Campinas-Buenos Aires. En regulación, Avianca Costa Rica consiguió el permiso para volar San José-Bogotá-Ezeiza con quinta libertad, y LATAM Brasil anticipa una nueva ruta a Europa para 2027. Un relevamiento de Aviacionline ubica a Buenos Aires tercera en Sudamérica con 88 vuelos intercontinentales semanales para diciembre. El Brent cerró el viernes en US$116,72, máximo desde abril, con suba semanal del 6%. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
-    "generatedAt": "2026-10-26T07:04:27-03:00",
+    "title": "Briefing de aviación 2026-10-27",
+    "summary": "Ezeiza ya opera con la pista acortada: SpottersArg registró el estreno de la cabecera 28 con un 737 de Aerolíneas, FedEx mantiene su carguero Miami-Buenos Aires-Santiago y Air Europa habría volado a Madrid sin la escala en Montevideo. En rutas, Catamarca firmó con Aerolíneas para recuperar la segunda frecuencia diaria, LATAM sumó un cuarto vuelo semanal Lima-Salta y Avianca vuelve a dos diarios Bogotá-Caracas. El Grupo Abra sigue integrando: SKY y GOL firmaron código compartido. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
+    "generatedAt": "2026-10-27T07:08:09-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,140 @@
       "change_from_prev": 0.065,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-10-27"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/catamarca-firma-un-convenio-con-aerolineas-argentinas-para-recuperar-la-segunda-frecuencia-a-buenos-aires_a6adff54dcd5e9d23bae8eb76",
+      "publishedAt": "2026-10-26",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Catamarca firma un convenio con Aerolíneas para recuperar la segunda frecuencia a Buenos Aires",
+      "summary": "La provincia firmó un convenio con Aerolíneas Argentinas para volver a tener dos vuelos diarios a Buenos Aires tras el recorte; medios locales hablan de 10 vuelos semanales recuperados que garantizan la temporada de verano."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/sky-y-gol-sellan-un-acuerdo-de-codigo-compartido-tras-la-llegada-de-sky-al-grupo-abra_a6adfd2a7cd5e9d23bae59b03",
+      "publishedAt": "2026-10-26",
+      "airline": "SKY / GOL",
+      "segment": "alianzas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "SKY y GOL sellan un código compartido tras la llegada de SKY al Grupo Abra",
+      "summary": "Permite vender en una sola reserva las rutas de SKY a Brasil conectadas con vuelos domésticos de GOL, y conexiones inversas al interior de Perú y Chile. Llega menos de dos meses después de que SKY completara su integración al holding que también controla a Avianca."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/venezuela/avianca-vuelve-a-operar-dos-vuelos-diarios-entre-bogota-y-caracas_a6adfd88fcd5e9d23bae65000",
+      "publishedAt": "2026-10-26",
+      "airline": "Avianca",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Avianca vuelve a operar dos vuelos diarios entre Bogotá y Caracas",
+      "summary": "El vuelo adicional, con A320 de 180 asientos, suma más de 2.500 plazas semanales. Con Valencia y Maracaibo, Avianca llega a 28 frecuencias semanales hacia Venezuela."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/latam-airlines-reemplaza-el-efectivo-para-viaticos-de-tripulantes-en-cinco-paises-con-la-plataforma-argentina-takenos_a6adf54f6c0a5eb653b46db00",
+      "publishedAt": "2026-10-26",
+      "airline": "LATAM",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM reemplaza el efectivo de viáticos de tripulantes con la argentina Takenos",
+      "summary": "La fintech de origen argentino paga viáticos a tripulantes y técnicos de mantenimiento en Paraguay, Chile, Colombia, Perú y Ecuador, con infraestructura de stablecoins de Rain, y reemplaza el efectivo y los intermediarios locales."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/avianca-y-etihad-activan-su-acuerdo-transcontinental-en-la-ruta-barcelona-abu-dhabi_a6adf70bdc0a5eb653b522896",
+      "publishedAt": "2026-10-26",
+      "airline": "Avianca / Etihad",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Avianca y Etihad activan su acuerdo ACMI en la ruta Barcelona-Abu Dhabi",
+      "summary": "Contrato ACMI de un año: un Boeing 787 de Avianca opera la ruta Barcelona-Abu Dhabi para Etihad Airways."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/estados-unidos/acreedores-de-jetblue-contratan-asesores-de-reestructuracion_a6adfe087cd5e9d23bae73548",
+      "publishedAt": "2026-10-26",
+      "airline": "JetBlue",
+      "segment": "finanzas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Acreedores de JetBlue contratan asesores de reestructuración",
+      "summary": "Sus bonos respaldados por TrueBlue cayeron a 42 centavos por dólar y la acción tocó un mínimo histórico; la aerolínea no anunció una reestructuración."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114862149587681773",
+      "publishedAt": "2026-10-26",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "aeropuertos",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Se estrenó la cabecera 28 de Ezeiza",
+      "summary": "El Boeing 737 LV-GVA de Aerolíneas fue el primer y hasta ahora único avión en usar la nueva cabecera 28 de la pista acortada a 1.850 m (11-28)."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114847347679338546",
+      "publishedAt": "2026-10-26",
+      "airline": "LATAM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM pasa a 4 vuelos semanales Lima-Salta",
+      "summary": "Desde el lunes LATAM opera 4 frecuencias semanales (antes 3). El primer vuelo nuevo llevó 117 pasajeros Lima-Salta (81%) y 108 en la vuelta (75%)."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114823123065581575",
+      "publishedAt": "2026-10-26",
+      "airline": "FedEx",
+      "segment": "carga",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "FedEx sigue con Miami-Buenos Aires-Santiago pese a la pista corta",
+      "summary": "Será la única carguera estadounidense con vuelos en Argentina hasta el 11 de noviembre, mientras dure la limitación de Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2114789656260927862",
+      "publishedAt": "2026-10-26",
+      "airline": "Air Europa",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Air Europa habría volado Buenos Aires-Madrid sin la escala en Montevideo",
+      "summary": "Según SpottersArg, el vuelo del lunes salió sin la parada técnica prevista en Montevideo (quizás en otra ciudad), posiblemente por baja ocupación."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",

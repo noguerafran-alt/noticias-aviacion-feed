@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-26",
+  "featuredAt": "2026-10-27",
   "item": {
-    "title": "Taking Over Europe? Lufthansa Picked To Buy TAP Air Portugal",
-    "summary": "Según la descripción del video, Simple Flying cuenta que Lufthansa le ganó a Air France-KLM la compra del 44,9% de TAP Air Portugal, según The Independent. Eran los dos únicos oferentes; es un paso clave en la privatización de la aerolínea portuguesa y todavía necesita la aprobación de la Unión Europea.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=qo9i-HJegiE",
-    "publishedAt": "2026-10-24",
-    "airline": "Lufthansa / TAP",
+    "title": "Why Lufthansa has REFUSED to retire the A340",
+    "summary": "Video de Coby Explanes sobre por qué Lufthansa todavía no retiró el cuatrimotor A340; según la descripción, el autor fue invitado por Lufthansa a vivir el vuelo final del avión.",
+    "source": "Coby Explanes",
+    "sourceHandle": "cobyexplanes",
+    "sourceUrl": "https://www.youtube.com/watch?v=Ec5qu2hfHZk",
+    "publishedAt": "2026-10-26",
+    "airline": "Lufthansa",
     "segment": "analisis",
-    "fuelTag": "ninguno",
+    "fuelTag": "jet",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "qo9i-HJegiE",
-    "featuredAt": "2026-10-26"
+    "videoId": "Ec5qu2hfHZk",
+    "featuredAt": "2026-10-27"
   }
 }
