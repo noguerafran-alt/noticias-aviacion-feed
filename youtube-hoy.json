@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-27",
+  "featuredAt": "2026-10-28",
   "item": {
-    "title": "Why Lufthansa has REFUSED to retire the A340",
-    "summary": "Video de Coby Explanes sobre por qué Lufthansa todavía no retiró el cuatrimotor A340; según la descripción, el autor fue invitado por Lufthansa a vivir el vuelo final del avión.",
-    "source": "Coby Explanes",
-    "sourceHandle": "cobyexplanes",
-    "sourceUrl": "https://www.youtube.com/watch?v=Ec5qu2hfHZk",
-    "publishedAt": "2026-10-26",
-    "airline": "Lufthansa",
+    "title": "Why Singapore's Tiny Budget Airline Is About To Get Dangerous",
+    "summary": "Video de Plane Curious sobre Scoot, la low cost de Singapore Airlines: según la descripción, opera 63 aviones de tres familias distintas (desde 787 hasta jets regionales de 112 asientos) desde un solo aeropuerto, rompiendo la regla de flota única, y el video explica por qué esa decisión tendría sentido dentro de la red del grupo.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=wlrJyIAjqXA",
+    "publishedAt": "2026-10-27",
+    "airline": "Scoot",
     "segment": "analisis",
-    "fuelTag": "jet",
+    "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "Ec5qu2hfHZk",
-    "featuredAt": "2026-10-27"
+    "videoId": "wlrJyIAjqXA",
+    "featuredAt": "2026-10-28"
   }
 }

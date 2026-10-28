@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-27",
-    "summary": "Ezeiza ya opera con la pista acortada: SpottersArg registró el estreno de la cabecera 28 con un 737 de Aerolíneas, FedEx mantiene su carguero Miami-Buenos Aires-Santiago y Air Europa habría volado a Madrid sin la escala en Montevideo. En rutas, Catamarca firmó con Aerolíneas para recuperar la segunda frecuencia diaria, LATAM sumó un cuarto vuelo semanal Lima-Salta y Avianca vuelve a dos diarios Bogotá-Caracas. El Grupo Abra sigue integrando: SKY y GOL firmaron código compartido. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
-    "generatedAt": "2026-10-27T07:08:09-03:00",
+    "title": "Briefing de aviación 2026-10-28",
+    "summary": "Ezeiza sigue con la pista corta y SpottersArg publicó qué rutas internacionales se mantienen hasta el 11/11; Air Europa voló por segundo día Buenos Aires-Madrid sin escalas. JOY Airline hizo su primer chárter llevando a Platense a Salta, y LATAM anunció cuatro vuelos Buenos Aires-Barranquilla para la final de la Sudamericana. En la región, LATAM explora Medellín-Atlanta con Delta, TAP vuelve a Caracas y Arajet suma frecuencias a Canadá. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
+    "generatedAt": "2026-10-28T07:07:25-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,114 @@
       "change_from_prev": 0.065,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-10-28"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/latam-airlines-volara-entre-buenos-aires-y-barranquilla-para-la-final-de-la-copa-sudamericana_a6ae1150f3b8bc1d5d4ee4a63",
+      "publishedAt": "2026-10-27",
+      "airline": "LATAM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "LATAM volará Buenos Aires-Barranquilla para la final de la Copa Sudamericana",
+      "summary": "LATAM Colombia programó cuatro vuelos directos no regulares desde Buenos Aires a Barranquilla el 21 de noviembre para la final entre Boca Juniors y Atlético Mineiro; la vuelta sale al día siguiente."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/latam-apunta-al-hub-de-delta-y-busca-conectar-medellin-con-atlanta_a6ae0e7691dad4c418591c296",
+      "publishedAt": "2026-10-27",
+      "airline": "LATAM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM busca conectar Medellín con Atlanta, el hub de Delta",
+      "summary": "LATAM y el Gobierno colombiano iniciaron conversaciones preliminares para una ruta sin escalas Rionegro (MDE)-Atlanta (ATL), principal centro de conexiones de su socio Delta."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/venezuela/tap-air-portugal-retoma-sus-vuelos-entre-lisboa-y-caracas_a6ae17c6d6fef2a846652f7d8",
+      "publishedAt": "2026-10-28",
+      "airline": "TAP Air Portugal",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "TAP retoma sus vuelos Lisboa-Caracas",
+      "summary": "Tras cuatro meses de interrupción en Maiquetía, TAP vuelve a operar directo Lisboa-Caracas dos veces por semana (martes y domingos), con tarifas promocionales desde 699 euros ida y vuelta."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/centroamerica-y-el-caribe/caribe/republica-dominicana/arajet-registra-un-alza-del-50-en-el-numero-de-pasajeros-en-canada-y-alista-un-aumento-de-vuelos_a6ae17c246fef2a846652f145",
+      "publishedAt": "2026-10-28",
+      "airline": "Arajet",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Arajet crece 50% en pasajeros en Canadá y suma vuelos",
+      "summary": "La low cost dominicana registró un alza del 50% en pasajeros en Canadá y planea pasar de cuatro a seis frecuencias semanales a Toronto y Montreal, apuntando a conectar Norteamérica con Sudamérica vía Santo Domingo."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/europa/novedades-en-la-red-de-larga-distancia-de-air-france-para-la-temporada-de-invierno-de-2026-27_a6ae1094a3b8bc1d5d4ecf4a1",
+      "publishedAt": "2026-10-27",
+      "airline": "Air France",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Air France presenta su red de larga distancia para el invierno 2026-27",
+      "summary": "La aerolínea operará hasta 725 vuelos diarios a unos 170 destinos en 78 países, con 6% más de capacidad en Norteamérica y la cabina La Première en hasta 25 Boeing 777-300ER."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115207738997539138",
+      "publishedAt": "2026-10-27",
+      "airline": "JOY Airline",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline hizo su primer vuelo chárter",
+      "summary": "El CRJ-200 LV-JOI llevó al plantel de Platense de Buenos Aires a Salta (vía Córdoba); fue el primer vuelo chárter de la empresa, antes de su debut regular."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115180285134315589",
+      "publishedAt": "2026-10-27",
+      "airline": "Varias",
+      "segment": "aeropuertos",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Las rutas internacionales que mantiene Ezeiza durante las obras",
+      "summary": "SpottersArg publicó el listado de rutas internacionales que operan en Ezeiza del 25 de octubre al 11 de noviembre, mientras dure la obra en el cruce de pistas; el resto vuelve después."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115095835579146444",
+      "publishedAt": "2026-10-27",
+      "airline": "Air Europa",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Air Europa vuela por segundo día Buenos Aires-Madrid sin escalas",
+      "summary": "Por segundo día consecutivo Air Europa operó Buenos Aires-Madrid directo, sin la escala técnica prevista por la pista corta de Ezeiza; SpottersArg estima que puede ir con poca ocupación."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
