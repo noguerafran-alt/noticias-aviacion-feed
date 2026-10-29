@@ -1,22 +1,126 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-28",
-    "summary": "Ezeiza sigue con la pista corta y SpottersArg publicó qué rutas internacionales se mantienen hasta el 11/11; Air Europa voló por segundo día Buenos Aires-Madrid sin escalas. JOY Airline hizo su primer chárter llevando a Platense a Salta, y LATAM anunció cuatro vuelos Buenos Aires-Barranquilla para la final de la Sudamericana. En la región, LATAM explora Medellín-Atlanta con Delta, TAP vuelve a Caracas y Arajet suma frecuencias a Canadá. Jet 54 sin cierre nuevo: sigue 463,2 cpg al 20/10.",
-    "generatedAt": "2026-10-28T07:07:25-03:00",
+    "title": "Briefing de aviación 2026-10-29",
+    "summary": "Jet 54 con cierre nuevo: 444,4 cpg al 27/10, 14,1 centavos menos que el día anterior y 18,8 por debajo del 20/10. Transporte autorizó a Avianca a volar San José-Bogotá-Buenos Aires con hasta 7 frecuencias semanales y JetSMART mantendría Buenos Aires-Maceió todo 2027. Rosario licita su hangar 5 para taxi aéreo, Aerolíneas recuperó el E190 LV-CPI tras su C-check y LATAM recibió su segundo E195-E2. En la región, Tocumen avanza con la ampliación de su lado aire.",
+    "generatedAt": "2026-10-29T07:04:17-03:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-10-20",
-      "precio_usd_gal": 4.632,
-      "cpg": 463.2,
-      "change_from_prev": 0.065,
+      "fecha": "2026-10-27",
+      "precio_usd_gal": 4.444,
+      "cpg": 444.4,
+      "change_from_prev": -0.141,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-10-28"
+      "updatedAt": "2026-10-29"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/el-aeropuerto-de-rosario-licita-la-concesion-de-su-hangar-n-5-priorizando-el-taxi-aereo_a6ae30d22bd8ebbfbfdd189a3",
+      "publishedAt": "2026-10-29",
+      "airline": "—",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "El aeropuerto de Rosario licita su hangar 5 con prioridad para taxi aéreo",
+      "summary": "La concesión es por 36 meses, con un canon mínimo de $3.357.135 mensuales más un variable de al menos 3,5%; las ofertas se abren el 18 de noviembre y es excluyente tener un operador certificado por la ANAC."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/latam-airlines-recibio-su-segundo-embraer-e195-e2-tras-un-vuelo-de-entrega-con-escala-en-asuncion_a6ae30ff5bd8ebbfbfdd1b2d9",
+      "publishedAt": "2026-10-29",
+      "airline": "LATAM",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM recibió su segundo Embraer E195-E2 con escala en Asunción",
+      "summary": "El PS-LTB repitió el recorrido del primero: salió de São José dos Campos, pasó por Asunción y volvió a Brasil para completar los trámites en Confins. El tercero, PS-LTC, ya está listo para entrega."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-de-centroamerica-y-el-caribe/siete-empresas-interesadas-en-la-ampliacion-del-lado-aire-de-panama-tocumen-valuada-en-usd-98-millones_a6ae2ffbbbd8ebbfbfdd12891",
+      "publishedAt": "2026-10-29",
+      "airline": "—",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Siete empresas interesadas en ampliar el lado aire de Tocumen por USD 98 millones",
+      "summary": "El proyecto en Panamá suma tres salidas rápidas, tres bahías de espera, la extensión de la calle de rodaje Mike y una plataforma remota para ocho aviones; las ofertas se reciben el 30 de noviembre y las obras arrancarían en el segundo trimestre de 2027."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/-por-que-avianca-cancelo-el-tramo-bogota-toronto-a-un-grupo-de-pasajeros-_a6ae2a0aebd8ebbfbfdcedc63",
+      "publishedAt": "2026-10-29",
+      "airline": "Avianca",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Por qué Avianca canceló el tramo Bogotá-Toronto a un grupo de pasajeros",
+      "summary": "Tras un caso viral en redes, Avianca explicó las exigencias legales en Colombia para conservar los tramos posteriores de un pasaje cuando no se vuela uno anterior."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/centroamerica-y-el-caribe/bermudair-llego-a-centroamerica-con-su-nueva-ruta-entre-fort-lauderdale-y-belice_a6ae303b5bd8ebbfbfdd1469b",
+      "publishedAt": "2026-10-29",
+      "airline": "BermudAir",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "BermudAir llega a Centroamérica con Fort Lauderdale-Belice",
+      "summary": "Operará tres frecuencias semanales con Embraer E190 de 96 asientos y en diciembre sumará cuatro rutas más desde Estados Unidos a Belice y un vuelo a Ciudad de Guatemala."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115568374927237565",
+      "publishedAt": "2026-10-28",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JetSMART mantendría Buenos Aires-Maceió todo 2027",
+      "summary": "Según SpottersArg, JetSMART Argentina sostendría durante todo 2027 la ruta Buenos Aires-Maceió, que inaugura el 3 de diciembre; el norte brasileño viene funcionando bien para la aerolínea."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115549701428916519",
+      "publishedAt": "2026-10-28",
+      "airline": "Avianca",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Transporte autorizó a Avianca a volar San José-Bogotá-Buenos Aires",
+      "summary": "La Secretaría de Transporte autorizó a Avianca a operar San José (Costa Rica)-Bogotá-Buenos Aires y viceversa con hasta 7 frecuencias semanales en Airbus A320."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115513783695151493",
+      "publishedAt": "2026-10-28",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Volvió el E190 LV-CPI de Aerolíneas tras su C-check en Costa Rica",
+      "summary": "Después de un mes y medio en COOPESA (San José) por un C-check, el Embraer 190 LV-CPI regresó a Buenos Aires y volvió al servicio con el AR 1788 Aeroparque-Iguazú."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",

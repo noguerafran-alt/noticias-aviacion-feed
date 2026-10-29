@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-28",
+  "featuredAt": "2026-10-29",
   "item": {
-    "title": "Why Singapore's Tiny Budget Airline Is About To Get Dangerous",
-    "summary": "Video de Plane Curious sobre Scoot, la low cost de Singapore Airlines: según la descripción, opera 63 aviones de tres familias distintas (desde 787 hasta jets regionales de 112 asientos) desde un solo aeropuerto, rompiendo la regla de flota única, y el video explica por qué esa decisión tendría sentido dentro de la red del grupo.",
-    "source": "Plane Curious",
-    "sourceHandle": "planecurious",
-    "sourceUrl": "https://www.youtube.com/watch?v=wlrJyIAjqXA",
-    "publishedAt": "2026-10-27",
-    "airline": "Scoot",
+    "title": "Why Southwest Airlines Is Moving Away From Point-To-Point Flying",
+    "summary": "Video de Simple Flying sobre Southwest, la mayor low cost del mundo: según la descripción, después de eliminar la valija despachada gratis ahora busca dejar su red punto a punto y concentrarse en conexiones a través de sus hubs en Estados Unidos.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=LyearQ56IgQ",
+    "publishedAt": "2026-10-28",
+    "airline": "Southwest",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "wlrJyIAjqXA",
-    "featuredAt": "2026-10-28"
+    "videoId": "LyearQ56IgQ",
+    "featuredAt": "2026-10-29"
   }
 }
