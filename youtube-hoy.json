@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-29",
+  "featuredAt": "2026-10-30",
   "item": {
-    "title": "Why Southwest Airlines Is Moving Away From Point-To-Point Flying",
-    "summary": "Video de Simple Flying sobre Southwest, la mayor low cost del mundo: según la descripción, después de eliminar la valija despachada gratis ahora busca dejar su red punto a punto y concentrarse en conexiones a través de sus hubs en Estados Unidos.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=LyearQ56IgQ",
-    "publishedAt": "2026-10-28",
-    "airline": "Southwest",
+    "title": "London To New York In 90 Minutes - But There's A Catch",
+    "summary": "Video de Plane Curious sobre Hermeus, una empresa californiana que vuela prototipos a un ritmo inusual y dice querer llevar 20 pasajeros entre Nueva York y Londres en 90 minutos. Según la descripción, ese avión no aparece en su propia hoja de ruta y la compañía ya no se presenta como fabricante de aviones de pasajeros.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=NY5PUulX3ik",
+    "publishedAt": "2026-10-29",
+    "airline": "—",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "LyearQ56IgQ",
-    "featuredAt": "2026-10-29"
+    "videoId": "NY5PUulX3ik",
+    "featuredAt": "2026-10-30"
   }
 }

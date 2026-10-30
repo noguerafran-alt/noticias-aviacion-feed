@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-10-29",
-    "summary": "Jet 54 con cierre nuevo: 444,4 cpg al 27/10, 14,1 centavos menos que el día anterior y 18,8 por debajo del 20/10. Transporte autorizó a Avianca a volar San José-Bogotá-Buenos Aires con hasta 7 frecuencias semanales y JetSMART mantendría Buenos Aires-Maceió todo 2027. Rosario licita su hangar 5 para taxi aéreo, Aerolíneas recuperó el E190 LV-CPI tras su C-check y LATAM recibió su segundo E195-E2. En la región, Tocumen avanza con la ampliación de su lado aire.",
-    "generatedAt": "2026-10-29T07:04:17-03:00",
+    "title": "Briefing de aviación 2026-10-30",
+    "summary": "Jet 54 sin cierre nuevo: el último dato sigue siendo 444,4 cpg al 27/10. El CEO de SKY cuestionó que la escasez física explique el alza del jet fuel, que está por encima de USD 190 por barril, y Perú ofrece descuentos en tasas y combustible para atraer aerolíneas de larga distancia. En Argentina, Aerolíneas sube a 9 los vuelos semanales a Catamarca (10 en diciembre), falta un mes para el debut de El Al Tel Aviv-Buenos Aires y el AR 1133 desde Madrid se desviaría a Montevideo. Además, IATA reclama a los gobiernos por los costos de pasajeros inadmisibles.",
+    "generatedAt": "2026-10-30T07:04:31-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,123 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/el-presidente-ejecutivo-de-sky-airline-plantea-que-la-escasez-fisica-no-explica-el-alza-del-combustible_a6ae3be68052cad7d01876643",
+      "publishedAt": "2026-10-29",
+      "airline": "SKY Airline",
+      "segment": "combustible",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "El CEO de SKY dice que la escasez física no explica el alza del combustible",
+      "summary": "Comparó datos de la AIE y de Kpler con la evolución del Brent desde el inicio de la guerra con Irán y se preguntó cuánto del precio es prima de riesgo, especulación y margen de refinación, con el jet fuel por encima de USD 190 por barril."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/las-aerolineas-pagan-costos-de-pasajeros-inadmisibles-que-corresponden-a-los-gobiernos-advierte-iata_a6ae46754052cad7d018e151b",
+      "publishedAt": "2026-10-30",
+      "airline": "—",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "IATA: las aerolíneas pagan costos de pasajeros inadmisibles que corresponden a los gobiernos",
+      "summary": "Una encuesta a 49 aerolíneas y 22 autoridades fronterizas indica que las compañías asumen en más del 90% de los casos gastos que las normas de la OACI asignan a los Estados; el costo promedio por pasajero rechazado llega a USD 14.000 en Europa."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/peru/lap-y-el-gobierno-peruano-presentaron-incentivos-en-routes-world-para-atraer-aerolineas-de-europa-y-medio-oriente_a6ae3a898052cad7d0185964e",
+      "publishedAt": "2026-10-29",
+      "airline": "—",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Perú ofrece descuentos en tasas y combustible para atraer aerolíneas de Europa y Medio Oriente",
+      "summary": "LAP (Jorge Chávez), la DGAC, el MTC y PromPerú presentaron en Routes World, en Frankfurt, un paquete de descuentos en tarifas y combustible con permisos más rápidos; hubo interés, pero ninguna aerolínea asumió compromisos."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/satena-mro-recibe-la-certificacion-de-la-faa-y-se-expande-al-mercado-internacional_a6ae3c297052cad7d0187cba7",
+      "publishedAt": "2026-10-29",
+      "airline": "SATENA",
+      "segment": "mantenimiento",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "SATENA MRO obtuvo la certificación de la FAA",
+      "summary": "Con el aval de la FAA, el taller colombiano ofrecerá servicios a aviones ATR, Embraer y Twin Otter bajo estándares de la autoridad estadounidense y sale al mercado internacional."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-de-mexico/el-aicm-activo-el-primer-sistema-antidrones-en-un-aeropuerto-mexicano_a6ae469b6052cad7d018e327f",
+      "publishedAt": "2026-10-30",
+      "airline": "—",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "El aeropuerto de Ciudad de México activó el primer sistema antidrones del país",
+      "summary": "En modo pasivo desde mayo, el sistema detectó 11.941 drones en la periferia del AICM y tomó el control de siete que estaban por ingresar al espacio restringido."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115949360940753278",
+      "publishedAt": "2026-10-29",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas sube a 9 los vuelos semanales a Catamarca y llegará a 10 en diciembre",
+      "summary": "Según SpottersArg, desde el 3 de noviembre Aerolíneas Argentinas pasa de 7 a 9 frecuencias semanales a Catamarca y en diciembre llega a 10, que mantendrá en el verano, tras el acuerdo con la provincia."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115804925665878027",
+      "publishedAt": "2026-10-29",
+      "airline": "El Al",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Falta un mes para el debut de El Al entre Tel Aviv y Buenos Aires",
+      "summary": "La aerolínea israelí operará dos frecuencias semanales con Boeing 787 Dreamliner."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115927356854415510",
+      "publishedAt": "2026-10-29",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El AR 1133 Madrid-Buenos Aires se desviaría a Montevideo",
+      "summary": "Según SpottersArg, el A330 LV-GIF despegó de Madrid y todo indicaba que el vuelo se desviaría a Montevideo; el posteo no detalla el motivo."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2115908367931830756",
+      "publishedAt": "2026-10-29",
+      "airline": "American Jet",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Baja ocupación en los vuelos provinciales de American Jet en Neuquén",
+      "summary": "SpottersArg publicó las ocupaciones del día: Neuquén-Chapelco 1 pasajero (5%), Chapelco-Neuquén 4 (21%), Neuquén-Chos Malal 8 (42%) y Chos Malal-Neuquén 12 (63%)."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
