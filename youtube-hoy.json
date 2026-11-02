@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-10-30",
+  "featuredAt": "2026-11-02",
   "item": {
-    "title": "London To New York In 90 Minutes - But There's A Catch",
-    "summary": "Video de Plane Curious sobre Hermeus, una empresa californiana que vuela prototipos a un ritmo inusual y dice querer llevar 20 pasajeros entre Nueva York y Londres en 90 minutos. Según la descripción, ese avión no aparece en su propia hoja de ruta y la compañía ya no se presenta como fabricante de aviones de pasajeros.",
+    "title": "Boeing Must Tear Open 30 Finished 777X Jets - Here's Why",
+    "summary": "Video de Plane Curious: según la descripción, la demora en certificar el 777X dejó más de treinta aviones terminados estacionados en Paine Field durante años mientras el diseño seguía cambiando; Boeing ahora tiene que volver a abrirlos y algunas aerolíneas ya evalúan cuáles no van a aceptar.",
     "source": "Plane Curious",
     "sourceHandle": "planecurious",
-    "sourceUrl": "https://www.youtube.com/watch?v=NY5PUulX3ik",
-    "publishedAt": "2026-10-29",
-    "airline": "—",
+    "sourceUrl": "https://www.youtube.com/watch?v=qHPb425nvsM",
+    "publishedAt": "2026-11-01",
+    "airline": "Boeing",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "NY5PUulX3ik",
-    "featuredAt": "2026-10-30"
+    "videoId": "qHPb425nvsM",
+    "featuredAt": "2026-11-02"
   }
 }
