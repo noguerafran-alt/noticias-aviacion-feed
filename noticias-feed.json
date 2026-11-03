@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-02",
-    "summary": "Jet 54 sin cierre nuevo: el último dato sigue siendo 444,4 cpg al 27/10. El fin de semana estuvo marcado por la restricción de pista en Ezeiza: American suspendió todos sus vuelos, Plus Ultra baja de cinco a dos frecuencias semanales por desvíos y combustible, y el sábado hubo seis desvíos por baja visibilidad. Un juez pidió a Flybondi aclarar sus cuentas y el ingreso de COC Global. En lo comercial, Aerolíneas arrancó Mendoza-Bariloche y los chárteres a Ushuaia por cruceros, JetSMART sube a 9 semanales a Resistencia y Arajet dejará Mendoza en febrero.",
-    "generatedAt": "2026-11-02T07:04:25-03:00",
+    "title": "Briefing de aviación 2026-11-03",
+    "summary": "Jet 54 sin cierre nuevo: el último dato sigue siendo 444,4 cpg al 27/10. La ANAC publicó los cierres de Aeroparque, Córdoba y Ezeiza del 8 al 11 de noviembre por la visita del papa, que se suman a la pista corta de Ezeiza hasta el 11. Flybondi tiene cinco días hábiles para ordenar sus cuentas con un patrimonio negativo de unos $433.500 millones. JetSMART sumó dos A320neo, las aerolíneas salieron con promociones de CyberMonday y Andes prepara más de 20 chárteres a Florianópolis.",
+    "generatedAt": "2026-11-03T07:08:39-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,123 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/restricciones-en-el-espacio-aereo-argentino-por-la-visita-de-leon-xiv_a6ae957fbbcf08930c40c5d89",
+      "publishedAt": "2026-11-03",
+      "airline": "ANAC",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ANAC fija cierres en Aeroparque, Córdoba y Ezeiza por la visita de León XIV",
+      "summary": "El Suplemento AIP A 255/2026 establece del 8 al 11 de noviembre siete ventanas de cierre de dos horas (Aeroparque suma 8 horas en tres días, Córdoba 4 horas el martes 10 y Ezeiza el miércoles 11 de 13 a 15), suspende la actividad en aeródromos no controlados de las TMA Baires y Córdoba y prohíbe drones e instrucción. La terminal de aviación general de Ezeiza cierra 39 horas seguidas."
+    },
+    {
+      "channel": "web",
+      "source": "El Cronista",
+      "sourceHandle": "cronista",
+      "sourceUrl": "https://www.cronista.com/negocios/ultimatum-a-flybondi-los-dias-contados-para-evitar-su-quiebra-y-la-deuda-que-arrastra/",
+      "publishedAt": "2026-11-02",
+      "airline": "Flybondi",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Flybondi tiene cinco días hábiles para ordenar sus cuentas y evitar la quiebra",
+      "summary": "Según su presentación, Flybondi acumula pasivos por $609.589 millones frente a activos por $176.103 millones (patrimonio neto negativo de unos $433.500 millones). El concurso todavía no fue abierto: el juez pide aclarar accionistas, el ingreso de COC Global, deudas laborales, acreedores y estado de la flota, que en julio tenía 2,67 aviones operativos sobre 11."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/desde-mobile-hasta-santiago-jetsmart-recibe-dos-nuevos-airbus-a320neo-de-fabrica_a6ae9107bbcf08930c40981bc",
+      "publishedAt": "2026-11-02",
+      "airline": "JetSMART",
+      "segment": "flota",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "JetSMART recibe dos Airbus A320neo nuevos desde Mobile",
+      "summary": "Los CC-DOC y CC-DOD, A320-271neo con motores PW1100G y 186 asientos, llegaron a Santiago desde la planta de Airbus en Alabama para la flota chilena; la aerolínea destaca hasta 20% menos consumo de combustible por asiento que el A320ceo."
+    },
+    {
+      "channel": "web",
+      "source": "Reportur",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/03/cybermonday-ar-sin-intereses-y-avianca-copa-y-gol-rebajan-50/",
+      "publishedAt": "2026-11-03",
+      "airline": "Varias",
+      "segment": "comercial",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "CyberMonday: las aerolíneas salen a vender verano y primer semestre 2027",
+      "summary": "Aerolíneas Argentinas aplica 10% de descuento en toda su red hasta el miércoles 4, sin restricción de fechas y con hasta 12 cuotas en cabotaje; Avianca, Copa y Arajet rebajan hasta 50% hacia el Caribe y Norteamérica, Gol apuesta a Brasil y JetSMART ofrece hasta 58% en su campaña Cyber SMART."
+    },
+    {
+      "channel": "web",
+      "source": "Mi8",
+      "sourceHandle": "mi8",
+      "sourceUrl": "https://mi8.com.ar/vuelos-de-verano-aerolineas-argentinas-finalmente-conectara-a-mar-del-plata-con-mendoza-pero-sin-viajes-directos/",
+      "publishedAt": "2026-11-02",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Mar del Plata-Mendoza quedará con escala en Buenos Aires",
+      "summary": "El directo anunciado para el verano 2027 desapareció de la oferta: los itinerarios en la web duran entre 4 y 6,5 horas con escala y cuestan entre $160.000 y $370.000 por tramo. Los directos a Córdoba y Tucumán se mantienen."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117414345739239936",
+      "publishedAt": "2026-11-02",
+      "airline": "Andes",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Andes hará más de 20 chárteres a Florianópolis en noviembre y diciembre",
+      "summary": "Habrá vuelos desde Antofagasta, Asunción, Bariloche, Buenos Aires, La Serena, Neuquén, Río Gallegos, Santa Cruz de la Sierra y Santiago de Chile."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117382613027500060",
+      "publishedAt": "2026-11-02",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El 737 MAX 8 LV-KKE de Aerolíneas volvió a volar tras dos meses en tierra",
+      "summary": "Hizo un vuelo de prueba Aeroparque-Aeroparque; había quedado con daños en el fuselaje por una tormenta de granizo en Córdoba."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117245255615475765",
+      "publishedAt": "2026-11-02",
+      "airline": "Avianca",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Un 787-8 de Avianca quedó en los hangares de Aerolíneas en Ezeiza",
+      "summary": "El N800AV canceló el domingo su vuelo Buenos Aires-Bogotá y el lunes estaba en la zona de hangares de Aerolíneas (aparentemente el hangar 3)."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117308421750095885",
+      "publishedAt": "2026-11-02",
+      "airline": "Level",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Level llegó desde Barcelona con 311 pasajeros y 100% de ocupación",
+      "summary": "El LL 2601 fue el único vuelo del lunes en Ezeiza que superó los 300 pasajeros."
+    },
     {
       "channel": "web",
       "source": "FlyLinkers News",

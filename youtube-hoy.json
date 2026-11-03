@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-11-02",
+  "featuredAt": "2026-11-03",
   "item": {
-    "title": "Boeing Must Tear Open 30 Finished 777X Jets - Here's Why",
-    "summary": "Video de Plane Curious: según la descripción, la demora en certificar el 777X dejó más de treinta aviones terminados estacionados en Paine Field durante años mientras el diseño seguía cambiando; Boeing ahora tiene que volver a abrirlos y algunas aerolíneas ya evalúan cuáles no van a aceptar.",
-    "source": "Plane Curious",
-    "sourceHandle": "planecurious",
-    "sourceUrl": "https://www.youtube.com/watch?v=qHPb425nvsM",
-    "publishedAt": "2026-11-01",
+    "title": "Nearly 2,000 Boeing 737s Must Get Tail Inspections After Jets Pitched Up And Down Mid-Flight",
+    "summary": "Video de Simple Flying: según la descripción, la FAA ordenó inspeccionar casi 2.000 Boeing 737NG después de que varios operadores reportaran que la nariz subía y bajaba en vuelo; la directiva apunta a juego excesivo en las bisagras y el tornillo sin fin que mueven el estabilizador horizontal.",
+    "source": "Simple Flying",
+    "sourceHandle": "SimpleFlyingNews",
+    "sourceUrl": "https://www.youtube.com/watch?v=53uzxPfwRUs",
+    "publishedAt": "2026-11-02",
     "airline": "Boeing",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "qHPb425nvsM",
-    "featuredAt": "2026-11-02"
+    "videoId": "53uzxPfwRUs",
+    "featuredAt": "2026-11-03"
   }
 }
