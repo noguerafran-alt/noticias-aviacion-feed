@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-03",
-    "summary": "Jet 54 sin cierre nuevo: el último dato sigue siendo 444,4 cpg al 27/10. La ANAC publicó los cierres de Aeroparque, Córdoba y Ezeiza del 8 al 11 de noviembre por la visita del papa, que se suman a la pista corta de Ezeiza hasta el 11. Flybondi tiene cinco días hábiles para ordenar sus cuentas con un patrimonio negativo de unos $433.500 millones. JetSMART sumó dos A320neo, las aerolíneas salieron con promociones de CyberMonday y Andes prepara más de 20 chárteres a Florianópolis.",
-    "generatedAt": "2026-11-03T07:08:39-03:00",
+    "title": "Briefing de aviación 2026-11-04",
+    "summary": "Jet 54 sin cierre nuevo: el último dato sigue siendo 444,4 cpg al 27/10. JetSMART volvió a Posadas con un vuelo diario desde Aeroparque y LATAM ganó USD 441 millones en el tercer trimestre aunque el combustible le subió 52% y el margen cayó a 12,5%. Aerolíneas estrenó Economy+ en sus A330, ITA evalúa Milán-Lima y Lufthansa pone el 787 en Costa Rica. En X, el ARG-01 salió hacia Madrid y el prototipo del 777-9 llegó a Sucre para pruebas en altura.",
+    "generatedAt": "2026-11-04T07:08:58-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,136 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/jetsmart-volvio-a-posadas-con-un-vuelo-diario-desde-aeroparque_a6aea9429bcf08930c42289c7",
+      "publishedAt": "2026-11-03",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "JetSMART volvió a Posadas con un vuelo diario desde Aeroparque",
+      "summary": "La low cost opera siete frecuencias semanales con Airbus A320, frente a las tres que tenía cuando suspendió la ruta en septiembre de 2023. Según la compañía, el vuelo inaugural llegó completo."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/latam-gana-usd-441-millones-en-el-tercer-trimestre-pese-al-salto-del-52-en-el-combustible_a6aea6d65bcf08930c4202e50",
+      "publishedAt": "2026-11-03",
+      "airline": "LATAM",
+      "segment": "resultados",
+      "fuelTag": "jet",
+      "relevance": "alta",
+      "title": "LATAM gana USD 441 millones en el tercer trimestre pese al salto del 52% en el combustible",
+      "summary": "El grupo facturó USD 4.567 millones entre julio y septiembre (+18,4%), pero su margen operacional ajustado bajó de 18,1% a 12,5%. Para el año subió el piso de ingresos esperado y bajó la estimación de EBITDA ajustado."
+    },
+    {
+      "channel": "web",
+      "source": "En Rutas",
+      "sourceHandle": "enrutas",
+      "sourceUrl": "https://enrutas.com.ar/mas-confort-o-una-economy-mas-cara-aerolineas-argentinas-estreno-su-nueva-categoria-y-ahora-llega-la-prueba-de-los-pasajeros/",
+      "publishedAt": "2026-11-03",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "comercial",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas Argentinas estrenó Economy+ en sus A330",
+      "summary": "La nueva categoría debutó el 1 de noviembre en el vuelo a Madrid y estará en las rutas a Madrid, Roma, Miami, Cancún y Punta Cana: mismos asientos de Economy con unos 86 cm entre filas, embarque prioritario y servicio diferencial, por un adicional de USD 150 a 250 por tramo."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/peru/milan-lima-en-los-planes-de-ita-airways_a6aeaffe8bcf08930c425ab7f",
+      "publishedAt": "2026-11-04",
+      "airline": "ITA Airways",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Milán-Lima, en los planes de ITA Airways",
+      "summary": "La aerolínea del grupo Lufthansa combinaría en una misma rotación los vuelos Roma-Lima y Milán-Lima, sin abrir base en Lombardía, mientras Emirates espera autorización para operar esa ruta con derechos de quinta libertad."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/centroamerica-y-el-caribe/costa-rica/lufthansa-estrena-el-dreamliner-en-costa-rica-y-sube-a-cinco-vuelos-semanales_a6aea5b40bcf08930c41ed7d8",
+      "publishedAt": "2026-11-03",
+      "airline": "Lufthansa",
+      "segment": "flota",
+      "fuelTag": "jet",
+      "relevance": "media",
+      "title": "Lufthansa estrena el 787 en Costa Rica y sube a cinco vuelos semanales",
+      "summary": "Reemplazó el A340-300 por el Boeing 787-9 con cabinas Allegris en la ruta Fráncfort-San José, que pasa de tres a cinco frecuencias semanales."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/air-canada-reactivo-sus-vuelos-estacionales-a-rio-de-janeiro-con-aviones-boeing-787-9_a6aeb0380bcf08930c425df9e",
+      "publishedAt": "2026-11-04",
+      "airline": "Air Canada",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Air Canada reactivó sus vuelos estacionales a Río de Janeiro con 787-9",
+      "summary": "La segunda temporada de la ruta se extiende hasta el 27 de marzo; en la anterior transportó más de 13.000 pasajeros con una ocupación cercana al 90%."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117802863380344864",
+      "publishedAt": "2026-11-03",
+      "airline": "Flota presidencial",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El Boeing 757 ARG-01 partió de Aeroparque hacia Madrid vía Gran Canaria",
+      "summary": "SpottersArg informó la salida nocturna del avión presidencial desde Aeroparque con destino a Madrid, con escala en Gran Canaria."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117766696220156149",
+      "publishedAt": "2026-11-03",
+      "airline": "AerCaribe Cargo",
+      "segment": "carga",
+      "fuelTag": "jet",
+      "relevance": "baja",
+      "title": "Un 737 carguero de AerCaribe llegó a Buenos Aires por primera vez en el año",
+      "summary": "El Boeing 737-476(SF) HK-5139, de 36 años, aterrizó en Buenos Aires procedente de Lima."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117610401479237759",
+      "publishedAt": "2026-11-03",
+      "airline": "Boeing",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El prototipo del Boeing 777-9 llegó a Sucre para pruebas en altura",
+      "summary": "El N779XY arribó a Sucre desde Seattle tras 10 h 30 min de vuelo para hacer ensayos en el aeropuerto de Alcantarí, de gran elevación."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2117707244154593622",
+      "publishedAt": "2026-11-03",
+      "airline": "Atlas Air",
+      "segment": "carga",
+      "fuelTag": "jet",
+      "relevance": "baja",
+      "title": "Un 747 de Atlas Air opera entre Santiago de Chile y Auckland",
+      "summary": "El Boeing 747-46NF N452PA cubre el vuelo 5Y 8873 entre Santiago y Auckland."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
