@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-11-04",
+  "featuredAt": "2026-11-05",
   "item": {
-    "title": "JetBlue Creditors Call In Restructuring Experts As Shares Plummet To All-Time Low",
-    "summary": "Video de Simple Flying: según la descripción, un grupo de grandes acreedores de JetBlue contrató asesores de reestructuración (PJT Partners y el estudio Akin Gump) después de que las acciones tocaran mínimos históricos, lo que abre preguntas sobre cómo va a manejar su deuda mientras intenta volver a ser rentable.",
-    "source": "Simple Flying",
-    "sourceHandle": "SimpleFlyingNews",
-    "sourceUrl": "https://www.youtube.com/watch?v=ESGhA8_lS0A",
+    "title": "The Downfall Of Thomas Cook - Britain’s Holiday Airline",
+    "summary": "Video de Plane Curious: según la descripción, repasa cómo Thomas Cook, con 178 años de historia y 22 millones de pasajeros al año, dejó de volar de un día para otro en 2019 y dejó varados a cientos de miles de turistas, y sostiene que la causa real se gestó mucho antes que el auge de internet, la ola de calor o el Brexit.",
+    "source": "Plane Curious",
+    "sourceHandle": "planecurious",
+    "sourceUrl": "https://www.youtube.com/watch?v=izCThyt8YkU",
     "publishedAt": "2026-11-03",
-    "airline": "JetBlue",
+    "airline": "Thomas Cook",
     "segment": "analisis",
-    "fuelTag": "jet",
+    "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "ESGhA8_lS0A",
-    "featuredAt": "2026-11-04"
+    "videoId": "izCThyt8YkU",
+    "featuredAt": "2026-11-05"
   }
 }
