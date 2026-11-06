@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-05",
-    "summary": "Jet 54 con cierre nuevo: 419,8 centavos por galón al 3/11, 17,9 más que el lunes pero 24,6 por debajo del 27/10. Un vuelo de Aerolíneas a Posadas terminó en Rosario con operativo de emergencia por una falla eléctrica, y Copa está haciendo escala técnica en Rosario en la mitad de sus vuelos a Panamá. LATAM apunta a casi 430 aviones en 2027 pero frena si el combustible sigue caro. En X: Delta arranca Nueva York-Buenos Aires en una semana y Qatar inauguró Doha-Caracas-Bogotá.",
-    "generatedAt": "2026-11-05T07:09:10-03:00",
+    "title": "Briefing de aviación 2026-11-06",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11 (+17,9 vs. el 2/11). Hoy ATE retiene tareas en más de 27 aeropuertos y trabaja a reglamento en Ezeiza y Aeroparque. La ANAC ya contabiliza 202 vuelos afectados por las restricciones del papa León XIV. LATAM Colombia refuerza Miami, Orlando y Lima, y JetSMART estrena en una semana Medellín-Buenos Aires. En X: veinte chárteres a São Paulo por la F1 y el A330neo papal de ITA rumbo a Montevideo.",
+    "generatedAt": "2026-11-06T07:15:32-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,101 @@
       "change_from_prev": 0.179,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-05"
+      "updatedAt": "2026-11-06"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/ate-realizara-una-retencion-de-tareas-este-viernes-en-mas-de-27-aeropuertos-y-trabajara-a-reglamento-en-ezeiza-y-aeroparque_a6ae9d630bcf08930c4106f74",
+      "publishedAt": "2026-11-03",
+      "airline": "ANAC",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ATE retiene tareas hoy en más de 27 aeropuertos y trabaja a reglamento en Ezeiza y Aeroparque",
+      "summary": "Los trabajadores de ANAC nucleados en ATE retienen tareas este viernes en más de 27 aeropuertos y aplican un paro a la japonesa en Ezeiza y Aeroparque, con controles totales que pueden demorar o cancelar vuelos. Solo garantizan sanitarios, humanitarios, de órganos y oficiales; reclaman autobombas, ambulancias y una negociación salarial."
+    },
+    {
+      "channel": "web",
+      "source": "REPORTUR",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/05/argentina-aerolineas-sufriran-cambios-en-202-vuelos-por-el-papa/",
+      "publishedAt": "2026-11-05",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ANAC afecta 202 vuelos y unos 26.700 pasajeros por las restricciones del papa León XIV",
+      "summary": "Las restricciones del 8 al 11 de noviembre en Aeroparque, Córdoba y Ezeiza alteran 202 vuelos de Avianca, Copa, LATAM y Aerolíneas, entre otras. Aeroparque concentra las ventanas del domingo, lunes y martes; Córdoba el martes y Ezeiza el miércoles. Las aerolíneas ya reprograman y avisan a pasajeros."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/latam-airlines-colombia-refuerza-sus-vuelos-internacionales_a6aec91ecb6b0c1043259b41c",
+      "publishedAt": "2026-11-05",
+      "airline": "LATAM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM Colombia refuerza Miami, Orlando, Lima y usa A330 de Wamos en São Paulo",
+      "summary": "Para el invierno boreal, Bogotá-Miami y Bogotá-Orlando suben a 14 frecuencias semanales en diciembre y enero. Bogotá-Lima llega a 28 en enero-febrero y Santiago y São Paulo quedan en 21. En la ruta brasileña operará A330-200 de Wamos Air con 286 asientos."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/avianca-moviliza-insumos-a-galapagos-por-emergencia-climatica_a6aebba68ea97836037802a1d",
+      "publishedAt": "2026-11-04",
+      "airline": "Avianca",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Avianca llevó un A320neo chárter con ayuda a Galápagos por la emergencia climática",
+      "summary": "Avianca operó un vuelo especial con un A320neo para trasladar material de construcción y alimentos no perecederos a Galápagos, en coordinación con el gobierno ecuatoriano y la Cruz Roja. Ya suma 18 vuelos de itinerario en la zona y apoya la extensión horaria de Baltra."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2118395232320426100",
+      "publishedAt": "2026-11-05",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JetSMART inaugura en una semana Medellín-Buenos Aires, su primera ruta Colombia-Argentina",
+      "summary": "Según SpottersArg, en una semana JetSMART arranca Medellín-Buenos Aires con cinco frecuencias semanales en A320neo. Es su primera ruta en el mercado Colombia-Argentina y coincide con la salida de Avianca de esa misma conexión en diciembre."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2118340900422054087",
+      "publishedAt": "2026-11-05",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Veinte chárteres Argentina-São Paulo por la Fórmula 1 y Colapinto",
+      "summary": "SpottersArg reportó 20 vuelos chárter (más los regulares) entre Argentina y São Paulo por la F1: 4 desde Aeroparque, 4 desde Córdoba, 9 desde Ezeiza y 3 desde Rosario."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2118486107369230841",
+      "publishedAt": "2026-11-05",
+      "airline": "ITA Airways",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El papa León XIV parte de Roma a Montevideo en un A330neo de ITA Airways",
+      "summary": "SpottersArg anticipó que León XIV inicia su gira sudamericana partiendo de Roma a las 07:00 hora local rumbo a Montevideo a bordo de un Airbus A330neo de ITA Airways, antes de seguir hacia Argentina."
+    },
     {
       "channel": "web",
       "source": "Rosario3",

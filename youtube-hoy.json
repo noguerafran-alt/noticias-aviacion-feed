@@ -1,18 +1,18 @@
 {
-  "featuredAt": "2026-11-05",
+  "featuredAt": "2026-11-06",
   "item": {
-    "title": "The Downfall Of Thomas Cook - Britain’s Holiday Airline",
-    "summary": "Video de Plane Curious: según la descripción, repasa cómo Thomas Cook, con 178 años de historia y 22 millones de pasajeros al año, dejó de volar de un día para otro en 2019 y dejó varados a cientos de miles de turistas, y sostiene que la causa real se gestó mucho antes que el auge de internet, la ola de calor o el Brexit.",
+    "title": "Airbus Has An A319neo Problem",
+    "summary": "Video de Plane Curious: según la descripción, el A319neo juntó apenas 58 pedidos firmes en 16 años frente a casi 8.000 del A321neo, Spirit convirtió sus 31 a A321neo y Airbus dejó de ofrecerlo a aerolíneas en julio de 2026, mientras el A220 —el ex C-Series que Boeing intentó matar— se quedó con el segmento de 100 a 150 asientos.",
     "source": "Plane Curious",
     "sourceHandle": "planecurious",
-    "sourceUrl": "https://www.youtube.com/watch?v=izCThyt8YkU",
-    "publishedAt": "2026-11-03",
-    "airline": "Thomas Cook",
+    "sourceUrl": "https://www.youtube.com/watch?v=nxe1Io_NBp4",
+    "publishedAt": "2026-11-05",
+    "airline": "Airbus",
     "segment": "analisis",
     "fuelTag": "ninguno",
     "relevance": "media",
     "channel": "youtube",
-    "videoId": "izCThyt8YkU",
-    "featuredAt": "2026-11-05"
+    "videoId": "nxe1Io_NBp4",
+    "featuredAt": "2026-11-06"
   }
 }
