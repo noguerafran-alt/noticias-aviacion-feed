@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-06",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11 (+17,9 vs. el 2/11). Hoy ATE retiene tareas en más de 27 aeropuertos y trabaja a reglamento en Ezeiza y Aeroparque. La ANAC ya contabiliza 202 vuelos afectados por las restricciones del papa León XIV. LATAM Colombia refuerza Miami, Orlando y Lima, y JetSMART estrena en una semana Medellín-Buenos Aires. En X: veinte chárteres a São Paulo por la F1 y el A330neo papal de ITA rumbo a Montevideo.",
-    "generatedAt": "2026-11-06T07:15:32-03:00",
+    "title": "Briefing de aviación 2026-11-09",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11. Hoy Aeroparque cierra de 11:15 a 13:15 por la visita del papa León XIV, que llegó el domingo en el 737 MAX 8 LV-KKD de Aerolíneas. Para el verano 2027, Aerolíneas ofrece 13% más asientos en enero, LATAM suma Natal y Maceió y JOY Airline apunta a debutar el 16 de noviembre. En X: primer 737-800 carguero de Aerolíneas en Aeroparque, A330 a São Paulo y un 787-9 de Air Europa a Ezeiza.",
+    "generatedAt": "2026-11-09T07:06:58-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,127 @@
       "change_from_prev": 0.179,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-09"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/el-papa-leon-xiv-llego-a-buenos-aires-a-bordo-del-boeing-737-max-8-lv-kkd-de-aerolineas-argentinas_a6af0c5ca696ebfa450be7ce5",
+      "publishedAt": "2026-11-08",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "El papa León XIV llegó a Aeroparque en el 737 MAX 8 LV-KKD de Aerolíneas Argentinas",
+      "summary": "El AR1091 despegó de Montevideo con 23 minutos de demora y aterrizó a las 16:34 en Aeroparque tras 41 minutos de vuelo; un 737-800 carguero (LV-CTC) trajo el equipaje. Es el primero de cinco vuelos de Aerolíneas para la comitiva: el martes 10 dos a Córdoba y el miércoles 11 el AR1096 Ezeiza-Lima en A330-200."
+    },
+    {
+      "channel": "web",
+      "source": "Enfoque Ciudad",
+      "sourceHandle": "enfoqueciudad",
+      "sourceUrl": "https://enfoqueciudad.com/2026/11/08/aerolineas-verano-2027-flybondi-concurso-preventivo/",
+      "publishedAt": "2026-11-08",
+      "airline": "varias",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas amplían vuelos para el verano 2027 tras la salida de Flybondi",
+      "summary": "Aerolíneas Argentinas ofrecerá 1.508.834 asientos en enero de 2027 (+13%) y JetSMART apunta a unos 22 aviones y más de 800 vuelos semanales. LATAM suma Natal y Maceió desde el 15/12 con tres frecuencias semanales cada una y pasa a cuatro semanales a Recife. JOY Airline prevé debutar el 16 de noviembre entre Buenos Aires, Jujuy y Córdoba; Flybondi sigue en concurso preventivo desde el 2 de octubre."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119570243471171999",
+      "publishedAt": "2026-11-08",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas Argentinas vuelve a trasladar a un papa después de 39 años",
+      "summary": "SpottersArg recordó que Aerolíneas llevó a Juan Pablo II en 1982 y 1987 y ahora a León XIV en 2026."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119551174294520068",
+      "publishedAt": "2026-11-08",
+      "airline": "Aerolíneas Argentinas Cargo",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Primera vez que Aerolíneas Cargo opera a Aeroparque con un 737-800(SF)",
+      "summary": "Según SpottersArg, el LV-CTC llegó desde Montevideo con equipaje y carga de la comitiva papal."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119475076974408000",
+      "publishedAt": "2026-11-08",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas opera Buenos Aires-São Paulo con un A330 por primera vez en semanas",
+      "summary": "SpottersArg informó que el AR1246/1247 de este domingo lo hizo el A330 LV-KHT."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119212211612877238",
+      "publishedAt": "2026-11-07",
+      "airline": "Air Europa",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Air Europa opera Madrid-Buenos Aires con un 787-9 por las obras en Ezeiza",
+      "summary": "Según SpottersArg, el UX 041 del sábado lo voló el 787-9 EC-OFP, el segundo con ese equipo durante las obras en la pista de Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119133813913870537",
+      "publishedAt": "2026-11-07",
+      "airline": "LATAM",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM operó su primer chárter Santiago de Chile-Ushuaia para cruceros",
+      "summary": "SpottersArg indicó que habrá varios hasta marzo de 2027, quizás alguno con Boeing 787."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119082167066304884",
+      "publishedAt": "2026-11-07",
+      "airline": "JOY Airline",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JOY Airline reservó la matrícula LV-JOE para su segundo avión, un CRJ-200LR",
+      "summary": "Según SpottersArg, es un ex SkyWest que voló para Delta hasta junio de 2023."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119115124430471228",
+      "publishedAt": "2026-11-07",
+      "airline": "LADE",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "LADE cubre con un Embraer 140 la ruta patagónica del Saab 340",
+      "summary": "SpottersArg reportó el vuelo Comodoro Rivadavia-Perito Moreno-El Calafate-Río Gallegos con el E140 T-96."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
