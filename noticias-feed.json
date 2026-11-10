@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-09",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11. Hoy Aeroparque cierra de 11:15 a 13:15 por la visita del papa León XIV, que llegó el domingo en el 737 MAX 8 LV-KKD de Aerolíneas. Para el verano 2027, Aerolíneas ofrece 13% más asientos en enero, LATAM suma Natal y Maceió y JOY Airline apunta a debutar el 16 de noviembre. En X: primer 737-800 carguero de Aerolíneas en Aeroparque, A330 a São Paulo y un 787-9 de Air Europa a Ezeiza.",
-    "generatedAt": "2026-11-09T07:06:58-03:00",
+    "title": "Briefing de aviación 2026-11-10",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11. Hoy Aerolíneas lleva al papa León XIV a Córdoba en 737 MAX 8 y Aeroparque y Córdoba tienen restricciones en dos franjas. JetSMART creció 34% en Argentina hasta septiembre, suma flota (59 aviones) y aterriza en San Juan el 19/11. Terminan las obras en Ezeiza y vuelven American, Delta, United y Air France. En X: primer vuelo del A321neo CC-AWS para JetSMART Argentina.",
+    "generatedAt": "2026-11-10T06:50:31-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,114 @@
       "change_from_prev": 0.179,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/jetsmart-transporto-mas-de-12-5-millones-de-pasajeros-y-crecio-un-18-interanual-en-lo-que-va-de-2026_a6af1da6b696ebfa450c830d3",
+      "publishedAt": "2026-11-09",
+      "airline": "JetSMART",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JetSMART transportó más de 12,5 millones de pasajeros y creció 18% en 2026",
+      "summary": "Hasta septiembre el tráfico subió 18%, cinco puntos más que la capacidad (+13%): Brasil +56% y Argentina +34%. Tiene 14,4% de participación en Sudamérica, flota de 59 A320/A321 y cerrará el año con 62; trabaja en un esquema de intercambio de aviones entre sus cuatro certificados (Chile, Argentina, Perú y Colombia)."
+    },
+    {
+      "channel": "web",
+      "source": "Aviación en Argentina",
+      "sourceHandle": "aviacionenargentina",
+      "sourceUrl": "https://aviacionenargentina.com.ar/aerolineas-argentinas-en-modo-leon-continuara-durante-el-martes-10-11-continua-con-la-operacion-especial-para-la-visita-del-papa/",
+      "publishedAt": "2026-11-09",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas sigue hoy con la operación especial del papa: AEP-Córdoba en 737 MAX 8",
+      "summary": "El AR1094 sale de Aeroparque a las 7:30 y llega a Córdoba a las 9:00; el AR1095 vuelve desde Córdoba a las 17:00. Mañana miércoles cierra con el traslado a Lima."
+    },
+    {
+      "channel": "web",
+      "source": "Nuevo Mundo San Juan",
+      "sourceHandle": "nuevomundosj",
+      "sourceUrl": "https://nuevomundosj.com.ar/jetsmart-llega-a-san-juan-y-abre-la-competencia-por-las-tarifas-aereas/",
+      "publishedAt": "2026-11-09",
+      "airline": "JetSMART",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JetSMART llega a San Juan el 19 de noviembre con cinco vuelos semanales",
+      "summary": "Operará Aeroparque-San Juan de lunes a viernes (sale 11:20) y busca cubrir el vacío que dejó Flybondi frente a Aerolíneas, que concentra la ruta. Los pasajes arrancaron en $39.100 por tramo y hoy el vuelo inaugural parte de $81.628."
+    },
+    {
+      "channel": "web",
+      "source": "Sir Chandler",
+      "sourceHandle": "sirchandler",
+      "sourceUrl": "https://www.sirchandler.com.ar/2026/11/las-aerolineas-de-vuelos-largos-listas-para-operar-de-nuevo-en-ezeiza/",
+      "publishedAt": "2026-11-09",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Terminan las obras del cruce de pistas de Ezeiza y vuelven los vuelos largos",
+      "summary": "American retoma Miami con tres diarios desde el 11/12, Delta recupera Atlanta con dos diarios, United vuelve con Houston duplicado y Air France reanuda el 12/11; Iberia ya opera A330 en algunos diurnos."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119954385945894936",
+      "publishedAt": "2026-11-10",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Restricciones temporales hoy en Aeroparque y Córdoba por el viaje del papa",
+      "summary": "Aeroparque de 06:30 a 08:30 y de 17:10 a 19:10; Córdoba de 07:30 a 09:30 y de 15:55 a 17:55."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119847599054139462",
+      "publishedAt": "2026-11-09",
+      "airline": "JetSMART",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Primer vuelo para JetSMART Argentina del A321neo CC-AWS",
+      "summary": "SpottersArg informó que el avión, que viene de JetSMART Chile, cubrió el JA3193 Aeroparque-Trelew."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119782027625173294",
+      "publishedAt": "2026-11-09",
+      "airline": "Andes",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Andes opera Trelew-Neuquén-Florianópolis con el 737-800 LV-KFW",
+      "summary": "SpottersArg marcó el vuelo como inusual."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2119931510052524110",
+      "publishedAt": "2026-11-09",
+      "airline": "LADE",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "LADE llevó 37 pasajeros a Bariloche con 87% de ocupación",
+      "summary": "El 5U500 Buenos Aires-Mar del Plata-Bahía Blanca-Bariloche, operado por el Embraer 140 T-96, tuvo 6 asientos libres."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
