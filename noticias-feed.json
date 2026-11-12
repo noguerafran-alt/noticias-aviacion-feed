@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-11",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 419,8 centavos por galón al 3/11. Flybondi entró en concurso preventivo tras 57 días sin volar, con la flota reducida a 3 aviones, y AlbaStar, que le operaba vuelos de verano, cesó operaciones. Ezeiza vuelve hoy a tener la pista completa y Delta empieza a usar A350-900 en Atlanta-Buenos Aires. Aeropuertos Argentina prepara un master plan de u$s 1.500 millones para atraer aerolíneas.",
-    "generatedAt": "2026-11-11T09:52:19+00:00",
+    "title": "Briefing de aviación 2026-11-12",
+    "summary": "Ezeiza reabrió la pista 11-29 tras 18 días y vuelven las aerolíneas de fuselaje ancho: Aeroméxico, Iberia, American, Delta, ITA, KLM, Lufthansa y United. Flybondi pide apartar al juez de su concurso (deuda ~USD 120 M). Chapelco sube a Categoría I con tasa internacional de USD 51. Jet 54 sin cierre nuevo: 419,8 cpg al 3/11.",
+    "generatedAt": "2026-11-12T09:56:23+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,101 @@
       "change_from_prev": 0.179,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-12"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "REPORTUR",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/12/ezeiza-reabre-pista-latam-y-ar-vuelven-con-aviones-de-dos-pasillos/",
+      "publishedAt": "2026-11-12",
+      "airline": "LATAM / Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Ezeiza reabre la pista 11-29 y vuelven LATAM y AR con aviones de dos pasillos",
+      "summary": "Tras 18 días de obras, la pista principal quedó habilitada sin restricciones y retoman los fuselaje ancho. El primer despegue fue un JetSMART a El Calafate; más de 30 aerolíneas habían cancelado o modificado vuelos. La pista 17-35 sigue en obra hasta fin de año (plan de USD 100 M)."
+    },
+    {
+      "channel": "web",
+      "source": "Enfoque Ciudad",
+      "sourceHandle": "enfoqueciudad",
+      "sourceUrl": "https://enfoqueciudad.com/2026/11/12/flybondi-solicita-apartar-juez-concurso-preventivo/",
+      "publishedAt": "2026-11-12",
+      "airline": "Flybondi",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Flybondi pide apartar al juez de su concurso preventivo para reestructurar su deuda",
+      "summary": "FB Líneas Aéreas pidió a la Cámara Comercial apartar al juez Pesaresi (Juzgado Comercial N°24), por requerimientos que podrían demorar el trámite. La deuda ronda los USD 120 M; todavía no hay fecha de reinicio de vuelos."
+    },
+    {
+      "channel": "web",
+      "source": "AeroMarket",
+      "sourceHandle": "aeromarket",
+      "sourceUrl": "https://aeromarket.com.ar/la-semana-aeronautica-296/",
+      "publishedAt": "2026-11-11",
+      "airline": "Aeropuertos",
+      "segment": "regulacion",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Chapelco sube a Categoría I: la tasa internacional pasa de USD 37,97 a USD 51",
+      "summary": "El ORSNA lo dispuso por Resolución 78/2026 (11/11). Es un ascenso tarifario (+34,3%) que rige 30 días después de su publicación."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120679017611202819",
+      "publishedAt": "2026-11-12",
+      "airline": "Aeroméxico",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aeroméxico, primera extranjera en volver a Buenos Aires tras las obras de Ezeiza",
+      "summary": "Un 787-9 (N815AM) llegó de Ciudad de México con 175 pasajeros, 63% de ocupación."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120656795387498619",
+      "publishedAt": "2026-11-11",
+      "airline": "Iberia",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Vuelve un A350 a Buenos Aires: Iberia EC-NXC desde Madrid con 98% de ocupación",
+      "summary": "Primer Airbus A350 en aterrizar en 18 días: 344 pasajeros a bordo."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120704047778808139",
+      "publishedAt": "2026-11-12",
+      "airline": "American / Delta / ITA / KLM / Lufthansa / United",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Vuelven American, Delta, ITA, KLM, Lufthansa y United tras 18 días sin operar",
+      "summary": "Los primeros vuelos de estas aerolíneas ya van rumbo a Buenos Aires tras la reapertura completa de la pista de Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120501488413724764",
+      "publishedAt": "2026-11-11",
+      "airline": "Plus Ultra",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Plus Ultra PU501 se desvió a Madrid por posible humo a bordo",
+      "summary": "El A330 EC-OAP volvió a Madrid por una indicación de posible problema técnico; los 286 pasajeros descendieron."
+    },
     {
       "channel": "web",
       "source": "Degremiales",
