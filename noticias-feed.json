@@ -1,22 +1,113 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-12",
-    "summary": "Ezeiza reabrió la pista 11-29 tras 18 días y vuelven las aerolíneas de fuselaje ancho: Aeroméxico, Iberia, American, Delta, ITA, KLM, Lufthansa y United. Flybondi pide apartar al juez de su concurso (deuda ~USD 120 M). Chapelco sube a Categoría I con tasa internacional de USD 51. Jet 54 sin cierre nuevo: 419,8 cpg al 3/11.",
-    "generatedAt": "2026-11-12T09:56:23+00:00",
+    "title": "Briefing de aviación 2026-11-13",
+    "summary": "Jet 54 USGC cerró en 403,5 centavos por galón el 11/11 (+5,2 vs. el 10/11). Hoy ATE-ANAC hace paro a la japonesa en Ezeiza y Aeroparque, con demoras posibles, y del 16 al 20/11 retiene tareas en los bomberos de todos los aeropuertos. JetSMART inauguró Medellín-Buenos Aires, American y China Eastern retomaron vuelos a Ezeiza, y GOL crece 30% en Argentina este verano.",
+    "generatedAt": "2026-11-13T09:57:38+00:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-11-03",
-      "precio_usd_gal": 4.198,
-      "cpg": 419.8,
-      "change_from_prev": 0.179,
+      "fecha": "2026-11-11",
+      "precio_usd_gal": 4.035,
+      "cpg": 403.5,
+      "change_from_prev": 0.052,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-12"
+      "updatedAt": "2026-11-13"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "REPORTUR",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/13/ezeiza-y-aeroparque-sufriran-8-dias-de-demoras-por-paro-japones/",
+      "publishedAt": "2026-11-13",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Ezeiza y Aeroparque sufrirán 8 días de demoras por el paro \"japonés\" de ATE-ANAC",
+      "summary": "Desde las 6:00 de hoy ATE-ANAC aplica control total de aeronaves, vehículos y personal en Ezeiza y Aeroparque, con posibles demoras (el gremio dice que sin cancelaciones) y retención de tareas administrativa. Del 16 al 20/11 la retención llega a los servicios de extinción de incendios de todos los aeropuertos; reclaman 3 años sin paritarias y salarios congelados."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/destacando-sus-vuelos-al-interior-argentino-gol-crece-un-30-durante-el-pico-del-verano_a6af36c07696ebfa450dd590d",
+      "publishedAt": "2026-11-12",
+      "airline": "GOL",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "GOL crece 30% en el pico del verano destacando el interior argentino",
+      "summary": "Más de 7 millones de asientos entre diciembre y enero; en Argentina la oferta de enero sube 30% frente a octubre, con +160% en Rosario y +130% en Córdoba."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/chile/avianca-y-sky-firman-un-acuerdo-interlinea-que-abarca-33-destinos-domesticos-en-chile-y-peru_a6af5ca89d5fb7942a0935c3b",
+      "publishedAt": "2026-11-12",
+      "airline": "Avianca / SKY",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Avianca y SKY firman interlínea con 33 destinos domésticos en Chile y Perú",
+      "summary": "Conexión en Lima con 16 ciudades peruanas y en Santiago con 17 chilenas con una sola reserva; es el primer acuerdo entre ambas desde el intercambio de acciones de SKY con Grupo Abra."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/espana/el-contrato-con-flybondi-calificado-de-fiasco-por-el-sindicato-de-pilotos-espanoles_a6af5e910d5fb7942a0973bdf",
+      "publishedAt": "2026-11-12",
+      "airline": "Flybondi / AlbaStar",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El contrato con Flybondi, calificado de \"fiasco\" por el sindicato de pilotos españoles",
+      "summary": "SEPLA en AlbaStar reclama a Sherpa Capital y a la dirección por inversiones incumplidas y señala el contrato con Flybondi entre las causas del cese de operaciones."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2121005864974692424",
+      "publishedAt": "2026-11-12",
+      "airline": "JetSMART",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JetSMART inaugura Medellín-Buenos Aires",
+      "summary": "El A320neo CC-DID partió de Medellín rumbo a Buenos Aires: primera ruta de JetSMART entre Colombia y Argentina."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120985508436197440",
+      "publishedAt": "2026-11-12",
+      "airline": "China Eastern",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern vuelve a Buenos Aires: MU745 con 305 pasajeros y 97% de ocupación",
+      "summary": "Llegó el vuelo desde Shanghai vía Auckland, de vuelta tras la reapertura de la pista de Ezeiza."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2120932402575077563",
+      "publishedAt": "2026-11-12",
+      "airline": "American Airlines",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "American retoma Dallas-Buenos Aires: 234 pasajeros, 100% de ocupación",
+      "summary": "Inició su vuelo estacional que ofrecerá hasta marzo de 2027."
+    },
     {
       "channel": "web",
       "source": "REPORTUR",
