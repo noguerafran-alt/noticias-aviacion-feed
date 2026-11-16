@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-13",
-    "summary": "Jet 54 USGC cerró en 403,5 centavos por galón el 11/11 (+5,2 vs. el 10/11). Hoy ATE-ANAC hace paro a la japonesa en Ezeiza y Aeroparque, con demoras posibles, y del 16 al 20/11 retiene tareas en los bomberos de todos los aeropuertos. JetSMART inauguró Medellín-Buenos Aires, American y China Eastern retomaron vuelos a Ezeiza, y GOL crece 30% en Argentina este verano.",
-    "generatedAt": "2026-11-13T09:57:38+00:00",
+    "title": "Briefing de aviación 2026-11-16",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11 (+5,2). Desde hoy ATE-ANAC suma una segunda etapa de medidas hasta el viernes 20, tras demoras el viernes en Ezeiza y Aeroparque. Una falla de comunicaciones en EE.UU. retrasó vuelos en Ezeiza, y el TK15 de Turkish casi se sale de pista. Debuta JOY Airline, ITA suma una frecuencia y LATAM tendrá vuelos de madrugada en Aeroparque.",
+    "generatedAt": "2026-11-16T10:40:00+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,101 @@
       "change_from_prev": 0.052,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-16"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Informadora",
+      "sourceHandle": "informadora",
+      "sourceUrl": "https://informadora.com/argentina/economia/2026/11/14/paro-a-la-japonesa-ezeiza-aeroparque-que-es-demoras-vuelos/",
+      "publishedAt": "2026-11-14",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ATE-ANAC: el paro a la japonesa del viernes dejó demoras y viene una segunda etapa del 16 al 20/11",
+      "summary": "El viernes 13 hubo demoras de más de una hora en migraciones de Ezeiza y al menos ocho salidas de Aerolíneas demoradas en Aeroparque; Aeropuertos Argentina 2000 dice que operaban con normalidad. Sin cancelaciones informadas. El gremio anunció una nueva etapa desde hoy hasta el viernes 20."
+    },
+    {
+      "channel": "web",
+      "source": "Trama Nacional",
+      "sourceHandle": "tramanacional",
+      "sourceUrl": "https://tramanacional.com/2026/11/15/falla-comunicaciones-aerea-eeuu-impacto-ezeiza/",
+      "publishedAt": "2026-11-15",
+      "airline": "varias",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Falla de comunicaciones en EE.UU. frenó cuatro horas los vuelos y generó demoras en Ezeiza",
+      "summary": "Se cancelaron unas 7.700 operaciones en EE.UU. según FlightAware. En Ezeiza el AR1302 a Miami despegó a las 04:14 en vez de las 22:45 del viernes, el AA900 se reprogramó casi 23 horas y un vuelo de LATAM fue desviado a Colombia. Las aerolíneas estadounidenses advierten reprogramaciones hasta hoy lunes."
+    },
+    {
+      "channel": "web",
+      "source": "Aviation Club Center",
+      "sourceHandle": "aviationclubcenter",
+      "sourceUrl": "https://aviationclubcenter.com/es/2026/11/16/ita-airways-aumenta-sus-vuelos-entre-roma-y-buenos-aires/",
+      "publishedAt": "2026-11-16",
+      "airline": "ITA Airways",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "ITA Airways sube a 10 vuelos semanales entre Roma y Buenos Aires",
+      "summary": "Desde el 15/11 pasa de 9 a 10 frecuencias semanales (+11,1%) y las mantiene toda la temporada de verano 2026-27."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122162982360641989",
+      "publishedAt": "2026-11-16",
+      "airline": "JOY Airline",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "JOY Airline opera hoy su primer vuelo regular en Argentina",
+      "summary": "Según SpottersArg, desde el 16/11 una nueva aerolínea empieza a volar en el país: JOY Airline cumple en pocas horas el primer vuelo regular de su historia."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122154184892129704",
+      "publishedAt": "2026-11-16",
+      "airline": "Turkish Airlines",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Ezeiza estuvo casi una hora cerrado por el TK15 de Turkish: casi deja la pista hacia una calle de rodaje cerrada por obras",
+      "summary": "El A350 TC-LHI estuvo cerca de salir de la pista por una calle de rodaje clausurada por obras, según SpottersArg."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122109523330551819",
+      "publishedAt": "2026-11-15",
+      "airline": "LATAM",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM tendrá por primera vez vuelos de madrugada en Aeroparque desde el 1/12",
+      "summary": "Los miércoles, viernes y domingos el LA2995 llega de Lima a las 03:40 y sale como LA2994 a las 04:40."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122049965803606419",
+      "publishedAt": "2026-11-15",
+      "airline": "Level",
+      "segment": "red",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Level vuela Barcelona-Buenos Aires con escala técnica en Gran Canaria del 16 al 26/11",
+      "summary": "Por obras en el aeropuerto El Prat, según SpottersArg."
+    },
     {
       "channel": "web",
       "source": "REPORTUR",
