@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-16",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11 (+5,2). Desde hoy ATE-ANAC suma una segunda etapa de medidas hasta el viernes 20, tras demoras el viernes en Ezeiza y Aeroparque. Una falla de comunicaciones en EE.UU. retrasó vuelos en Ezeiza, y el TK15 de Turkish casi se sale de pista. Debuta JOY Airline, ITA suma una frecuencia y LATAM tendrá vuelos de madrugada en Aeroparque.",
-    "generatedAt": "2026-11-16T10:40:00+00:00",
+    "title": "Briefing de aviación 2026-11-17",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11. Plus Ultra suspende Madrid-Ezeiza desde hoy, citando costos y combustible. ATE-ANAC sigue con la retención de bomberos hasta el viernes 20. JOY Airline arrancó con 84% de ocupación en Jujuy-Buenos Aires, JetSMART llega a San Juan el 19/11 y China Eastern llenó 96% el MU745.",
+    "generatedAt": "2026-11-17T10:40:00+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,88 @@
       "change_from_prev": 0.052,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-16"
+      "updatedAt": "2026-11-17"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/espana/plus-ultra-suspende-los-vuelos-entre-madrid-y-ezeiza_a6afba86142fa9d9e6e2e5b8d",
+      "publishedAt": "2026-11-16",
+      "airline": "Plus Ultra",
+      "segment": "rutas",
+      "fuelTag": "combustible",
+      "relevance": "alta",
+      "title": "Plus Ultra suspende Madrid-Ezeiza desde hoy 17/11 \"hasta nuevo aviso\"",
+      "summary": "La española lo atribuye a su reestructuración y al fuerte aumento de costos, en particular combustible. La ruta arrancó en mayo y llegó a 5 frecuencias semanales; el 13/11 pidió preconcurso. Madrid-Buenos Aires queda con Iberia, Air Europa, Level y Aerolíneas."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/san-juan-quiere-volar-aun-mas-alto-y-reunio-a-las-lineas-aereas-para-lograrlo_a6afb696a42fa9d9e6e2a864a",
+      "publishedAt": "2026-11-16",
+      "airline": "varias",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "San Juan pide más frecuencias y rutas a Chile, Brasil y Europa",
+      "summary": "Aerolíneas cerrará noviembre y diciembre con 20.000 asientos mensuales y 19 frecuencias semanales a San Juan; JetSMART arranca Aeroparque-San Juan el 19/11 con 5 frecuencias semanales y Plus Ultra propuso Madrid-San Juan. La minería empuja la demanda."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122513169314963780",
+      "publishedAt": "2026-11-17",
+      "airline": "Plus Ultra",
+      "segment": "rutas",
+      "fuelTag": "combustible",
+      "relevance": "alta",
+      "title": "Plus Ultra dejó de volar Madrid-Buenos Aires: el último vuelo fue el 14/11",
+      "summary": "Tras menos de seis meses de operación, la aerolínea confirmó el fin de la ruta; la suspensión formal rige desde el 17/11."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122465140834488376",
+      "publishedAt": "2026-11-16",
+      "airline": "JOY Airline",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JOY Airline en su primer día: 84% de ocupación Jujuy-Buenos Aires",
+      "summary": "JO 4401 Jujuy-Buenos Aires llevó 42 pasajeros (84%), JO 4402 30 (60%); en Córdoba, JO 4501 llevó 22 (44%)."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122452254729081216",
+      "publishedAt": "2026-11-16",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern: 302 pasajeros y 96% de ocupación en el MU745 Shanghái-Auckland-Buenos Aires",
+      "summary": "Lo califica como el mejor momento de la aerolínea china en Argentina."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122427236137447610",
+      "publishedAt": "2026-11-16",
+      "airline": "LATAM",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "León XIV volvió a Roma en un 787-9 de LATAM (CC-BGS)",
+      "summary": "Cerró la visita papal a Sudamérica, que movilizó operaciones especiales de Aerolíneas y LATAM."
+    },
     {
       "channel": "web",
       "source": "Informadora",
