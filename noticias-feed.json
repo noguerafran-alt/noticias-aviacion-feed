@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-17",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11. Plus Ultra suspende Madrid-Ezeiza desde hoy, citando costos y combustible. ATE-ANAC sigue con la retención de bomberos hasta el viernes 20. JOY Airline arrancó con 84% de ocupación en Jujuy-Buenos Aires, JetSMART llega a San Juan el 19/11 y China Eastern llenó 96% el MU745.",
-    "generatedAt": "2026-11-17T10:40:00+00:00",
+    "title": "Briefing de aviación 2026-11-18",
+    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11. ATE-ANAC mantiene hasta el viernes 20 la retención en los bomberos de todos los aeropuertos. Japón y Argentina habilitan vuelos regulares de sus propias aerolíneas, Iberia llegó a 8 vuelos diarios Madrid-Buenos Aires, GOL suma El Calafate y Lufthansa llena el 747-8 en Ezeiza.",
+    "generatedAt": "2026-11-18T10:29:33+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -13,10 +13,62 @@
       "change_from_prev": 0.052,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-17"
+      "updatedAt": "2026-11-18"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "REPORTUR",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/18/cierco-iberia-llego-a-8-vuelos-al-dia-entre-madrid-y-buenos-aires/",
+      "publishedAt": "2026-11-18",
+      "airline": "Iberia",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Iberia llegó a 8 vuelos diarios entre Madrid y Buenos Aires, dice su director corporativo",
+      "summary": "En el marco de los 80 años del primer vuelo Madrid-Buenos Aires, Juan Cierco repasó las cifras récord de conectividad, el acuerdo con Aerolíneas Argentinas y la apertura del Espacio Iberia en el Edificio Volta."
+    },
+    {
+      "channel": "web",
+      "source": "International Press",
+      "sourceHandle": "internationalpress",
+      "sourceUrl": "https://internationalpress.jp/2026/11/18/japon-y-argentina-habilitan-vuelos-regulares-operados-por-sus-aerolineas/",
+      "publishedAt": "2026-11-18",
+      "airline": "varias",
+      "segment": "regulaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Japón y Argentina habilitan vuelos regulares operados por sus propias aerolíneas",
+      "summary": "El acuerdo anunciado por la JCAB permite a aerolíneas de ambos países operar servicios regulares de pasajeros y carga entre los dos territorios, con Haneda excluido; hasta ahora el marco solo contemplaba codeshare."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122834160691650722",
+      "publishedAt": "2026-11-17",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "GOL inaugura El Calafate en 9 días con ruta triangular São Paulo-El Calafate-Ushuaia",
+      "summary": "Operará tres veces por semana la ruta São Paulo - El Calafate - Ushuaia - São Paulo hasta fines de marzo de 2027."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2122674824250061219",
+      "publishedAt": "2026-11-17",
+      "airline": "Lufthansa",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Lufthansa vuelve a llegar llena a Ezeiza: 100% de ocupación con el 747-8",
+      "summary": "Por segundo día consecutivo el Frankfurt-Buenos Aires, operado por el Boeing 747-8 D-ABYU, llegó con todos los asientos ocupados."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
