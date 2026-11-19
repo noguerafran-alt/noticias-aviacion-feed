@@ -1,22 +1,100 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-18",
-    "summary": "Jet 54 sin cierre nuevo: sigue en 403,5 centavos por galón al 11/11. ATE-ANAC mantiene hasta el viernes 20 la retención en los bomberos de todos los aeropuertos. Japón y Argentina habilitan vuelos regulares de sus propias aerolíneas, Iberia llegó a 8 vuelos diarios Madrid-Buenos Aires, GOL suma El Calafate y Lufthansa llena el 747-8 en Ezeiza.",
-    "generatedAt": "2026-11-18T10:29:33+00:00",
+    "title": "Briefing de aviación 2026-11-19",
+    "summary": "Jet 54 cerró en 376,3 centavos por galón al 17/11, 3,1 menos que el día anterior y casi 27 por debajo del 11/11. ATE-ANAC sigue hasta mañana con la retención en los bomberos. Aerolíneas Argentinas tuvo 68% del cabotaje en octubre, China Eastern llenó 85% a Auckland, El Al cambió horarios de su Tel Aviv-Buenos Aires del 29/11 y San Luis reclama el vuelo de los viernes.",
+    "generatedAt": "2026-11-19T10:34:27+00:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-11-11",
-      "precio_usd_gal": 4.035,
-      "cpg": 403.5,
-      "change_from_prev": 0.052,
+      "fecha": "2026-11-17",
+      "precio_usd_gal": 3.763,
+      "cpg": 376.3,
+      "change_from_prev": -0.031,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-18"
+      "updatedAt": "2026-11-19"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "San Luis Ahora",
+      "sourceHandle": "sanluisahora",
+      "sourceUrl": "https://sanluisahora.com/2026/11/19/poggi-solicito-aerolineas-argentinas-restauracion-vuelos-viernes/",
+      "publishedAt": "2026-11-19",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Poggi pidió a Aerolíneas Argentinas que restituya el vuelo de los viernes San Luis-Buenos Aires",
+      "summary": "El gobernador habló con Fabián Lombardo y teme que la suspensión transitoria se vuelva permanente en temporada de verano; el Ente de Desarrollo Aeronáutico ya lo había pedido por carta."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123080410531819614",
+      "publishedAt": "2026-11-18",
+      "airline": "El Al",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El Al cambia los horarios de Tel Aviv-Buenos Aires, que arranca el 29/11 con 787-9",
+      "summary": "Martes y domingo LY41 sale de Tel Aviv 23:55 y llega a Buenos Aires 11:30; lunes y miércoles el LY42 hace el regreso."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123186623865127245",
+      "publishedAt": "2026-11-18",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern: 85% de ocupación en Auckland-Buenos Aires durante octubre",
+      "summary": "Viajaron 3.742 pasajeros entre ida y vuelta."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123166394208629231",
+      "publishedAt": "2026-11-18",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas Argentinas tuvo 68% del cabotaje en octubre con 1.024.269 pasajeros",
+      "summary": "JetSMART Argentina quedó segunda con 30% (449.876) y Andes tercera con 1,4% (20.892)."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123137675544904113",
+      "publishedAt": "2026-11-18",
+      "airline": "varias",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aeropuertos Argentina presentó ampliaciones en Catamarca y Santiago del Estero: USD 4 millones en cada una",
+      "summary": "JetSMART se suma a Aerolíneas en Santiago del Estero desde el 10/12 según Aviacionline."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123245345672970350",
+      "publishedAt": "2026-11-19",
+      "airline": "varias",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Ezeiza: habilitada la calle Hotel hacia la pista 11-29 y Emirates ya la usa",
+      "summary": "Según el spotter, el Emirates está operando por esa calle de rodaje; la pista 11-29 recuperó sus 3.300 m el 11/11."
+    },
     {
       "channel": "web",
       "source": "REPORTUR",
