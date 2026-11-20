@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing de aviación 2026-11-19",
-    "summary": "Jet 54 cerró en 376,3 centavos por galón al 17/11, 3,1 menos que el día anterior y casi 27 por debajo del 11/11. ATE-ANAC sigue hasta mañana con la retención en los bomberos. Aerolíneas Argentinas tuvo 68% del cabotaje en octubre, China Eastern llenó 85% a Auckland, El Al cambió horarios de su Tel Aviv-Buenos Aires del 29/11 y San Luis reclama el vuelo de los viernes.",
-    "generatedAt": "2026-11-19T10:34:27+00:00",
+    "title": "Briefing aviación 2026-11-20",
+    "summary": "Plus Ultra: suspensión hasta el 15/12 y reclamos de reembolso; AR renovó IOSA; JOY suma A320 en wet lease; JetSMART debutó en San Juan; China Eastern ~96% de ocupación.",
+    "generatedAt": "2026-11-20T10:30:11+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,97 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "REPORTUR",
+      "sourceHandle": "reportur",
+      "sourceUrl": "https://www.reportur.com/argentina/2026/11/20/plus-ultra-despegar-fija-prioridad-segun-pasajero-y-crean-plataforma/",
+      "publishedAt": "2026-11-20",
+      "airline": "Plus Ultra",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Plus Ultra: Despegar prioriza a pasajeros varados y ~200 damnificados crean una plataforma",
+      "summary": "La suspensión de Buenos Aires-Madrid regiría en principio hasta el 15/12 mientras la aerolínea atraviesa un preconcurso de acreedores; los tickets posteriores siguen activos en sistemas y rechaza reembolsos."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/aerolineas-argentinas-renueva-la-certificacion-de-seguridad-operacional-de-iata_a6afeec70cd25aee28834a373",
+      "publishedAt": "2026-11-19",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas Argentinas renovó su registro IOSA de IATA",
+      "summary": "Auditoría Risk-Based con 924 requisitos; cuatro jornadas presenciales en Aeroparque y Ezeiza con cinco auditores; es la segunda vez bajo el esquema RBI."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/brasil/tras-cerrar-un-acuerdo-con-una-aerolinea-de-argentina-avion-express-brasil-recibe-un-segundo-a320_a6aff809dcd25aee288447a58",
+      "publishedAt": "2026-11-19",
+      "airline": "JOY Airline",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Avion Express Brasil recibe un segundo A320 por su acuerdo ACMI con JOY Airline",
+      "summary": "El contrato de un año arranca en diciembre y prevé un A320 de 180 asientos basado en Jujuy; JOY opera desde el 16/11 con CRJ200 (12 frecuencias semanales Jujuy-Aeroparque y 7 Jujuy-Córdoba)."
+    },
+    {
+      "channel": "x",
+      "source": "X @SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123567497047572499",
+      "publishedAt": "2026-11-20",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "China Eastern llena en noviembre Shanghai-Auckland-Buenos Aires",
+      "summary": "Vuelos del 12/11 (305 pax, 96,52%), 16/11 (302 pax, 95,57%) y 19/11 (306 pax) con ocupaciones cercanas al 96%."
+    },
+    {
+      "channel": "x",
+      "source": "X @SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123540448039875023",
+      "publishedAt": "2026-11-19",
+      "airline": "Copa Airlines",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Copa: 100% de ocupación en Tucumán-Panamá",
+      "summary": "Vuelo del 19/11 operado con el Boeing 737-800 HP-1832CMP."
+    },
+    {
+      "channel": "x",
+      "source": "X @SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123424939646591296",
+      "publishedAt": "2026-11-19",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JetSMART inauguró Buenos Aires-San Juan con 94% de ocupación",
+      "summary": "174 pasajeros en el vuelo inaugural, con el A320neo CC-DOA."
+    },
+    {
+      "channel": "x",
+      "source": "X @SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123472257833910323",
+      "publishedAt": "2026-11-19",
+      "airline": "Avianca",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Avianca inicia vuelos especiales Buenos Aires-Barranquilla por la final de la Sudamericana",
+      "summary": "Vuelos especiales por la final entre Boca y Atlético Mineiro."
+    },
     {
       "channel": "web",
       "source": "San Luis Ahora",
