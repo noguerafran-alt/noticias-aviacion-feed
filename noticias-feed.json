@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing aviación 2026-11-20",
-    "summary": "Plus Ultra: suspensión hasta el 15/12 y reclamos de reembolso; AR renovó IOSA; JOY suma A320 en wet lease; JetSMART debutó en San Juan; China Eastern ~96% de ocupación.",
-    "generatedAt": "2026-11-20T10:30:11+00:00",
+    "title": "Briefing aviación 2026-11-24",
+    "summary": "Edición de recupero: cubre desde el viernes 20 (ese mail no salió) hasta hoy. Lo central: ATE-ANAC anunció medidas de fuerza en todos los aeropuertos durante todo diciembre, Plus Ultra suspendió toda su operación, Aerolíneas vuelve a Mendoza-Mar del Plata desde el 3/1, JOY sale al mundo vía Euroairlines y KLM recorta una frecuencia a Buenos Aires para el invierno 2027. Jet 54 sin cierre nuevo: 376,3 cpg al 17/11.",
+    "generatedAt": "2026-11-24T10:26:45+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,110 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/los-trabajadores-de-ate-anac-convocan-a-medidas-de-fuerza-en-todos-los-aeropuertos-del-pais-durante-diciembre_a6b043928cd25aee288800fce",
+      "publishedAt": "2026-11-23",
+      "airline": "varias",
+      "segment": "regulación",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "ATE-ANAC anuncia medidas de fuerza en todos los aeropuertos del país del 1 al 31 de diciembre",
+      "summary": "El plan combina paro a la japonesa, retención de tareas y paro total, sin precisar días ni aeropuertos. Afecta control en plataforma, bomberos SSEI, sanidad e inspecciones; el control de tránsito (EANA) queda afuera. Reclaman paritaria, salarios congelados hace diez meses y financiamiento del organismo."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/espana/plus-ultra-suspende-toda-su-operacion-y-deja-de-volar-a-caracas_a6b046e3fcd25aee28882aa98",
+      "publishedAt": "2026-11-23",
+      "airline": "Plus Ultra",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Plus Ultra suspende toda su operación hasta nuevo aviso y deja de volar a Caracas",
+      "summary": "En preconcurso desde el 13/11, cortó sus dos últimas rutas regulares (Madrid-Caracas y Tenerife Norte-Maiquetía); la última rotación fue el domingo 22. Fuentes citadas por Okdiario estiman unos 80.000 pasajeros afectados sumando las cancelaciones previas a Lima y Buenos Aires."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/joy-airline-llegara-a-mas-de-100-mercados-globales-a-traves-de-euroairlines_a6b0436f6cd25aee2887fe504",
+      "publishedAt": "2026-11-23",
+      "airline": "JOY Airline",
+      "segment": "comercial",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JOY Airline venderá sus pasajes en más de 100 mercados a través de Euroairlines",
+      "summary": "Acuerdo de distribución por GDS y NDC con la placa IATA Q4-291. JOY opera desde Jujuy con CRJ-200 a Aeroparque (6 frecuencias semanales, 12 desde el 1/12) y a Córdoba (diaria)."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/colombia/latam-airlines-movilizo-a-mas-de-3-000-pasajeros-a-barranquilla-por-la-final-de-la-copa-sudamericana_a6b0441eacd25aee28880856b",
+      "publishedAt": "2026-11-23",
+      "airline": "LATAM",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "LATAM movilizó más de 3.000 pasajeros a Barranquilla por la final de la Copa Sudamericana",
+      "summary": "Vuelos especiales desde Brasil, Perú y Argentina para la final Boca-Atlético Mineiro del sábado 21."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2124550211783520296",
+      "publishedAt": "2026-11-22",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "Aerolíneas Argentinas vuelve a volar Mendoza-Mar del Plata desde el 3 de enero",
+      "summary": "Dos frecuencias semanales (miércoles y domingo) con Embraer 190."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123873565003129110",
+      "publishedAt": "2026-11-20",
+      "airline": "KLM",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "KLM baja de 7 a 6 vuelos semanales Amsterdam-Buenos Aires-Santiago entre mayo y septiembre de 2027",
+      "summary": "Sigue operando con Boeing 777-200ER."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2123752355740971486",
+      "publishedAt": "2026-11-20",
+      "airline": "JetSMART",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Ezeiza inauguró una nueva plataforma de estacionamiento con siete posiciones",
+      "summary": "Por ahora la usaron solo A320 y A321 de JetSMART."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2124992726085317043",
+      "publishedAt": "2026-11-23",
+      "airline": "China Eastern",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "China Eastern: 95,88% de ocupación en el vuelo Shanghai-Auckland-Buenos Aires del 23/11",
+      "summary": "303 pasajeros; la ruta no baja de 300 por vuelo."
+    },
     {
       "channel": "web",
       "source": "REPORTUR",
