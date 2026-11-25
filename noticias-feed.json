@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing aviación 2026-11-24",
-    "summary": "Edición de recupero: cubre desde el viernes 20 (ese mail no salió) hasta hoy. Lo central: ATE-ANAC anunció medidas de fuerza en todos los aeropuertos durante todo diciembre, Plus Ultra suspendió toda su operación, Aerolíneas vuelve a Mendoza-Mar del Plata desde el 3/1, JOY sale al mundo vía Euroairlines y KLM recorta una frecuencia a Buenos Aires para el invierno 2027. Jet 54 sin cierre nuevo: 376,3 cpg al 17/11.",
-    "generatedAt": "2026-11-24T10:26:45+00:00",
+    "title": "Briefing aviación 2026-11-25",
+    "summary": "Lo central de las últimas 24 horas: la ANAC eliminó el vencimiento del CESA de las aerolíneas, Argentina sumó acuerdos aerocomerciales con Japón y Australia, El Al debuta el domingo 30 en Ezeiza con el primer vuelo directo desde Israel y Concordia quedó sin vuelos nocturnos por un robo de cables. En Uruguay se presentó una nueva aerolínea de bandera con A220. Jet 54 sin cierre nuevo: 376,3 cpg al 17/11.",
+    "generatedAt": "2026-11-25T10:31:27+00:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,110 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-deja-de-exigir-la-renovacion-cada-dos-anos-del-cesa-a-las-aerolineas_a6b057333cd25aee2888f8428",
+      "publishedAt": "2026-11-24",
+      "airline": "varias",
+      "segment": "regulación",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "La ANAC elimina el vencimiento cada dos años del CESA de las aerolíneas",
+      "summary": "La Resolución 903/2026 (Boletín Oficial del martes) modifica la Parte 119 de las RAAC: los certificados de explotador pasan a no tener vencimiento y se reemplaza la renovación periódica por vigilancia continua. El CESA pierde vigencia si la empresa suspende sus operaciones regulares más de 60 días seguidos, y para volver tendrá que recertificar desde cero."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/argentina-firma-acuerdos-aerocomerciales-con-japon-y-australia-y-llega-a-74-convenios-bilaterales_a6b05de9fcd25aee2889a8f85",
+      "publishedAt": "2026-11-24",
+      "airline": "varias",
+      "segment": "regulación",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Argentina firma acuerdos aerocomerciales con Japón y Australia y llega a 74 convenios bilaterales",
+      "summary": "Firmados el 16/11 en Montreal (ATConf/7 de la OACI). Con Japón, las aerolíneas de ambos países podrán volar con aviones propios a cualquier aeropuerto salvo Haneda, aunque la distancia obliga a hacer escala. Con Australia, la capacidad de pasajeros crece en forma progresiva y la carga tendrá frecuencias ilimitadas."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/aeropuerto-argentino-se-queda-sin-vuelos-nocturnos-tras-el-robo-de-1-600-metros-de-cables_a6b05e742cd25aee2889b38a1",
+      "publishedAt": "2026-11-24",
+      "airline": "varias",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Concordia se queda sin vuelos nocturnos tras el robo de 1.600 metros de cable del balizamiento",
+      "summary": "El aeropuerto Comodoro Pierrestegui opera solo de día desde el miércoles 18, lo que también frena los vuelos sanitarios nocturnos. Investiga la Justicia Federal con la PSA; ya están en marcha la compra de cables y más vigilancia."
+    },
+    {
+      "channel": "web",
+      "source": "Infobae",
+      "sourceHandle": "infobae",
+      "sourceUrl": "https://www.infobae.com/economia/2026/11/24/comienza-a-volar-a-argentina-la-aerolinea-israeli-el-al-la-ruta-une-por-primera-vez-a-ambos-paises-de-forma-directa/",
+      "publishedAt": "2026-11-24",
+      "airline": "El Al",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "alta",
+      "title": "El Al aterriza el domingo 30/11 en Ezeiza con el primer vuelo directo Israel-Argentina",
+      "summary": "Dos frecuencias semanales con Boeing 787-9 de 271 asientos: salidas de Ezeiza lunes y miércoles, desde Tel Aviv domingos y martes, unas 15-16 horas de vuelo. Tarifas de lanzamiento desde USD 773 por tramo en turista."
+    },
+    {
+      "channel": "web",
+      "source": "La Prensa (Uruguay)",
+      "sourceHandle": "laprensa.com.uy",
+      "sourceUrl": "https://www.laprensa.com.uy/informaci%C3%B3n/nacionales/nueva-aerolinea-de-bandera-uruguaya-se-presento-en-carrasco",
+      "publishedAt": "2026-11-25",
+      "airline": "SUA",
+      "segment": "mercado",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Se presentó en Carrasco la Sociedad Uruguaya de Aviación, nueva aerolínea de bandera",
+      "summary": "Proyecta volar desde Montevideo a Argentina, Brasil, Chile y Paraguay con Airbus A220-300, en alianza con airBaltic y con capital privado saudí. Espera permisos de la Dinacia; arrancaría con seis aviones y llegaría a diez en tres años."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125369460399730960",
+      "publishedAt": "2026-11-24",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JetSMART ya mete A321neo de 240 asientos en Buenos Aires-San Juan",
+      "summary": "A cinco días de inaugurar la ruta, operó su primer vuelo con el avión más grande de su flota."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125280844893888939",
+      "publishedAt": "2026-11-24",
+      "airline": "Flybondi",
+      "segment": "flota",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Flybondi devolvió otro Boeing 737 a su propietario",
+      "summary": "El VQ-CDS llegó el 14/11 a Phoenix desde São José dos Campos; había volado para la low cost entre enero de 2022 y febrero de 2026."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125217333123895600",
+      "publishedAt": "2026-11-24",
+      "airline": "JetSMART",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "JetSMART opera un chárter Ushuaia-Florianópolis con A321neo",
+      "summary": "Posiblemente el primero de la compañía entre ambas ciudades."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
