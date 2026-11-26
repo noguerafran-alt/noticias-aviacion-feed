@@ -1,22 +1,113 @@
 {
   "briefing": {
-    "title": "Briefing aviación 2026-11-25",
-    "summary": "Lo central de las últimas 24 horas: la ANAC eliminó el vencimiento del CESA de las aerolíneas, Argentina sumó acuerdos aerocomerciales con Japón y Australia, El Al debuta el domingo 30 en Ezeiza con el primer vuelo directo desde Israel y Concordia quedó sin vuelos nocturnos por un robo de cables. En Uruguay se presentó una nueva aerolínea de bandera con A220. Jet 54 sin cierre nuevo: 376,3 cpg al 17/11.",
-    "generatedAt": "2026-11-25T10:31:27+00:00",
+    "title": "Briefing aviación 2026-11-26",
+    "summary": "Lo central de las últimas 24 horas: Copa cumple 27 años en Argentina y pasa los 95 vuelos semanales en el verano, Aerolíneas confirma Curaçao todo el año desde el 2/1 y GOL inaugura la triangular São Paulo-El Calafate-Ushuaia. En operaciones, un E190 de Aerolíneas volvió a Aeroparque por humo en cabina; la PSA indexó los aranceles de seguridad privada y el concurso de Flybondi sigue trabado. Jet 54 con cierre nuevo: 339,7 cpg al 24/11, 36,6 centavos abajo del 17/11.",
+    "generatedAt": "2026-11-26T10:32:18+00:00",
     "source": "automation"
   },
   "indicadores": {
     "jet54": {
-      "fecha": "2026-11-17",
-      "precio_usd_gal": 3.763,
-      "cpg": 376.3,
-      "change_from_prev": -0.031,
+      "fecha": "2026-11-24",
+      "precio_usd_gal": 3.397,
+      "cpg": 339.7,
+      "change_from_prev": 0.0,
       "platts": null,
       "source": "FRED DJFUELUSGULF / EIA",
-      "updatedAt": "2026-11-19"
+      "updatedAt": "2026-11-26"
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/aviacion-comercial/latinoamerica-y-el-caribe/argentina/copa-airlines-cumple-27-anos-en-argentina-y-superara-los-95-vuelos-semanales-durante-el-verano_a6b06e2965e0aceca40399c0d",
+      "publishedAt": "2026-11-25",
+      "airline": "Copa Airlines",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Copa Airlines cumple 27 años en Argentina y superará los 95 vuelos semanales en el verano",
+      "summary": "Hoy opera 41 frecuencias semanales Ezeiza-Panamá (eran 35 en abril de 2025) y vuela además desde Córdoba, Rosario, Mendoza, Salta y Tucumán. Para la temporada alta pasa los 95 vuelos semanales en el país, todo con Boeing 737."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/la-psa-ata-los-aranceles-de-la-seguridad-privada-aeroportuaria-a-la-tasa-de-seguridad-de-cabotaje_a6b06c53b5e0aceca40362c97",
+      "publishedAt": "2026-11-25",
+      "airline": "varias",
+      "segment": "regulación",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "La PSA ata los aranceles de la seguridad privada aeroportuaria a la tasa de seguridad de cabotaje",
+      "summary": "La Disposición 1305/2026 crea la Unidad Arancelaria Aeroportuaria, igual al 250% de la tasa de seguridad de cabotaje (hoy 4.312,50 pesos). El canon anual por servicio queda entre 1,7 y 11,2 millones de pesos y se ajusta solo cuando suba la tasa."
+    },
+    {
+      "channel": "web",
+      "source": "Clarín",
+      "sourceHandle": "clarin",
+      "sourceUrl": "https://www.clarin.com/sociedad/susto-aire-avion-iba-catamarca-volver-aeroparque-detectarse-humo-cabina_0_g6sedx9KDY.html",
+      "publishedAt": "2026-11-25",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Un E190 de Aerolíneas que iba a Catamarca volvió a Aeroparque por humo en cabina",
+      "summary": "El LV-CDZ despegó a las 16.43 del miércoles, a los 8 minutos se activó la alarma por humo y regresó tras 23 minutos de vuelo. Los pasajeros bajaron ilesos y el vuelo se reprogramó; la empresa no informó la causa."
+    },
+    {
+      "channel": "web",
+      "source": "La Nación",
+      "sourceHandle": "lanacion",
+      "sourceUrl": "https://www.lanacion.com.ar/economia/de-quien-es-flybondi-un-concurso-opaco-una-aerolinea-que-no-vuela-y-una-pregunta-basica-que-nadie-se-nid25112026/",
+      "publishedAt": "2026-11-25",
+      "airline": "Flybondi",
+      "segment": "corporativo",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Flybondi: casi dos meses después, el concurso preventivo sigue sin abrirse",
+      "summary": "Falta el acta de asamblea que ratifique el pedido, y el trámite choca con quién es el dueño real: COC Global (Scatturice) dice que la controla desde junio de 2025, pero Cartesian seguía en el directorio. La aerolínea no vuela y le queda un solo avión."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125688264354865542",
+      "publishedAt": "2026-11-25",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "Aerolíneas Argentinas volará a Curaçao todo el año",
+      "summary": "La ruta Buenos Aires-Willemstad arranca el 2 de enero con Boeing 737 MAX 8 y deja de ser solo de temporada."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125582822966444052",
+      "publishedAt": "2026-11-25",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "GOL inaugura hoy la triangular São Paulo-El Calafate-Ushuaia",
+      "summary": "El primer vuelo salió de São Paulo a las 00:10 del jueves 26; tres frecuencias semanales hasta fines de marzo de 2027."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125740592546160989",
+      "publishedAt": "2026-11-25",
+      "airline": "Aerolíneas Argentinas",
+      "segment": "operaciones",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Llegan los chárteres a Montevideo por la final de la Libertadores",
+      "summary": "Un E190 de Aerolíneas (LV-CPI) llevó al plantel de Estudiantes; en los próximos días habrá más vuelos chárter por la final con Palmeiras."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
