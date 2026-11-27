@@ -1,8 +1,8 @@
 {
   "briefing": {
-    "title": "Briefing aviación 2026-11-26",
-    "summary": "Lo central de las últimas 24 horas: Copa cumple 27 años en Argentina y pasa los 95 vuelos semanales en el verano, Aerolíneas confirma Curaçao todo el año desde el 2/1 y GOL inaugura la triangular São Paulo-El Calafate-Ushuaia. En operaciones, un E190 de Aerolíneas volvió a Aeroparque por humo en cabina; la PSA indexó los aranceles de seguridad privada y el concurso de Flybondi sigue trabado. Jet 54 con cierre nuevo: 339,7 cpg al 24/11, 36,6 centavos abajo del 17/11.",
-    "generatedAt": "2026-11-26T10:32:18+00:00",
+    "title": "Briefing aviación 2026-11-27",
+    "summary": "Lo central de las últimas 24 horas: Aeropuertos Argentina presentó las ampliaciones de Posadas (con manga y USD 5 millones) y Paraná (USD 1 millón), y la ANAC flexibilizó la exigencia de Jefe de Aeródromo con la Resolución 909/2026. En rutas, GOL llegó a El Calafate con 93% de ocupación y JetSMART arranca en una semana Buenos Aires-Maceió, mientras lanza su Black SMART con descuentos de hasta 63%. Jet 54 sin cierre nuevo: sigue en 339,7 cpg al 24/11.",
+    "generatedAt": "2026-11-27T07:29:25-03:00",
     "source": "automation"
   },
   "indicadores": {
@@ -17,6 +17,84 @@
     }
   },
   "noticias": [
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/el-aeropuerto-de-posadas-tendra-una-pasarela-telescopica-y-duplicara-la-capacidad-de-su-sala-de-embarque_a6b087d515e0aceca40575a47",
+      "publishedAt": "2026-11-26",
+      "airline": "Aeropuertos Argentina",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "El aeropuerto de Posadas tendrá manga y duplicará su sala de embarque",
+      "summary": "Aeropuertos Argentina presentó el jueves 26 la ampliación de la terminal de Posadas: suma 450 m2 (llega a 4.500 m2), duplica la sala de embarque e incorpora una pasarela telescópica. Inversión inicial de USD 5 millones; entre enero y octubre movió 209.554 pasajeros en 1.799 vuelos. Las obras arrancan en el primer trimestre de 2027."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/aeropuertos-argentina-invertira-usd-1-millon-para-duplicar-la-capacidad-de-embarque-en-parana_a6b08864c5e0aceca405815a5",
+      "publishedAt": "2026-11-26",
+      "airline": "Aeropuertos Argentina",
+      "segment": "infraestructura",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "Paraná: USD 1 millón para duplicar la sala de embarque",
+      "summary": "La sala de embarque del aeropuerto de Paraná pasa de 140 a 400 m2. Entre enero y octubre la terminal sumó 37.927 pasajeros en 505 vuelos (+6% pax, +14,8% vuelos). Es parte del plan de inversiones 2027-2031 de USD 1.500 millones por la extensión de la concesión."
+    },
+    {
+      "channel": "web",
+      "source": "Aviacionline",
+      "sourceHandle": "aviacionline",
+      "sourceUrl": "https://www.aviacionline.com/espanol/infraestructura/aeropuertos-de-latinoamerica-y-el-caribe/aeropuertos-argentinos/los-aerodromos-publicos-argentinos-podran-funcionar-sin-jefe-de-aerodromo-con-aval-de-la-anac_a6b07aa3b5e0aceca4048f73f",
+      "publishedAt": "2026-11-26",
+      "airline": "varias",
+      "segment": "regulación",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "ANAC: los aeródromos públicos podrán funcionar sin Jefe de Aeródromo",
+      "summary": "La Resolución 909/2026 elimina la obligación general de tener Jefe de Aeródromo; solo se exigirá según tráfico, transporte regular, tipo de aeronaves y ubicación. Si se elimina, el explotador designa un responsable propio con un plan de transición de hasta 90 días, y la ANAC puede restituir el puesto si hay riesgo operacional."
+    },
+    {
+      "channel": "web",
+      "source": "Entorno Económico",
+      "sourceHandle": "entornoeconomico",
+      "sourceUrl": "https://entornoeconomico.com.ar/negocios_empresas/38434-Black-SMART-JetSMART-sale-a-volar-con-descuentos-de-hasta-63-en-Argentina",
+      "publishedAt": "2026-11-26",
+      "airline": "JetSMART",
+      "segment": "comercial",
+      "fuelTag": "ninguno",
+      "relevance": "baja",
+      "title": "JetSMART lanza Black SMART con descuentos de hasta 63% en Argentina",
+      "summary": "La campaña, vigente desde el 25/11, ofrece hasta 63% de descuento en vuelos nacionales y 36% en internacionales para viajar entre diciembre de 2026 y junio de 2027: Resistencia desde $32.300, Asunción desde $186.100 y Medellín desde $398.900, finales."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2126006787102896141",
+      "publishedAt": "2026-11-26",
+      "airline": "JetSMART",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "JetSMART inaugura en una semana Buenos Aires-Maceió",
+      "summary": "JetSMART Argentina suma la ruta entre Buenos Aires y Maceió (Brasil), que arranca la semana próxima."
+    },
+    {
+      "channel": "x",
+      "source": "SpottersArg",
+      "sourceHandle": "SpottersArg",
+      "sourceUrl": "https://x.com/SpottersArg/status/2125968750679584768",
+      "publishedAt": "2026-11-26",
+      "airline": "GOL",
+      "segment": "rutas",
+      "fuelTag": "ninguno",
+      "relevance": "media",
+      "title": "GOL llegó a El Calafate con 165 pasajeros y 93% de ocupación",
+      "summary": "El vuelo inaugural desde São Paulo aterrizó el jueves 26 a las 05:51 en El Calafate; es el noveno destino de GOL en Argentina y sigue hacia Ushuaia."
+    },
     {
       "channel": "web",
       "source": "Aviacionline",
